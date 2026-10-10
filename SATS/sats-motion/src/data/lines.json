@@ -1,0 +1,2770 @@
+{
+ "vo1": {
+  "who": "narrator",
+  "text": "A flight lands. Within minutes, every consignee waiting on that cargo needs to know: it's here, and what to do next.",
+  "show": "A flight lands. Within minutes, every consignee waiting on that cargo needs to know: it's here, and what to do next.",
+  "dur": 8.88,
+  "words": [
+   {
+    "w": "A",
+    "s": 0.1,
+    "e": 0.2
+   },
+   {
+    "w": "flight",
+    "s": 0.2,
+    "e": 0.6
+   },
+   {
+    "w": "lands.",
+    "s": 0.681,
+    "e": 1.16
+   },
+   {
+    "w": "Within",
+    "s": 1.43,
+    "e": 1.88
+   },
+   {
+    "w": "minutes,",
+    "s": 1.881,
+    "e": 2.44
+   },
+   {
+    "w": "every",
+    "s": 2.713,
+    "e": 3.08
+   },
+   {
+    "w": "consignee",
+    "s": 3.082,
+    "e": 3.8
+   },
+   {
+    "w": "waiting",
+    "s": 3.801,
+    "e": 4.2
+   },
+   {
+    "w": "on",
+    "s": 4.28,
+    "e": 4.36
+   },
+   {
+    "w": "that",
+    "s": 4.44,
+    "e": 4.52
+   },
+   {
+    "w": "cargo",
+    "s": 4.52,
+    "e": 4.92
+   },
+   {
+    "w": "needs",
+    "s": 5.002,
+    "e": 5.4
+   },
+   {
+    "w": "to",
+    "s": 5.4,
+    "e": 5.48
+   },
+   {
+    "w": "know:",
+    "s": 5.561,
+    "e": 5.96
+   },
+   {
+    "w": "it's",
+    "s": 6.292,
+    "e": 6.6
+   },
+   {
+    "w": "here,",
+    "s": 6.602,
+    "e": 7.16
+   },
+   {
+    "w": "and",
+    "s": 7.383,
+    "e": 7.56
+   },
+   {
+    "w": "what",
+    "s": 7.561,
+    "e": 7.88
+   },
+   {
+    "w": "to",
+    "s": 7.96,
+    "e": 7.96
+   },
+   {
+    "w": "do",
+    "s": 8.04,
+    "e": 8.2
+   },
+   {
+    "w": "next.",
+    "s": 8.201,
+    "e": 8.84
+   }
+  ]
+ },
+ "vo2": {
+  "who": "narrator",
+  "text": "Today, that means phone calls, made one at a time. Calls that go unanswered. The same questions about status, pieces and collection, asked again and again. And very little left on record, once the call ends.",
+  "show": "Today, that means phone calls, made one at a time. Calls that go unanswered. The same questions about status, pieces and collection, asked again and again. And very little left on record, once the call ends.",
+  "dur": 16.72,
+  "words": [
+   {
+    "w": "Today,",
+    "s": 0.126,
+    "e": 0.76
+   },
+   {
+    "w": "that",
+    "s": 0.966,
+    "e": 1.16
+   },
+   {
+    "w": "means",
+    "s": 1.24,
+    "e": 1.48
+   },
+   {
+    "w": "phone",
+    "s": 1.48,
+    "e": 1.8
+   },
+   {
+    "w": "calls,",
+    "s": 1.801,
+    "e": 2.28
+   },
+   {
+    "w": "made",
+    "s": 2.438,
+    "e": 2.76
+   },
+   {
+    "w": "one",
+    "s": 2.761,
+    "e": 3.08
+   },
+   {
+    "w": "at",
+    "s": 3.16,
+    "e": 3.16
+   },
+   {
+    "w": "a",
+    "s": 3.24,
+    "e": 3.24
+   },
+   {
+    "w": "time.",
+    "s": 3.241,
+    "e": 3.8
+   },
+   {
+    "w": "Calls",
+    "s": 4.379,
+    "e": 4.92
+   },
+   {
+    "w": "that",
+    "s": 4.92,
+    "e": 5.08
+   },
+   {
+    "w": "go",
+    "s": 5.16,
+    "e": 5.32
+   },
+   {
+    "w": "unanswered.",
+    "s": 5.349,
+    "e": 6.2
+   },
+   {
+    "w": "The",
+    "s": 6.699,
+    "e": 6.92
+   },
+   {
+    "w": "same",
+    "s": 6.92,
+    "e": 7.24
+   },
+   {
+    "w": "questions",
+    "s": 7.321,
+    "e": 7.8
+   },
+   {
+    "w": "about",
+    "s": 7.8,
+    "e": 8.04
+   },
+   {
+    "w": "status,",
+    "s": 8.041,
+    "e": 8.76
+   },
+   {
+    "w": "pieces",
+    "s": 8.947,
+    "e": 9.56
+   },
+   {
+    "w": "and",
+    "s": 9.56,
+    "e": 9.72
+   },
+   {
+    "w": "collection,",
+    "s": 9.721,
+    "e": 10.44
+   },
+   {
+    "w": "asked",
+    "s": 10.688,
+    "e": 11.16
+   },
+   {
+    "w": "again",
+    "s": 11.185,
+    "e": 11.8
+   },
+   {
+    "w": "and",
+    "s": 11.887,
+    "e": 12.04
+   },
+   {
+    "w": "again.",
+    "s": 12.041,
+    "e": 12.52
+   },
+   {
+    "w": "And",
+    "s": 13.058,
+    "e": 13.32
+   },
+   {
+    "w": "very",
+    "s": 13.321,
+    "e": 13.8
+   },
+   {
+    "w": "little",
+    "s": 13.88,
+    "e": 14.04
+   },
+   {
+    "w": "left",
+    "s": 14.12,
+    "e": 14.36
+   },
+   {
+    "w": "on",
+    "s": 14.36,
+    "e": 14.52
+   },
+   {
+    "w": "record,",
+    "s": 14.521,
+    "e": 15
+   },
+   {
+    "w": "once",
+    "s": 15.179,
+    "e": 15.56
+   },
+   {
+    "w": "the",
+    "s": 15.64,
+    "e": 15.72
+   },
+   {
+    "w": "call",
+    "s": 15.72,
+    "e": 16.04
+   },
+   {
+    "w": "ends.",
+    "s": 16.043,
+    "e": 16.68
+   }
+  ]
+ },
+ "vo3": {
+  "who": "narrator",
+  "text": "This is SATS Import Tele Advice: an agentic AI voice workflow, built on Voicera C X dot A I, that makes those calls, answers those questions, and records every outcome.",
+  "show": "This is SATS Import Tele Advice: an agentic AI voice workflow, built on Voicera C X dot A I, that makes those calls, answers those questions, and records every outcome.",
+  "dur": 12.16,
+  "words": [
+   {
+    "w": "This",
+    "s": 0.134,
+    "e": 0.36
+   },
+   {
+    "w": "is",
+    "s": 0.44,
+    "e": 0.52
+   },
+   {
+    "w": "SATS",
+    "s": 0.52,
+    "e": 0.92
+   },
+   {
+    "w": "Import",
+    "s": 1.004,
+    "e": 1.32
+   },
+   {
+    "w": "Tele",
+    "s": 1.32,
+    "e": 1.64
+   },
+   {
+    "w": "Advice:",
+    "s": 1.641,
+    "e": 2.28
+   },
+   {
+    "w": "an",
+    "s": 2.53,
+    "e": 2.6
+   },
+   {
+    "w": "agentic",
+    "s": 2.607,
+    "e": 3.16
+   },
+   {
+    "w": "AI",
+    "s": 3.171,
+    "e": 3.56
+   },
+   {
+    "w": "voice",
+    "s": 3.561,
+    "e": 3.88
+   },
+   {
+    "w": "workflow,",
+    "s": 3.962,
+    "e": 4.6
+   },
+   {
+    "w": "built",
+    "s": 4.761,
+    "e": 5.08
+   },
+   {
+    "w": "on",
+    "s": 5.16,
+    "e": 5.24
+   },
+   {
+    "w": "Voicera",
+    "s": 5.242,
+    "e": 5.88
+   },
+   {
+    "w": "C",
+    "s": 5.962,
+    "e": 6.2
+   },
+   {
+    "w": "X",
+    "s": 6.281,
+    "e": 6.52
+   },
+   {
+    "w": "dot",
+    "s": 6.52,
+    "e": 6.76
+   },
+   {
+    "w": "A",
+    "s": 6.84,
+    "e": 7
+   },
+   {
+    "w": "I,",
+    "s": 7.0,
+    "e": 7.32
+   },
+   {
+    "w": "that",
+    "s": 7.637,
+    "e": 7.8
+   },
+   {
+    "w": "makes",
+    "s": 7.8,
+    "e": 8.04
+   },
+   {
+    "w": "those",
+    "s": 8.12,
+    "e": 8.28
+   },
+   {
+    "w": "calls,",
+    "s": 8.28,
+    "e": 8.76
+   },
+   {
+    "w": "answers",
+    "s": 8.973,
+    "e": 9.48
+   },
+   {
+    "w": "those",
+    "s": 9.56,
+    "e": 9.64
+   },
+   {
+    "w": "questions,",
+    "s": 9.641,
+    "e": 10.36
+   },
+   {
+    "w": "and",
+    "s": 10.512,
+    "e": 10.68
+   },
+   {
+    "w": "records",
+    "s": 10.762,
+    "e": 11.24
+   },
+   {
+    "w": "every",
+    "s": 11.242,
+    "e": 11.56
+   },
+   {
+    "w": "outcome.",
+    "s": 11.561,
+    "e": 12.04
+   }
+  ]
+ },
+ "vo4a": {
+  "who": "narrator",
+  "text": "Here is the complete workflow, on the Voicera C X Workflow Canvas.",
+  "show": "Here is the complete workflow, on the Voicera C X Workflow Canvas.",
+  "dur": 5.12,
+  "words": [
+   {
+    "w": "Here",
+    "s": 0.106,
+    "e": 0.44
+   },
+   {
+    "w": "is",
+    "s": 0.52,
+    "e": 0.6
+   },
+   {
+    "w": "the",
+    "s": 0.68,
+    "e": 0.68
+   },
+   {
+    "w": "complete",
+    "s": 0.681,
+    "e": 1.24
+   },
+   {
+    "w": "workflow,",
+    "s": 1.242,
+    "e": 1.96
+   },
+   {
+    "w": "on",
+    "s": 2.122,
+    "e": 2.28
+   },
+   {
+    "w": "the",
+    "s": 2.36,
+    "e": 2.44
+   },
+   {
+    "w": "Voicera",
+    "s": 2.442,
+    "e": 3.08
+   },
+   {
+    "w": "C",
+    "s": 3.162,
+    "e": 3.48
+   },
+   {
+    "w": "X",
+    "s": 3.481,
+    "e": 3.8
+   },
+   {
+    "w": "Workflow",
+    "s": 3.807,
+    "e": 4.36
+   },
+   {
+    "w": "Canvas.",
+    "s": 4.362,
+    "e": 5.08
+   }
+  ]
+ },
+ "vo4b": {
+  "who": "narrator",
+  "text": "It starts with an A T A event: the actual time of arrival. The trigger carries the air waybill, consignee, flight and arrival time, and starts the outbound call. The N O A Agent then speaks a personalised Notice of Arrival.",
+  "show": "It starts with an A T A event: the actual time of arrival. The trigger carries the air waybill, consignee, flight and arrival time, and starts the outbound call. The N O A Agent then speaks a personalised Notice of Arrival.",
+  "dur": 17.28,
+  "words": [
+   {
+    "w": "It",
+    "s": 0.109,
+    "e": 0.28
+   },
+   {
+    "w": "starts",
+    "s": 0.36,
+    "e": 0.68
+   },
+   {
+    "w": "with",
+    "s": 0.76,
+    "e": 0.84
+   },
+   {
+    "w": "an",
+    "s": 0.84,
+    "e": 0.92
+   },
+   {
+    "w": "A",
+    "s": 0.971,
+    "e": 1.32
+   },
+   {
+    "w": "T",
+    "s": 1.401,
+    "e": 1.64
+   },
+   {
+    "w": "A",
+    "s": 1.723,
+    "e": 1.96
+   },
+   {
+    "w": "event:",
+    "s": 1.962,
+    "e": 2.44
+   },
+   {
+    "w": "the",
+    "s": 2.68,
+    "e": 2.92
+   },
+   {
+    "w": "actual",
+    "s": 2.922,
+    "e": 3.48
+   },
+   {
+    "w": "time",
+    "s": 3.48,
+    "e": 3.8
+   },
+   {
+    "w": "of",
+    "s": 3.88,
+    "e": 3.88
+   },
+   {
+    "w": "arrival.",
+    "s": 3.881,
+    "e": 4.6
+   },
+   {
+    "w": "The",
+    "s": 5.033,
+    "e": 5.24
+   },
+   {
+    "w": "trigger",
+    "s": 5.321,
+    "e": 5.64
+   },
+   {
+    "w": "carries",
+    "s": 5.641,
+    "e": 6.12
+   },
+   {
+    "w": "the",
+    "s": 6.2,
+    "e": 6.28
+   },
+   {
+    "w": "air",
+    "s": 6.28,
+    "e": 6.52
+   },
+   {
+    "w": "waybill,",
+    "s": 6.521,
+    "e": 7.24
+   },
+   {
+    "w": "consignee,",
+    "s": 7.416,
+    "e": 8.44
+   },
+   {
+    "w": "flight",
+    "s": 8.669,
+    "e": 9.24
+   },
+   {
+    "w": "and",
+    "s": 9.321,
+    "e": 9.48
+   },
+   {
+    "w": "arrival",
+    "s": 9.48,
+    "e": 9.96
+   },
+   {
+    "w": "time,",
+    "s": 10.04,
+    "e": 10.36
+   },
+   {
+    "w": "and",
+    "s": 10.614,
+    "e": 10.84
+   },
+   {
+    "w": "starts",
+    "s": 10.84,
+    "e": 11.24
+   },
+   {
+    "w": "the",
+    "s": 11.32,
+    "e": 11.4
+   },
+   {
+    "w": "outbound",
+    "s": 11.484,
+    "e": 11.96
+   },
+   {
+    "w": "call.",
+    "s": 11.96,
+    "e": 12.44
+   },
+   {
+    "w": "The",
+    "s": 12.892,
+    "e": 13.08
+   },
+   {
+    "w": "N",
+    "s": 13.185,
+    "e": 13.4
+   },
+   {
+    "w": "O",
+    "s": 13.433,
+    "e": 13.72
+   },
+   {
+    "w": "A",
+    "s": 13.721,
+    "e": 13.96
+   },
+   {
+    "w": "Agent",
+    "s": 14.044,
+    "e": 14.44
+   },
+   {
+    "w": "then",
+    "s": 14.449,
+    "e": 14.68
+   },
+   {
+    "w": "speaks",
+    "s": 14.761,
+    "e": 15.08
+   },
+   {
+    "w": "a",
+    "s": 15.16,
+    "e": 15.16
+   },
+   {
+    "w": "personalised",
+    "s": 15.163,
+    "e": 16.12
+   },
+   {
+    "w": "Notice",
+    "s": 16.121,
+    "e": 16.52
+   },
+   {
+    "w": "of",
+    "s": 16.52,
+    "e": 16.6
+   },
+   {
+    "w": "Arrival.",
+    "s": 16.681,
+    "e": 17.24
+   }
+  ]
+ },
+ "vo4c": {
+  "who": "narrator",
+  "text": "From there, the Supervisor takes over. It listens to what the consignee needs, and routes the conversation down one of three paths.",
+  "show": "From there, the Supervisor takes over. It listens to what the consignee needs, and routes the conversation down one of three paths.",
+  "dur": 8.96,
+  "words": [
+   {
+    "w": "From",
+    "s": 0.18,
+    "e": 0.44
+   },
+   {
+    "w": "there,",
+    "s": 0.521,
+    "e": 0.92
+   },
+   {
+    "w": "the",
+    "s": 1.076,
+    "e": 1.24
+   },
+   {
+    "w": "Supervisor",
+    "s": 1.241,
+    "e": 1.88
+   },
+   {
+    "w": "takes",
+    "s": 1.96,
+    "e": 2.2
+   },
+   {
+    "w": "over.",
+    "s": 2.201,
+    "e": 2.68
+   },
+   {
+    "w": "It",
+    "s": 3.151,
+    "e": 3.4
+   },
+   {
+    "w": "listens",
+    "s": 3.4,
+    "e": 3.8
+   },
+   {
+    "w": "to",
+    "s": 3.88,
+    "e": 3.96
+   },
+   {
+    "w": "what",
+    "s": 4.04,
+    "e": 4.12
+   },
+   {
+    "w": "the",
+    "s": 4.12,
+    "e": 4.2
+   },
+   {
+    "w": "consignee",
+    "s": 4.281,
+    "e": 4.84
+   },
+   {
+    "w": "needs,",
+    "s": 4.844,
+    "e": 5.48
+   },
+   {
+    "w": "and",
+    "s": 5.705,
+    "e": 5.96
+   },
+   {
+    "w": "routes",
+    "s": 6.041,
+    "e": 6.28
+   },
+   {
+    "w": "the",
+    "s": 6.36,
+    "e": 6.44
+   },
+   {
+    "w": "conversation",
+    "s": 6.441,
+    "e": 7.16
+   },
+   {
+    "w": "down",
+    "s": 7.24,
+    "e": 7.48
+   },
+   {
+    "w": "one",
+    "s": 7.48,
+    "e": 7.64
+   },
+   {
+    "w": "of",
+    "s": 7.64,
+    "e": 7.8
+   },
+   {
+    "w": "three",
+    "s": 7.88,
+    "e": 8.2
+   },
+   {
+    "w": "paths.",
+    "s": 8.201,
+    "e": 8.84
+   }
+  ]
+ },
+ "vo4d": {
+  "who": "narrator",
+  "text": "Shipment questions go to the Shipment Agent, which answers only from four Cosys-ready integrations: shipment status, A W B details, flight details, and arrival details.",
+  "show": "Shipment questions go to the Shipment Agent, which answers only from four Cosys-ready integrations: shipment status, A W B details, flight details, and arrival details.",
+  "dur": 12.72,
+  "words": [
+   {
+    "w": "Shipment",
+    "s": 0.165,
+    "e": 0.68
+   },
+   {
+    "w": "questions",
+    "s": 0.681,
+    "e": 1.24
+   },
+   {
+    "w": "go",
+    "s": 1.32,
+    "e": 1.4
+   },
+   {
+    "w": "to",
+    "s": 1.48,
+    "e": 1.48
+   },
+   {
+    "w": "the",
+    "s": 1.56,
+    "e": 1.64
+   },
+   {
+    "w": "Shipment",
+    "s": 1.641,
+    "e": 2.04
+   },
+   {
+    "w": "Agent,",
+    "s": 2.044,
+    "e": 2.6
+   },
+   {
+    "w": "which",
+    "s": 2.764,
+    "e": 3.08
+   },
+   {
+    "w": "answers",
+    "s": 3.161,
+    "e": 3.48
+   },
+   {
+    "w": "only",
+    "s": 3.482,
+    "e": 3.8
+   },
+   {
+    "w": "from",
+    "s": 3.88,
+    "e": 4.04
+   },
+   {
+    "w": "four",
+    "s": 4.04,
+    "e": 4.44
+   },
+   {
+    "w": "Cosys-ready",
+    "s": 4.446,
+    "e": 5.24
+   },
+   {
+    "w": "integrations:",
+    "s": 5.244,
+    "e": 6.2
+   },
+   {
+    "w": "shipment",
+    "s": 6.51,
+    "e": 7
+   },
+   {
+    "w": "status,",
+    "s": 7.001,
+    "e": 7.72
+   },
+   {
+    "w": "A",
+    "s": 7.969,
+    "e": 8.2
+   },
+   {
+    "w": "W",
+    "s": 8.203,
+    "e": 8.68
+   },
+   {
+    "w": "B",
+    "s": 8.68,
+    "e": 8.92
+   },
+   {
+    "w": "details,",
+    "s": 8.921,
+    "e": 9.72
+   },
+   {
+    "w": "flight",
+    "s": 9.877,
+    "e": 10.28
+   },
+   {
+    "w": "details,",
+    "s": 10.281,
+    "e": 11
+   },
+   {
+    "w": "and",
+    "s": 11.245,
+    "e": 11.48
+   },
+   {
+    "w": "arrival",
+    "s": 11.56,
+    "e": 11.88
+   },
+   {
+    "w": "details.",
+    "s": 11.882,
+    "e": 12.6
+   }
+  ]
+ },
+ "vo4e": {
+  "who": "narrator",
+  "text": "Procedural questions go to the F A Q Agent, which draws only on approved SATS knowledge. And every answer is delivered through a single Response Node.",
+  "show": "Procedural questions go to the F A Q Agent, which draws only on approved SATS knowledge. And every answer is delivered through a single Response Node.",
+  "dur": 10.72,
+  "words": [
+   {
+    "w": "Procedural",
+    "s": 0.153,
+    "e": 0.84
+   },
+   {
+    "w": "questions",
+    "s": 0.841,
+    "e": 1.4
+   },
+   {
+    "w": "go",
+    "s": 1.401,
+    "e": 1.64
+   },
+   {
+    "w": "to",
+    "s": 1.72,
+    "e": 1.72
+   },
+   {
+    "w": "the",
+    "s": 1.72,
+    "e": 1.96
+   },
+   {
+    "w": "F",
+    "s": 2.046,
+    "e": 2.28
+   },
+   {
+    "w": "A",
+    "s": 2.319,
+    "e": 2.6
+   },
+   {
+    "w": "Q",
+    "s": 2.681,
+    "e": 3
+   },
+   {
+    "w": "Agent,",
+    "s": 3.002,
+    "e": 3.56
+   },
+   {
+    "w": "which",
+    "s": 3.705,
+    "e": 3.96
+   },
+   {
+    "w": "draws",
+    "s": 4.041,
+    "e": 4.36
+   },
+   {
+    "w": "only",
+    "s": 4.361,
+    "e": 4.68
+   },
+   {
+    "w": "on",
+    "s": 4.76,
+    "e": 4.84
+   },
+   {
+    "w": "approved",
+    "s": 4.841,
+    "e": 5.4
+   },
+   {
+    "w": "SATS",
+    "s": 5.48,
+    "e": 5.8
+   },
+   {
+    "w": "knowledge.",
+    "s": 5.802,
+    "e": 6.52
+   },
+   {
+    "w": "And",
+    "s": 6.957,
+    "e": 7.16
+   },
+   {
+    "w": "every",
+    "s": 7.26,
+    "e": 7.64
+   },
+   {
+    "w": "answer",
+    "s": 7.642,
+    "e": 8.12
+   },
+   {
+    "w": "is",
+    "s": 8.2,
+    "e": 8.28
+   },
+   {
+    "w": "delivered",
+    "s": 8.281,
+    "e": 8.76
+   },
+   {
+    "w": "through",
+    "s": 8.84,
+    "e": 8.92
+   },
+   {
+    "w": "a",
+    "s": 9.0,
+    "e": 9
+   },
+   {
+    "w": "single",
+    "s": 9.001,
+    "e": 9.64
+   },
+   {
+    "w": "Response",
+    "s": 9.641,
+    "e": 10.2
+   },
+   {
+    "w": "Node.",
+    "s": 10.281,
+    "e": 10.6
+   }
+  ]
+ },
+ "vo5": {
+  "who": "narrator",
+  "text": "Here's how a call unfolds.",
+  "show": "Here's how a call unfolds.",
+  "dur": 2.24,
+  "words": [
+   {
+    "w": "Here's",
+    "s": 0.189,
+    "e": 0.6
+   },
+   {
+    "w": "how",
+    "s": 0.68,
+    "e": 0.84
+   },
+   {
+    "w": "a",
+    "s": 0.92,
+    "e": 0.92
+   },
+   {
+    "w": "call",
+    "s": 0.92,
+    "e": 1.32
+   },
+   {
+    "w": "unfolds.",
+    "s": 1.326,
+    "e": 2.12
+   }
+  ]
+ },
+ "vo6a": {
+  "who": "narrator",
+  "text": "Not every call goes the same way.",
+  "show": "Not every call goes the same way.",
+  "dur": 2.16,
+  "words": [
+   {
+    "w": "Not",
+    "s": 0.116,
+    "e": 0.44
+   },
+   {
+    "w": "every",
+    "s": 0.52,
+    "e": 0.68
+   },
+   {
+    "w": "call",
+    "s": 0.76,
+    "e": 0.92
+   },
+   {
+    "w": "goes",
+    "s": 0.921,
+    "e": 1.24
+   },
+   {
+    "w": "the",
+    "s": 1.32,
+    "e": 1.32
+   },
+   {
+    "w": "same",
+    "s": 1.4,
+    "e": 1.64
+   },
+   {
+    "w": "way.",
+    "s": 1.641,
+    "e": 2.04
+   }
+  ]
+ },
+ "vo6b": {
+  "who": "narrator",
+  "text": "And if now isn't a good time...",
+  "show": "And if now isn't a good time...",
+  "dur": 2.32,
+  "words": [
+   {
+    "w": "And",
+    "s": 0.118,
+    "e": 0.28
+   },
+   {
+    "w": "if",
+    "s": 0.36,
+    "e": 0.44
+   },
+   {
+    "w": "now",
+    "s": 0.52,
+    "e": 0.76
+   },
+   {
+    "w": "isn't",
+    "s": 0.771,
+    "e": 1.24
+   },
+   {
+    "w": "a",
+    "s": 1.32,
+    "e": 1.32
+   },
+   {
+    "w": "good",
+    "s": 1.4,
+    "e": 1.56
+   },
+   {
+    "w": "time...",
+    "s": 1.562,
+    "e": 2.2
+   }
+  ]
+ },
+ "vo7": {
+  "who": "narrator",
+  "text": "If a call isn't answered, a dedicated path is configured to record the attempt, re-check the flight details, and return to the Supervisor for a second attempt.",
+  "show": "If a call isn't answered, a dedicated path is configured to record the attempt, re-check the flight details, and return to the Supervisor for a second attempt.",
+  "dur": 9.76,
+  "words": [
+   {
+    "w": "If",
+    "s": 0.111,
+    "e": 0.28
+   },
+   {
+    "w": "a",
+    "s": 0.36,
+    "e": 0.36
+   },
+   {
+    "w": "call",
+    "s": 0.44,
+    "e": 0.68
+   },
+   {
+    "w": "isn't",
+    "s": 0.681,
+    "e": 1
+   },
+   {
+    "w": "answered,",
+    "s": 1.001,
+    "e": 1.56
+   },
+   {
+    "w": "a",
+    "s": 1.918,
+    "e": 1.96
+   },
+   {
+    "w": "dedicated",
+    "s": 1.962,
+    "e": 2.6
+   },
+   {
+    "w": "path",
+    "s": 2.68,
+    "e": 3
+   },
+   {
+    "w": "is",
+    "s": 3.0,
+    "e": 3.16
+   },
+   {
+    "w": "configured",
+    "s": 3.161,
+    "e": 3.72
+   },
+   {
+    "w": "to",
+    "s": 3.8,
+    "e": 3.8
+   },
+   {
+    "w": "record",
+    "s": 3.801,
+    "e": 4.28
+   },
+   {
+    "w": "the",
+    "s": 4.36,
+    "e": 4.36
+   },
+   {
+    "w": "attempt,",
+    "s": 4.361,
+    "e": 5
+   },
+   {
+    "w": "re-check",
+    "s": 5.252,
+    "e": 5.8
+   },
+   {
+    "w": "the",
+    "s": 5.88,
+    "e": 5.88
+   },
+   {
+    "w": "flight",
+    "s": 5.96,
+    "e": 6.2
+   },
+   {
+    "w": "details,",
+    "s": 6.201,
+    "e": 6.84
+   },
+   {
+    "w": "and",
+    "s": 7.171,
+    "e": 7.24
+   },
+   {
+    "w": "return",
+    "s": 7.241,
+    "e": 7.72
+   },
+   {
+    "w": "to",
+    "s": 7.8,
+    "e": 7.8
+   },
+   {
+    "w": "the",
+    "s": 7.88,
+    "e": 7.88
+   },
+   {
+    "w": "Supervisor",
+    "s": 7.881,
+    "e": 8.6
+   },
+   {
+    "w": "for",
+    "s": 8.6,
+    "e": 8.68
+   },
+   {
+    "w": "a",
+    "s": 8.76,
+    "e": 8.76
+   },
+   {
+    "w": "second",
+    "s": 8.84,
+    "e": 9.08
+   },
+   {
+    "w": "attempt.",
+    "s": 9.083,
+    "e": 9.64
+   }
+  ]
+ },
+ "vo8": {
+  "who": "narrator",
+  "text": "When the call ends, Record Acknowledgement stores the result: acknowledged, declined, callback requested, or no answer. Call Intelligence then captures the intent, the outcome, the next action, the agents used, and a summary, so every call can be reviewed.",
+  "show": "When the call ends, Record Acknowledgement stores the result: acknowledged, declined, callback requested, or no answer. Call Intelligence then captures the intent, the outcome, the next action, the agents used, and a summary, so every call can be reviewed.",
+  "dur": 19.68,
+  "words": [
+   {
+    "w": "When",
+    "s": 0.142,
+    "e": 0.44
+   },
+   {
+    "w": "the",
+    "s": 0.52,
+    "e": 0.52
+   },
+   {
+    "w": "call",
+    "s": 0.52,
+    "e": 0.84
+   },
+   {
+    "w": "ends,",
+    "s": 0.923,
+    "e": 1.4
+   },
+   {
+    "w": "Record",
+    "s": 1.563,
+    "e": 2.04
+   },
+   {
+    "w": "Acknowledgement",
+    "s": 2.041,
+    "e": 2.6
+   },
+   {
+    "w": "stores",
+    "s": 2.68,
+    "e": 2.92
+   },
+   {
+    "w": "the",
+    "s": 2.92,
+    "e": 3.08
+   },
+   {
+    "w": "result:",
+    "s": 3.161,
+    "e": 3.56
+   },
+   {
+    "w": "acknowledged,",
+    "s": 4.012,
+    "e": 4.92
+   },
+   {
+    "w": "declined,",
+    "s": 5.089,
+    "e": 5.88
+   },
+   {
+    "w": "callback",
+    "s": 6.15,
+    "e": 6.68
+   },
+   {
+    "w": "requested,",
+    "s": 6.683,
+    "e": 7.48
+   },
+   {
+    "w": "or",
+    "s": 7.634,
+    "e": 7.88
+   },
+   {
+    "w": "no",
+    "s": 7.88,
+    "e": 8.12
+   },
+   {
+    "w": "answer.",
+    "s": 8.124,
+    "e": 8.76
+   },
+   {
+    "w": "Call",
+    "s": 9.497,
+    "e": 9.88
+   },
+   {
+    "w": "Intelligence",
+    "s": 9.882,
+    "e": 10.76
+   },
+   {
+    "w": "then",
+    "s": 10.845,
+    "e": 11
+   },
+   {
+    "w": "captures",
+    "s": 11.001,
+    "e": 11.48
+   },
+   {
+    "w": "the",
+    "s": 11.48,
+    "e": 11.64
+   },
+   {
+    "w": "intent,",
+    "s": 11.641,
+    "e": 12.28
+   },
+   {
+    "w": "the",
+    "s": 12.498,
+    "e": 12.6
+   },
+   {
+    "w": "outcome,",
+    "s": 12.602,
+    "e": 13.32
+   },
+   {
+    "w": "the",
+    "s": 13.561,
+    "e": 13.72
+   },
+   {
+    "w": "next",
+    "s": 13.8,
+    "e": 14.12
+   },
+   {
+    "w": "action,",
+    "s": 14.121,
+    "e": 14.68
+   },
+   {
+    "w": "the",
+    "s": 14.947,
+    "e": 15.16
+   },
+   {
+    "w": "agents",
+    "s": 15.162,
+    "e": 15.56
+   },
+   {
+    "w": "used,",
+    "s": 15.562,
+    "e": 16.12
+   },
+   {
+    "w": "and",
+    "s": 16.46,
+    "e": 16.68
+   },
+   {
+    "w": "a",
+    "s": 16.76,
+    "e": 16.76
+   },
+   {
+    "w": "summary,",
+    "s": 16.761,
+    "e": 17.4
+   },
+   {
+    "w": "so",
+    "s": 17.769,
+    "e": 17.96
+   },
+   {
+    "w": "every",
+    "s": 17.976,
+    "e": 18.36
+   },
+   {
+    "w": "call",
+    "s": 18.36,
+    "e": 18.76
+   },
+   {
+    "w": "can",
+    "s": 18.84,
+    "e": 18.92
+   },
+   {
+    "w": "be",
+    "s": 18.92,
+    "e": 19
+   },
+   {
+    "w": "reviewed.",
+    "s": 19.081,
+    "e": 19.56
+   }
+  ]
+ },
+ "vo9": {
+  "who": "narrator",
+  "text": "Every arrival, notified consistently. Every outcome, on record.",
+  "show": "Every arrival, notified consistently. Every outcome, on record.",
+  "dur": 5.92,
+  "words": [
+   {
+    "w": "Every",
+    "s": 0.114,
+    "e": 0.52
+   },
+   {
+    "w": "arrival,",
+    "s": 0.521,
+    "e": 1.24
+   },
+   {
+    "w": "notified",
+    "s": 1.388,
+    "e": 1.96
+   },
+   {
+    "w": "consistently.",
+    "s": 1.966,
+    "e": 2.92
+   },
+   {
+    "w": "Every",
+    "s": 3.568,
+    "e": 4.2
+   },
+   {
+    "w": "outcome,",
+    "s": 4.203,
+    "e": 4.92
+   },
+   {
+    "w": "on",
+    "s": 5.036,
+    "e": 5.24
+   },
+   {
+    "w": "record.",
+    "s": 5.241,
+    "e": 5.8
+   }
+  ]
+ },
+ "vo10": {
+  "who": "narrator",
+  "text": "SATS Import Tele Advice. Powered by Voicera C X dot A I.",
+  "show": "SATS Import Tele Advice. Powered by Voicera C X dot A I.",
+  "dur": 5.44,
+  "words": [
+   {
+    "w": "SATS",
+    "s": 0.106,
+    "e": 0.6
+   },
+   {
+    "w": "Import",
+    "s": 0.609,
+    "e": 1.08
+   },
+   {
+    "w": "Tele",
+    "s": 1.161,
+    "e": 1.48
+   },
+   {
+    "w": "Advice.",
+    "s": 1.481,
+    "e": 2.12
+   },
+   {
+    "w": "Powered",
+    "s": 2.416,
+    "e": 2.84
+   },
+   {
+    "w": "by",
+    "s": 2.84,
+    "e": 3
+   },
+   {
+    "w": "Voicera",
+    "s": 3.003,
+    "e": 3.72
+   },
+   {
+    "w": "C",
+    "s": 3.801,
+    "e": 4.04
+   },
+   {
+    "w": "X",
+    "s": 4.041,
+    "e": 4.36
+   },
+   {
+    "w": "dot",
+    "s": 4.362,
+    "e": 4.68
+   },
+   {
+    "w": "A",
+    "s": 4.76,
+    "e": 4.92
+   },
+   {
+    "w": "I.",
+    "s": 4.923,
+    "e": 5.32
+   }
+  ]
+ },
+ "A1": {
+  "who": "agent",
+  "text": "Hello, this is the SATS Import Tele Advice assistant, calling for Tan Freight Logistics. Am I speaking with Daniel?",
+  "show": "Hello, this is the SATS Import TeleAdvice assistant, calling for Tan Freight Logistics. Am I speaking with Daniel?",
+  "dur": 6.96,
+  "words": [
+   {
+    "w": "Hello,",
+    "s": 0.124,
+    "e": 0.68
+   },
+   {
+    "w": "this",
+    "s": 0.816,
+    "e": 1.08
+   },
+   {
+    "w": "is",
+    "s": 1.16,
+    "e": 1.16
+   },
+   {
+    "w": "the",
+    "s": 1.161,
+    "e": 1.48
+   },
+   {
+    "w": "SATS",
+    "s": 1.483,
+    "e": 1.88
+   },
+   {
+    "w": "Import",
+    "s": 1.882,
+    "e": 2.28
+   },
+   {
+    "w": "Tele",
+    "s": 2.281,
+    "e": 2.6
+   },
+   {
+    "w": "Advice",
+    "s": 2.68,
+    "e": 2.92
+   },
+   {
+    "w": "assistant,",
+    "s": 2.921,
+    "e": 3.48
+   },
+   {
+    "w": "calling",
+    "s": 3.681,
+    "e": 3.96
+   },
+   {
+    "w": "for",
+    "s": 3.96,
+    "e": 4.04
+   },
+   {
+    "w": "Tan",
+    "s": 4.041,
+    "e": 4.44
+   },
+   {
+    "w": "Freight",
+    "s": 4.52,
+    "e": 4.68
+   },
+   {
+    "w": "Logistics.",
+    "s": 4.681,
+    "e": 5.4
+   },
+   {
+    "w": "Am",
+    "s": 5.638,
+    "e": 5.8
+   },
+   {
+    "w": "I",
+    "s": 5.88,
+    "e": 5.88
+   },
+   {
+    "w": "speaking",
+    "s": 5.96,
+    "e": 6.28
+   },
+   {
+    "w": "with",
+    "s": 6.28,
+    "e": 6.36
+   },
+   {
+    "w": "Daniel?",
+    "s": 6.441,
+    "e": 6.84
+   }
+  ]
+ },
+ "A2": {
+  "who": "consignee",
+  "text": "Yes, speaking.",
+  "show": "Yes, speaking.",
+  "dur": 1.52,
+  "words": [
+   {
+    "w": "Yes,",
+    "s": 0.115,
+    "e": 0.6
+   },
+   {
+    "w": "speaking.",
+    "s": 0.771,
+    "e": 1.4
+   }
+  ]
+ },
+ "A3": {
+  "who": "agent",
+  "text": "Good afternoon, Daniel. This is a notice of arrival. Your shipment under air waybill ending four, five, one, eight, arrived today from Frankfurt at two thirty-two p.m.",
+  "show": "Good afternoon, Daniel. This is a notice of arrival. Your shipment under air waybill ending 4518 arrived today from Frankfurt at 2:32 p.m.",
+  "dur": 11.2,
+  "words": [
+   {
+    "w": "Good",
+    "s": 0.102,
+    "e": 0.28
+   },
+   {
+    "w": "afternoon,",
+    "s": 0.361,
+    "e": 0.92
+   },
+   {
+    "w": "Daniel.",
+    "s": 1.069,
+    "e": 1.56
+   },
+   {
+    "w": "This",
+    "s": 1.807,
+    "e": 2.04
+   },
+   {
+    "w": "is",
+    "s": 2.12,
+    "e": 2.12
+   },
+   {
+    "w": "a",
+    "s": 2.12,
+    "e": 2.2
+   },
+   {
+    "w": "notice",
+    "s": 2.2,
+    "e": 2.6
+   },
+   {
+    "w": "of",
+    "s": 2.68,
+    "e": 2.68
+   },
+   {
+    "w": "arrival.",
+    "s": 2.68,
+    "e": 3.32
+   },
+   {
+    "w": "Your",
+    "s": 3.559,
+    "e": 3.8
+   },
+   {
+    "w": "shipment",
+    "s": 3.801,
+    "e": 4.2
+   },
+   {
+    "w": "under",
+    "s": 4.28,
+    "e": 4.36
+   },
+   {
+    "w": "air",
+    "s": 4.44,
+    "e": 4.6
+   },
+   {
+    "w": "waybill",
+    "s": 4.601,
+    "e": 5.08
+   },
+   {
+    "w": "ending",
+    "s": 5.16,
+    "e": 5.4
+   },
+   {
+    "w": "four,",
+    "s": 5.402,
+    "e": 5.96
+   },
+   {
+    "w": "five,",
+    "s": 6.057,
+    "e": 6.68
+   },
+   {
+    "w": "one,",
+    "s": 6.812,
+    "e": 7.32
+   },
+   {
+    "w": "eight,",
+    "s": 7.537,
+    "e": 7.96
+   },
+   {
+    "w": "arrived",
+    "s": 8.251,
+    "e": 8.68
+   },
+   {
+    "w": "today",
+    "s": 8.68,
+    "e": 8.92
+   },
+   {
+    "w": "from",
+    "s": 9.0,
+    "e": 9.16
+   },
+   {
+    "w": "Frankfurt",
+    "s": 9.161,
+    "e": 9.64
+   },
+   {
+    "w": "at",
+    "s": 9.72,
+    "e": 9.8
+   },
+   {
+    "w": "two",
+    "s": 9.884,
+    "e": 10.12
+   },
+   {
+    "w": "thirty-two",
+    "s": 10.121,
+    "e": 10.68
+   },
+   {
+    "w": "p.m.",
+    "s": 10.681,
+    "e": 11.08
+   }
+  ]
+ },
+ "A4": {
+  "who": "consignee",
+  "text": "Okay, great. What's the current status?",
+  "show": "Okay, great. What's the current status?",
+  "dur": 2.88,
+  "words": [
+   {
+    "w": "Okay,",
+    "s": 0.119,
+    "e": 0.6
+   },
+   {
+    "w": "great.",
+    "s": 0.737,
+    "e": 1.16
+   },
+   {
+    "w": "What's",
+    "s": 1.473,
+    "e": 1.72
+   },
+   {
+    "w": "the",
+    "s": 1.72,
+    "e": 1.88
+   },
+   {
+    "w": "current",
+    "s": 1.883,
+    "e": 2.2
+   },
+   {
+    "w": "status?",
+    "s": 2.205,
+    "e": 2.76
+   }
+  ]
+ },
+ "A5": {
+  "who": "agent",
+  "text": "It's been received at the import terminal, and it's ready for collection.",
+  "show": "It's been received at the import terminal, and it's ready for collection.",
+  "dur": 3.68,
+  "words": [
+   {
+    "w": "It's",
+    "s": 0.098,
+    "e": 0.28
+   },
+   {
+    "w": "been",
+    "s": 0.36,
+    "e": 0.44
+   },
+   {
+    "w": "received",
+    "s": 0.441,
+    "e": 0.92
+   },
+   {
+    "w": "at",
+    "s": 1.0,
+    "e": 1
+   },
+   {
+    "w": "the",
+    "s": 1.08,
+    "e": 1.16
+   },
+   {
+    "w": "import",
+    "s": 1.167,
+    "e": 1.64
+   },
+   {
+    "w": "terminal,",
+    "s": 1.641,
+    "e": 2.12
+   },
+   {
+    "w": "and",
+    "s": 2.335,
+    "e": 2.44
+   },
+   {
+    "w": "it's",
+    "s": 2.52,
+    "e": 2.6
+   },
+   {
+    "w": "ready",
+    "s": 2.6,
+    "e": 2.84
+   },
+   {
+    "w": "for",
+    "s": 2.84,
+    "e": 3
+   },
+   {
+    "w": "collection.",
+    "s": 3.081,
+    "e": 3.56
+   }
+  ]
+ },
+ "A6": {
+  "who": "consignee",
+  "text": "How many pieces are under that A W B?",
+  "show": "How many pieces are under that AWB?",
+  "dur": 2.56,
+  "words": [
+   {
+    "w": "How",
+    "s": 0.111,
+    "e": 0.28
+   },
+   {
+    "w": "many",
+    "s": 0.36,
+    "e": 0.6
+   },
+   {
+    "w": "pieces",
+    "s": 0.603,
+    "e": 1
+   },
+   {
+    "w": "are",
+    "s": 1.08,
+    "e": 1.16
+   },
+   {
+    "w": "under",
+    "s": 1.241,
+    "e": 1.4
+   },
+   {
+    "w": "that",
+    "s": 1.401,
+    "e": 1.64
+   },
+   {
+    "w": "A",
+    "s": 1.672,
+    "e": 1.8
+   },
+   {
+    "w": "W",
+    "s": 1.886,
+    "e": 2.2
+   },
+   {
+    "w": "B?",
+    "s": 2.202,
+    "e": 2.52
+   }
+  ]
+ },
+ "A7": {
+  "who": "agent",
+  "text": "There are twelve pieces, with a total weight of four hundred and eighty-six kilograms.",
+  "show": "There are 12 pieces, with a total weight of 486 kilograms.",
+  "dur": 5.28,
+  "words": [
+   {
+    "w": "There",
+    "s": 0.141,
+    "e": 0.44
+   },
+   {
+    "w": "are",
+    "s": 0.44,
+    "e": 0.6
+   },
+   {
+    "w": "twelve",
+    "s": 0.682,
+    "e": 1.08
+   },
+   {
+    "w": "pieces,",
+    "s": 1.084,
+    "e": 1.64
+   },
+   {
+    "w": "with",
+    "s": 1.881,
+    "e": 1.96
+   },
+   {
+    "w": "a",
+    "s": 2.04,
+    "e": 2.04
+   },
+   {
+    "w": "total",
+    "s": 2.041,
+    "e": 2.36
+   },
+   {
+    "w": "weight",
+    "s": 2.36,
+    "e": 2.68
+   },
+   {
+    "w": "of",
+    "s": 2.76,
+    "e": 2.76
+   },
+   {
+    "w": "four",
+    "s": 2.761,
+    "e": 3.24
+   },
+   {
+    "w": "hundred",
+    "s": 3.241,
+    "e": 3.64
+   },
+   {
+    "w": "and",
+    "s": 3.72,
+    "e": 3.72
+   },
+   {
+    "w": "eighty-six",
+    "s": 3.83,
+    "e": 4.36
+   },
+   {
+    "w": "kilograms.",
+    "s": 4.362,
+    "e": 5.16
+   }
+  ]
+ },
+ "A8": {
+  "who": "consignee",
+  "text": "And what do I need to bring to collect it?",
+  "show": "And what do I need to bring to collect it?",
+  "dur": 2.48,
+  "words": [
+   {
+    "w": "And",
+    "s": 0.111,
+    "e": 0.36
+   },
+   {
+    "w": "what",
+    "s": 0.44,
+    "e": 0.52
+   },
+   {
+    "w": "do",
+    "s": 0.599,
+    "e": 0.6
+   },
+   {
+    "w": "I",
+    "s": 0.6,
+    "e": 0.76
+   },
+   {
+    "w": "need",
+    "s": 0.84,
+    "e": 0.92
+   },
+   {
+    "w": "to",
+    "s": 1.001,
+    "e": 1.08
+   },
+   {
+    "w": "bring",
+    "s": 1.086,
+    "e": 1.56
+   },
+   {
+    "w": "to",
+    "s": 1.616,
+    "e": 1.8
+   },
+   {
+    "w": "collect",
+    "s": 1.882,
+    "e": 2.2
+   },
+   {
+    "w": "it?",
+    "s": 2.28,
+    "e": 2.36
+   }
+  ]
+ },
+ "A9": {
+  "who": "agent",
+  "text": "Please bring the delivery order, your company's authorisation letter, and a valid photo I D.",
+  "show": "Please bring the delivery order, your company's authorisation letter, and a valid photo ID.",
+  "dur": 4.96,
+  "words": [
+   {
+    "w": "Please",
+    "s": 0.129,
+    "e": 0.44
+   },
+   {
+    "w": "bring",
+    "s": 0.52,
+    "e": 0.68
+   },
+   {
+    "w": "the",
+    "s": 0.76,
+    "e": 0.76
+   },
+   {
+    "w": "delivery",
+    "s": 0.76,
+    "e": 1.16
+   },
+   {
+    "w": "order,",
+    "s": 1.16,
+    "e": 1.48
+   },
+   {
+    "w": "your",
+    "s": 1.745,
+    "e": 1.8
+   },
+   {
+    "w": "company's",
+    "s": 1.88,
+    "e": 2.2
+   },
+   {
+    "w": "authorisation",
+    "s": 2.201,
+    "e": 2.84
+   },
+   {
+    "w": "letter,",
+    "s": 2.84,
+    "e": 3.24
+   },
+   {
+    "w": "and",
+    "s": 3.47,
+    "e": 3.56
+   },
+   {
+    "w": "a",
+    "s": 3.64,
+    "e": 3.64
+   },
+   {
+    "w": "valid",
+    "s": 3.641,
+    "e": 4.04
+   },
+   {
+    "w": "photo",
+    "s": 4.12,
+    "e": 4.36
+   },
+   {
+    "w": "I",
+    "s": 4.44,
+    "e": 4.52
+   },
+   {
+    "w": "D.",
+    "s": 4.521,
+    "e": 4.84
+   }
+  ]
+ },
+ "A10": {
+  "who": "consignee",
+  "text": "Alright, noted. Thanks.",
+  "show": "Alright, noted. Thanks.",
+  "dur": 2.08,
+  "words": [
+   {
+    "w": "Alright,",
+    "s": 0.119,
+    "e": 0.52
+   },
+   {
+    "w": "noted.",
+    "s": 0.657,
+    "e": 1.16
+   },
+   {
+    "w": "Thanks.",
+    "s": 1.414,
+    "e": 1.96
+   }
+  ]
+ },
+ "A11": {
+  "who": "agent",
+  "text": "You're welcome, Daniel. I've recorded your acknowledgement. Have a good day.",
+  "show": "You're welcome, Daniel. I've recorded your acknowledgement. Have a good day.",
+  "dur": 4.08,
+  "words": [
+   {
+    "w": "You're",
+    "s": 0.102,
+    "e": 0.28
+   },
+   {
+    "w": "welcome,",
+    "s": 0.361,
+    "e": 0.76
+   },
+   {
+    "w": "Daniel.",
+    "s": 0.894,
+    "e": 1.32
+   },
+   {
+    "w": "I've",
+    "s": 1.563,
+    "e": 1.8
+   },
+   {
+    "w": "recorded",
+    "s": 1.881,
+    "e": 2.2
+   },
+   {
+    "w": "your",
+    "s": 2.2,
+    "e": 2.28
+   },
+   {
+    "w": "acknowledgement.",
+    "s": 2.281,
+    "e": 2.92
+   },
+   {
+    "w": "Have",
+    "s": 3.285,
+    "e": 3.48
+   },
+   {
+    "w": "a",
+    "s": 3.56,
+    "e": 3.56
+   },
+   {
+    "w": "good",
+    "s": 3.56,
+    "e": 3.72
+   },
+   {
+    "w": "day.",
+    "s": 3.8,
+    "e": 3.96
+   }
+  ]
+ },
+ "B1": {
+  "who": "consignee",
+  "text": "Actually, can I speak to someone at the counter?",
+  "show": "Actually, can I speak to someone at the counter?",
+  "dur": 3.52,
+  "words": [
+   {
+    "w": "Actually,",
+    "s": 0.129,
+    "e": 0.76
+   },
+   {
+    "w": "can",
+    "s": 1.151,
+    "e": 1.48
+   },
+   {
+    "w": "I",
+    "s": 1.56,
+    "e": 1.56
+   },
+   {
+    "w": "speak",
+    "s": 1.561,
+    "e": 1.88
+   },
+   {
+    "w": "to",
+    "s": 1.88,
+    "e": 1.96
+   },
+   {
+    "w": "someone",
+    "s": 2.042,
+    "e": 2.44
+   },
+   {
+    "w": "at",
+    "s": 2.476,
+    "e": 2.68
+   },
+   {
+    "w": "the",
+    "s": 2.76,
+    "e": 2.76
+   },
+   {
+    "w": "counter?",
+    "s": 2.765,
+    "e": 3.4
+   }
+  ]
+ },
+ "B2": {
+  "who": "agent",
+  "text": "Of course. I'll transfer you now, and pass on your air waybill details, so you won't need to repeat them.",
+  "show": "Of course. I'll transfer you now, and pass on your air waybill details, so you won't need to repeat them.",
+  "dur": 5.76,
+  "words": [
+   {
+    "w": "Of",
+    "s": 0.097,
+    "e": 0.2
+   },
+   {
+    "w": "course.",
+    "s": 0.281,
+    "e": 0.68
+   },
+   {
+    "w": "I'll",
+    "s": 0.857,
+    "e": 1.08
+   },
+   {
+    "w": "transfer",
+    "s": 1.16,
+    "e": 1.48
+   },
+   {
+    "w": "you",
+    "s": 1.48,
+    "e": 1.64
+   },
+   {
+    "w": "now,",
+    "s": 1.72,
+    "e": 2.04
+   },
+   {
+    "w": "and",
+    "s": 2.19,
+    "e": 2.36
+   },
+   {
+    "w": "pass",
+    "s": 2.44,
+    "e": 2.6
+   },
+   {
+    "w": "on",
+    "s": 2.68,
+    "e": 2.76
+   },
+   {
+    "w": "your",
+    "s": 2.76,
+    "e": 2.92
+   },
+   {
+    "w": "air",
+    "s": 3.0,
+    "e": 3.16
+   },
+   {
+    "w": "waybill",
+    "s": 3.161,
+    "e": 3.64
+   },
+   {
+    "w": "details,",
+    "s": 3.641,
+    "e": 4.2
+   },
+   {
+    "w": "so",
+    "s": 4.435,
+    "e": 4.52
+   },
+   {
+    "w": "you",
+    "s": 4.6,
+    "e": 4.68
+   },
+   {
+    "w": "won't",
+    "s": 4.68,
+    "e": 4.92
+   },
+   {
+    "w": "need",
+    "s": 5.0,
+    "e": 5
+   },
+   {
+    "w": "to",
+    "s": 5.08,
+    "e": 5.08
+   },
+   {
+    "w": "repeat",
+    "s": 5.161,
+    "e": 5.48
+   },
+   {
+    "w": "them.",
+    "s": 5.48,
+    "e": 5.64
+   }
+  ]
+ },
+ "B3": {
+  "who": "counter",
+  "text": "Import counter, good afternoon.",
+  "show": "Import counter, good afternoon.",
+  "dur": 2.4,
+  "words": [
+   {
+    "w": "Import",
+    "s": 0.118,
+    "e": 0.6
+   },
+   {
+    "w": "counter,",
+    "s": 0.601,
+    "e": 1.16
+   },
+   {
+    "w": "good",
+    "s": 1.446,
+    "e": 1.64
+   },
+   {
+    "w": "afternoon.",
+    "s": 1.642,
+    "e": 2.28
+   }
+  ]
+ },
+ "C1": {
+  "who": "consignee",
+  "text": "I'm driving right now. Can you call me back after five?",
+  "show": "I'm driving right now. Can you call me back after five?",
+  "dur": 3.6,
+  "words": [
+   {
+    "w": "I'm",
+    "s": 0.102,
+    "e": 0.28
+   },
+   {
+    "w": "driving",
+    "s": 0.286,
+    "e": 0.84
+   },
+   {
+    "w": "right",
+    "s": 0.92,
+    "e": 1.08
+   },
+   {
+    "w": "now.",
+    "s": 1.085,
+    "e": 1.56
+   },
+   {
+    "w": "Can",
+    "s": 1.727,
+    "e": 1.96
+   },
+   {
+    "w": "you",
+    "s": 2.04,
+    "e": 2.04
+   },
+   {
+    "w": "call",
+    "s": 2.121,
+    "e": 2.28
+   },
+   {
+    "w": "me",
+    "s": 2.28,
+    "e": 2.36
+   },
+   {
+    "w": "back",
+    "s": 2.444,
+    "e": 2.76
+   },
+   {
+    "w": "after",
+    "s": 2.849,
+    "e": 3.08
+   },
+   {
+    "w": "five?",
+    "s": 3.081,
+    "e": 3.56
+   }
+  ]
+ },
+ "C2": {
+  "who": "agent",
+  "text": "No problem. I've noted your request for a callback after five p.m. Drive safely.",
+  "show": "No problem. I've noted your request for a callback after 5 p.m. Drive safely.",
+  "dur": 5.28,
+  "words": [
+   {
+    "w": "No",
+    "s": 0.144,
+    "e": 0.44
+   },
+   {
+    "w": "problem.",
+    "s": 0.441,
+    "e": 1
+   },
+   {
+    "w": "I've",
+    "s": 1.461,
+    "e": 1.64
+   },
+   {
+    "w": "noted",
+    "s": 1.64,
+    "e": 1.88
+   },
+   {
+    "w": "your",
+    "s": 1.88,
+    "e": 2.04
+   },
+   {
+    "w": "request",
+    "s": 2.12,
+    "e": 2.44
+   },
+   {
+    "w": "for",
+    "s": 2.44,
+    "e": 2.6
+   },
+   {
+    "w": "a",
+    "s": 2.68,
+    "e": 2.68
+   },
+   {
+    "w": "callback",
+    "s": 2.761,
+    "e": 3.16
+   },
+   {
+    "w": "after",
+    "s": 3.161,
+    "e": 3.48
+   },
+   {
+    "w": "five",
+    "s": 3.561,
+    "e": 3.88
+   },
+   {
+    "w": "p.m.",
+    "s": 3.883,
+    "e": 4.28
+   },
+   {
+    "w": "Drive",
+    "s": 4.36,
+    "e": 4.6
+   },
+   {
+    "w": "safely.",
+    "s": 4.6,
+    "e": 5.16
+   }
+  ]
+ }
+}

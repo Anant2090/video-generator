@@ -1,0 +1,6736 @@
+[
+ {
+  "text": " We",
+  "startMs": 10020,
+  "endMs": 10180,
+  "timestampMs": 10020,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 10180,
+  "endMs": 10420,
+  "timestampMs": 10180,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 10420,
+  "endMs": 10580,
+  "timestampMs": 10420,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 10580,
+  "endMs": 10820,
+  "timestampMs": 10580,
+  "confidence": null
+ },
+ {
+  "text": " login",
+  "startMs": 10820,
+  "endMs": 11270,
+  "timestampMs": 10820,
+  "confidence": null
+ },
+ {
+  "text": " page",
+  "startMs": 11270,
+  "endMs": 11540,
+  "timestampMs": 11270,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 11540,
+  "endMs": 11720,
+  "timestampMs": 11540,
+  "confidence": null
+ },
+ {
+  "text": " VEE Dialer,",
+  "startMs": 11720,
+  "endMs": 12300,
+  "timestampMs": 11720,
+  "confidence": null
+ },
+ {
+  "text": " Voicera",
+  "startMs": 12300,
+  "endMs": 13060,
+  "timestampMs": 12300,
+  "confidence": null
+ },
+ {
+  "text": " CX's",
+  "startMs": 13060,
+  "endMs": 13340,
+  "timestampMs": 13060,
+  "confidence": null
+ },
+ {
+  "text": " AI",
+  "startMs": 13340,
+  "endMs": 13610,
+  "timestampMs": 13340,
+  "confidence": null
+ },
+ {
+  "text": " powered",
+  "startMs": 13610,
+  "endMs": 14240,
+  "timestampMs": 13610,
+  "confidence": null
+ },
+ {
+  "text": " outbound",
+  "startMs": 14240,
+  "endMs": 14980,
+  "timestampMs": 14240,
+  "confidence": null
+ },
+ {
+  "text": " dialer.",
+  "startMs": 14980,
+  "endMs": 15920,
+  "timestampMs": 14980,
+  "confidence": null
+ },
+ {
+  "text": " First,",
+  "startMs": 15920,
+  "endMs": 16480,
+  "timestampMs": 15920,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 16480,
+  "endMs": 16670,
+  "timestampMs": 16480,
+  "confidence": null
+ },
+ {
+  "text": " enter",
+  "startMs": 16670,
+  "endMs": 17060,
+  "timestampMs": 16670,
+  "confidence": null
+ },
+ {
+  "text": " our",
+  "startMs": 17060,
+  "endMs": 17300,
+  "timestampMs": 17060,
+  "confidence": null
+ },
+ {
+  "text": " username",
+  "startMs": 17300,
+  "endMs": 18020,
+  "timestampMs": 17300,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 18020,
+  "endMs": 18180,
+  "timestampMs": 18020,
+  "confidence": null
+ },
+ {
+  "text": " password",
+  "startMs": 18180,
+  "endMs": 18860,
+  "timestampMs": 18180,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 18860,
+  "endMs": 19120,
+  "timestampMs": 18860,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 19120,
+  "endMs": 19430,
+  "timestampMs": 19120,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 19430,
+  "endMs": 19600,
+  "timestampMs": 19430,
+  "confidence": null
+ },
+ {
+  "text": " sign",
+  "startMs": 19600,
+  "endMs": 19890,
+  "timestampMs": 19600,
+  "confidence": null
+ },
+ {
+  "text": " in.",
+  "startMs": 19890,
+  "endMs": 20300,
+  "timestampMs": 19890,
+  "confidence": null
+ },
+ {
+  "text": " Once",
+  "startMs": 20300,
+  "endMs": 20590,
+  "timestampMs": 20300,
+  "confidence": null
+ },
+ {
+  "text": " logged",
+  "startMs": 20590,
+  "endMs": 21030,
+  "timestampMs": 20590,
+  "confidence": null
+ },
+ {
+  "text": " in,",
+  "startMs": 21030,
+  "endMs": 21310,
+  "timestampMs": 21030,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 21310,
+  "endMs": 21450,
+  "timestampMs": 21310,
+  "confidence": null
+ },
+ {
+  "text": " land",
+  "startMs": 21450,
+  "endMs": 21740,
+  "timestampMs": 21450,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 21740,
+  "endMs": 21880,
+  "timestampMs": 21740,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 21880,
+  "endMs": 22100,
+  "timestampMs": 21880,
+  "confidence": null
+ },
+ {
+  "text": " dashboard,",
+  "startMs": 22100,
+  "endMs": 22960,
+  "timestampMs": 22100,
+  "confidence": null
+ },
+ {
+  "text": " which",
+  "startMs": 22960,
+  "endMs": 23400,
+  "timestampMs": 22960,
+  "confidence": null
+ },
+ {
+  "text": " provides",
+  "startMs": 23400,
+  "endMs": 23900,
+  "timestampMs": 23400,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 23900,
+  "endMs": 24040,
+  "timestampMs": 23900,
+  "confidence": null
+ },
+ {
+  "text": " overview",
+  "startMs": 24040,
+  "endMs": 24660,
+  "timestampMs": 24040,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 24660,
+  "endMs": 24800,
+  "timestampMs": 24660,
+  "confidence": null
+ },
+ {
+  "text": " our",
+  "startMs": 24800,
+  "endMs": 24990,
+  "timestampMs": 24800,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 24990,
+  "endMs": 25510,
+  "timestampMs": 24990,
+  "confidence": null
+ },
+ {
+  "text": " performance",
+  "startMs": 25510,
+  "endMs": 26230,
+  "timestampMs": 25510,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 26230,
+  "endMs": 26480,
+  "timestampMs": 26230,
+  "confidence": null
+ },
+ {
+  "text": " calling",
+  "startMs": 26480,
+  "endMs": 26910,
+  "timestampMs": 26480,
+  "confidence": null
+ },
+ {
+  "text": " activity.",
+  "startMs": 26910,
+  "endMs": 27620,
+  "timestampMs": 26910,
+  "confidence": null
+ },
+ {
+  "text": " Here,",
+  "startMs": 27930,
+  "endMs": 28080,
+  "timestampMs": 27930,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 28080,
+  "endMs": 28280,
+  "timestampMs": 28080,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 28280,
+  "endMs": 28460,
+  "timestampMs": 28280,
+  "confidence": null
+ },
+ {
+  "text": " see",
+  "startMs": 28460,
+  "endMs": 28710,
+  "timestampMs": 28460,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 28710,
+  "endMs": 28760,
+  "timestampMs": 28710,
+  "confidence": null
+ },
+ {
+  "text": " summary",
+  "startMs": 28760,
+  "endMs": 29300,
+  "timestampMs": 28760,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 29300,
+  "endMs": 29490,
+  "timestampMs": 29300,
+  "confidence": null
+ },
+ {
+  "text": " list-based",
+  "startMs": 29490,
+  "endMs": 30210,
+  "timestampMs": 29490,
+  "confidence": null
+ },
+ {
+  "text": " campaigns,",
+  "startMs": 30210,
+  "endMs": 31120,
+  "timestampMs": 30210,
+  "confidence": null
+ },
+ {
+  "text": " preview",
+  "startMs": 31120,
+  "endMs": 31680,
+  "timestampMs": 31120,
+  "confidence": null
+ },
+ {
+  "text": " campaigns,",
+  "startMs": 31680,
+  "endMs": 32450,
+  "timestampMs": 31680,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 32450,
+  "endMs": 32700,
+  "timestampMs": 32450,
+  "confidence": null
+ },
+ {
+  "text": " total",
+  "startMs": 32700,
+  "endMs": 33040,
+  "timestampMs": 32700,
+  "confidence": null
+ },
+ {
+  "text": " inbound",
+  "startMs": 33040,
+  "endMs": 33560,
+  "timestampMs": 33040,
+  "confidence": null
+ },
+ {
+  "text": " calls.",
+  "startMs": 33560,
+  "endMs": 34180,
+  "timestampMs": 33560,
+  "confidence": null
+ },
+ {
+  "text": " As",
+  "startMs": 34180,
+  "endMs": 34350,
+  "timestampMs": 34180,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 34350,
+  "endMs": 34550,
+  "timestampMs": 34350,
+  "confidence": null
+ },
+ {
+  "text": " scroll",
+  "startMs": 34550,
+  "endMs": 35040,
+  "timestampMs": 34550,
+  "confidence": null
+ },
+ {
+  "text": " down,",
+  "startMs": 35040,
+  "endMs": 35580,
+  "timestampMs": 35040,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 35580,
+  "endMs": 35720,
+  "timestampMs": 35580,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 35720,
+  "endMs": 35930,
+  "timestampMs": 35720,
+  "confidence": null
+ },
+ {
+  "text": " explore",
+  "startMs": 35930,
+  "endMs": 36420,
+  "timestampMs": 35930,
+  "confidence": null
+ },
+ {
+  "text": " graphical",
+  "startMs": 36420,
+  "endMs": 37050,
+  "timestampMs": 36420,
+  "confidence": null
+ },
+ {
+  "text": " representations",
+  "startMs": 37050,
+  "endMs": 38180,
+  "timestampMs": 37050,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 38180,
+  "endMs": 38320,
+  "timestampMs": 38180,
+  "confidence": null
+ },
+ {
+  "text": " list-based",
+  "startMs": 38320,
+  "endMs": 39010,
+  "timestampMs": 38320,
+  "confidence": null
+ },
+ {
+  "text": " campaigns,",
+  "startMs": 39010,
+  "endMs": 39890,
+  "timestampMs": 39010,
+  "confidence": null
+ },
+ {
+  "text": " inbound",
+  "startMs": 39890,
+  "endMs": 40430,
+  "timestampMs": 39890,
+  "confidence": null
+ },
+ {
+  "text": " calls,",
+  "startMs": 40430,
+  "endMs": 40920,
+  "timestampMs": 40430,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 40920,
+  "endMs": 41130,
+  "timestampMs": 40920,
+  "confidence": null
+ },
+ {
+  "text": " preview",
+  "startMs": 41130,
+  "endMs": 41630,
+  "timestampMs": 41130,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 41630,
+  "endMs": 42200,
+  "timestampMs": 41630,
+  "confidence": null
+ },
+ {
+  "text": " activity.",
+  "startMs": 42200,
+  "endMs": 43000,
+  "timestampMs": 42200,
+  "confidence": null
+ },
+ {
+  "text": " The",
+  "startMs": 43000,
+  "endMs": 43260,
+  "timestampMs": 43000,
+  "confidence": null
+ },
+ {
+  "text": " dashboard",
+  "startMs": 43260,
+  "endMs": 43970,
+  "timestampMs": 43260,
+  "confidence": null
+ },
+ {
+  "text": " also",
+  "startMs": 43970,
+  "endMs": 44250,
+  "timestampMs": 43970,
+  "confidence": null
+ },
+ {
+  "text": " displays",
+  "startMs": 44250,
+  "endMs": 44960,
+  "timestampMs": 44250,
+  "confidence": null
+ },
+ {
+  "text": " agent",
+  "startMs": 44960,
+  "endMs": 45300,
+  "timestampMs": 44960,
+  "confidence": null
+ },
+ {
+  "text": " details,",
+  "startMs": 45300,
+  "endMs": 46040,
+  "timestampMs": 45300,
+  "confidence": null
+ },
+ {
+  "text": " live",
+  "startMs": 46040,
+  "endMs": 46350,
+  "timestampMs": 46040,
+  "confidence": null
+ },
+ {
+  "text": " call",
+  "startMs": 46350,
+  "endMs": 46660,
+  "timestampMs": 46350,
+  "confidence": null
+ },
+ {
+  "text": " information,",
+  "startMs": 46660,
+  "endMs": 47670,
+  "timestampMs": 46660,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 47670,
+  "endMs": 47900,
+  "timestampMs": 47670,
+  "confidence": null
+ },
+ {
+  "text": " live",
+  "startMs": 47900,
+  "endMs": 48210,
+  "timestampMs": 47900,
+  "confidence": null
+ },
+ {
+  "text": " call",
+  "startMs": 48210,
+  "endMs": 48570,
+  "timestampMs": 48210,
+  "confidence": null
+ },
+ {
+  "text": " agent",
+  "startMs": 48570,
+  "endMs": 48910,
+  "timestampMs": 48570,
+  "confidence": null
+ },
+ {
+  "text": " reports.",
+  "startMs": 48910,
+  "endMs": 49740,
+  "timestampMs": 48910,
+  "confidence": null
+ },
+ {
+  "text": " These",
+  "startMs": 49740,
+  "endMs": 50220,
+  "timestampMs": 49740,
+  "confidence": null
+ },
+ {
+  "text": " insights",
+  "startMs": 50220,
+  "endMs": 50920,
+  "timestampMs": 50220,
+  "confidence": null
+ },
+ {
+  "text": " help",
+  "startMs": 50920,
+  "endMs": 51120,
+  "timestampMs": 50920,
+  "confidence": null
+ },
+ {
+  "text": " us",
+  "startMs": 51120,
+  "endMs": 51300,
+  "timestampMs": 51120,
+  "confidence": null
+ },
+ {
+  "text": " monitor",
+  "startMs": 51300,
+  "endMs": 51840,
+  "timestampMs": 51300,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 51840,
+  "endMs": 52330,
+  "timestampMs": 51840,
+  "confidence": null
+ },
+ {
+  "text": " progress,",
+  "startMs": 52330,
+  "endMs": 53000,
+  "timestampMs": 52330,
+  "confidence": null
+ },
+ {
+  "text": " agent",
+  "startMs": 53000,
+  "endMs": 53340,
+  "timestampMs": 53000,
+  "confidence": null
+ },
+ {
+  "text": " availability,",
+  "startMs": 53340,
+  "endMs": 54450,
+  "timestampMs": 53340,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 54450,
+  "endMs": 54680,
+  "timestampMs": 54450,
+  "confidence": null
+ },
+ {
+  "text": " overall",
+  "startMs": 54680,
+  "endMs": 55140,
+  "timestampMs": 54680,
+  "confidence": null
+ },
+ {
+  "text": " calling",
+  "startMs": 55270,
+  "endMs": 55610,
+  "timestampMs": 55270,
+  "confidence": null
+ },
+ {
+  "text": " activity",
+  "startMs": 55610,
+  "endMs": 56220,
+  "timestampMs": 55610,
+  "confidence": null
+ },
+ {
+  "text": " from",
+  "startMs": 56220,
+  "endMs": 56470,
+  "timestampMs": 56220,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 56470,
+  "endMs": 56480,
+  "timestampMs": 56470,
+  "confidence": null
+ },
+ {
+  "text": " single",
+  "startMs": 56480,
+  "endMs": 56890,
+  "timestampMs": 56480,
+  "confidence": null
+ },
+ {
+  "text": " interface.",
+  "startMs": 56890,
+  "endMs": 57740,
+  "timestampMs": 56890,
+  "confidence": null
+ },
+ {
+  "text": " Next,",
+  "startMs": 57740,
+  "endMs": 58200,
+  "timestampMs": 57740,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 58200,
+  "endMs": 58360,
+  "timestampMs": 58200,
+  "confidence": null
+ },
+ {
+  "text": " navigate",
+  "startMs": 58360,
+  "endMs": 59070,
+  "timestampMs": 58360,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 59070,
+  "endMs": 59160,
+  "timestampMs": 59070,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 59160,
+  "endMs": 59340,
+  "timestampMs": 59160,
+  "confidence": null
+ },
+ {
+  "text": " list-based",
+  "startMs": 59340,
+  "endMs": 59970,
+  "timestampMs": 59340,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 59970,
+  "endMs": 60440,
+  "timestampMs": 59970,
+  "confidence": null
+ },
+ {
+  "text": " section",
+  "startMs": 60440,
+  "endMs": 61140,
+  "timestampMs": 60440,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 61140,
+  "endMs": 61330,
+  "timestampMs": 61140,
+  "confidence": null
+ },
+ {
+  "text": " explore",
+  "startMs": 61330,
+  "endMs": 61770,
+  "timestampMs": 61330,
+  "confidence": null
+ },
+ {
+  "text": " campaign-specific",
+  "startMs": 61770,
+  "endMs": 63000,
+  "timestampMs": 61770,
+  "confidence": null
+ },
+ {
+  "text": " performance.",
+  "startMs": 63000,
+  "endMs": 63980,
+  "timestampMs": 63000,
+  "confidence": null
+ },
+ {
+  "text": " Here,",
+  "startMs": 63980,
+  "endMs": 64490,
+  "timestampMs": 63980,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 64490,
+  "endMs": 64660,
+  "timestampMs": 64490,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 64660,
+  "endMs": 64910,
+  "timestampMs": 64660,
+  "confidence": null
+ },
+ {
+  "text": " view",
+  "startMs": 64910,
+  "endMs": 65320,
+  "timestampMs": 64910,
+  "confidence": null
+ },
+ {
+  "text": " outbound",
+  "startMs": 65320,
+  "endMs": 65840,
+  "timestampMs": 65320,
+  "confidence": null
+ },
+ {
+  "text": " calling",
+  "startMs": 65840,
+  "endMs": 66180,
+  "timestampMs": 65840,
+  "confidence": null
+ },
+ {
+  "text": " details",
+  "startMs": 66180,
+  "endMs": 66840,
+  "timestampMs": 66180,
+  "confidence": null
+ },
+ {
+  "text": " across",
+  "startMs": 66840,
+  "endMs": 67280,
+  "timestampMs": 66840,
+  "confidence": null
+ },
+ {
+  "text": " different",
+  "startMs": 67280,
+  "endMs": 67850,
+  "timestampMs": 67280,
+  "confidence": null
+ },
+ {
+  "text": " communication",
+  "startMs": 67850,
+  "endMs": 68680,
+  "timestampMs": 67850,
+  "confidence": null
+ },
+ {
+  "text": " channels",
+  "startMs": 68680,
+  "endMs": 69200,
+  "timestampMs": 68680,
+  "confidence": null
+ },
+ {
+  "text": " along",
+  "startMs": 69200,
+  "endMs": 69630,
+  "timestampMs": 69200,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 69630,
+  "endMs": 70030,
+  "timestampMs": 69630,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 70030,
+  "endMs": 70260,
+  "timestampMs": 70030,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 70260,
+  "endMs": 70910,
+  "timestampMs": 70260,
+  "confidence": null
+ },
+ {
+  "text": " lead",
+  "startMs": 70910,
+  "endMs": 71260,
+  "timestampMs": 70910,
+  "confidence": null
+ },
+ {
+  "text": " report.",
+  "startMs": 71260,
+  "endMs": 72040,
+  "timestampMs": 71260,
+  "confidence": null
+ },
+ {
+  "text": " Under",
+  "startMs": 72040,
+  "endMs": 72710,
+  "timestampMs": 72040,
+  "confidence": null
+ },
+ {
+  "text": " preview",
+  "startMs": 72710,
+  "endMs": 73100,
+  "timestampMs": 72710,
+  "confidence": null
+ },
+ {
+  "text": " campaigns,",
+  "startMs": 73100,
+  "endMs": 74120,
+  "timestampMs": 73100,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 74120,
+  "endMs": 74220,
+  "timestampMs": 74120,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 74220,
+  "endMs": 74440,
+  "timestampMs": 74220,
+  "confidence": null
+ },
+ {
+  "text": " access",
+  "startMs": 74440,
+  "endMs": 74940,
+  "timestampMs": 74440,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 74940,
+  "endMs": 75220,
+  "timestampMs": 74940,
+  "confidence": null
+ },
+ {
+  "text": " overview",
+  "startMs": 75220,
+  "endMs": 75800,
+  "timestampMs": 75220,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 75800,
+  "endMs": 75950,
+  "timestampMs": 75800,
+  "confidence": null
+ },
+ {
+  "text": " outbound",
+  "startMs": 75950,
+  "endMs": 76550,
+  "timestampMs": 75950,
+  "confidence": null
+ },
+ {
+  "text": " call",
+  "startMs": 76550,
+  "endMs": 76840,
+  "timestampMs": 76550,
+  "confidence": null
+ },
+ {
+  "text": " activity",
+  "startMs": 76840,
+  "endMs": 77660,
+  "timestampMs": 76840,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 77660,
+  "endMs": 77700,
+  "timestampMs": 77660,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 77700,
+  "endMs": 78040,
+  "timestampMs": 77700,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 78040,
+  "endMs": 78480,
+  "timestampMs": 78040,
+  "confidence": null
+ },
+ {
+  "text": " lead",
+  "startMs": 78480,
+  "endMs": 78780,
+  "timestampMs": 78480,
+  "confidence": null
+ },
+ {
+  "text": " report.",
+  "startMs": 78780,
+  "endMs": 79500,
+  "timestampMs": 78780,
+  "confidence": null
+ },
+ {
+  "text": " Before",
+  "startMs": 79500,
+  "endMs": 80320,
+  "timestampMs": 79500,
+  "confidence": null
+ },
+ {
+  "text": " launching",
+  "startMs": 80320,
+  "endMs": 80800,
+  "timestampMs": 80320,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 80800,
+  "endMs": 80860,
+  "timestampMs": 80800,
+  "confidence": null
+ },
+ {
+  "text": " campaign,",
+  "startMs": 80860,
+  "endMs": 81740,
+  "timestampMs": 80860,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 81740,
+  "endMs": 81910,
+  "timestampMs": 81740,
+  "confidence": null
+ },
+ {
+  "text": " first",
+  "startMs": 81910,
+  "endMs": 82240,
+  "timestampMs": 81910,
+  "confidence": null
+ },
+ {
+  "text": " need",
+  "startMs": 82240,
+  "endMs": 82530,
+  "timestampMs": 82240,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 82530,
+  "endMs": 82670,
+  "timestampMs": 82530,
+  "confidence": null
+ },
+ {
+  "text": " create",
+  "startMs": 82670,
+  "endMs": 83140,
+  "timestampMs": 82670,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 83140,
+  "endMs": 83260,
+  "timestampMs": 83140,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 83260,
+  "endMs": 83880,
+  "timestampMs": 83260,
+  "confidence": null
+ },
+ {
+  "text": " list",
+  "startMs": 83880,
+  "endMs": 84260,
+  "timestampMs": 83880,
+  "confidence": null
+ },
+ {
+  "text": " containing",
+  "startMs": 84330,
+  "endMs": 85140,
+  "timestampMs": 84330,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 85140,
+  "endMs": 85400,
+  "timestampMs": 85140,
+  "confidence": null
+ },
+ {
+  "text": " customers",
+  "startMs": 85400,
+  "endMs": 86190,
+  "timestampMs": 85400,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 86190,
+  "endMs": 86350,
+  "timestampMs": 86190,
+  "confidence": null
+ },
+ {
+  "text": " want",
+  "startMs": 86350,
+  "endMs": 86520,
+  "timestampMs": 86350,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 86520,
+  "endMs": 87320,
+  "timestampMs": 86520,
+  "confidence": null
+ },
+ {
+  "text": " reach.",
+  "startMs": 87320,
+  "endMs": 87620,
+  "timestampMs": 87320,
+  "confidence": null
+ },
+ {
+  "text": " To",
+  "startMs": 87620,
+  "endMs": 88040,
+  "timestampMs": 87620,
+  "confidence": null
+ },
+ {
+  "text": " create",
+  "startMs": 88040,
+  "endMs": 89310,
+  "timestampMs": 88040,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 89310,
+  "endMs": 90770,
+  "timestampMs": 89310,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 90770,
+  "endMs": 91000,
+  "timestampMs": 90770,
+  "confidence": null
+ },
+ {
+  "text": " list,",
+  "startMs": 91000,
+  "endMs": 92280,
+  "timestampMs": 91000,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 92280,
+  "endMs": 92410,
+  "timestampMs": 92280,
+  "confidence": null
+ },
+ {
+  "text": " navigate",
+  "startMs": 92410,
+  "endMs": 93040,
+  "timestampMs": 92410,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 93040,
+  "endMs": 93090,
+  "timestampMs": 93040,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 93090,
+  "endMs": 93300,
+  "timestampMs": 93090,
+  "confidence": null
+ },
+ {
+  "text": " resources",
+  "startMs": 93300,
+  "endMs": 93920,
+  "timestampMs": 93300,
+  "confidence": null
+ },
+ {
+  "text": " section",
+  "startMs": 93920,
+  "endMs": 94420,
+  "timestampMs": 93920,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 94420,
+  "endMs": 94650,
+  "timestampMs": 94420,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 94650,
+  "endMs": 94960,
+  "timestampMs": 94650,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 94960,
+  "endMs": 95090,
+  "timestampMs": 94960,
+  "confidence": null
+ },
+ {
+  "text": " \"Manage",
+  "startMs": 95090,
+  "endMs": 95550,
+  "timestampMs": 95090,
+  "confidence": null
+ },
+ {
+  "text": " Contact",
+  "startMs": 95550,
+  "endMs": 96020,
+  "timestampMs": 95550,
+  "confidence": null
+ },
+ {
+  "text": " List\".",
+  "startMs": 96020,
+  "endMs": 96600,
+  "timestampMs": 96020,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 96600,
+  "endMs": 96880,
+  "timestampMs": 96600,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 96880,
+  "endMs": 97360,
+  "timestampMs": 96880,
+  "confidence": null
+ },
+ {
+  "text": " \"Add",
+  "startMs": 97360,
+  "endMs": 97630,
+  "timestampMs": 97360,
+  "confidence": null
+ },
+ {
+  "text": " Contact",
+  "startMs": 97630,
+  "endMs": 98260,
+  "timestampMs": 97630,
+  "confidence": null
+ },
+ {
+  "text": " List\"",
+  "startMs": 98260,
+  "endMs": 98780,
+  "timestampMs": 98260,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 98780,
+  "endMs": 99010,
+  "timestampMs": 98780,
+  "confidence": null
+ },
+ {
+  "text": " enter",
+  "startMs": 99010,
+  "endMs": 99280,
+  "timestampMs": 99010,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 99280,
+  "endMs": 99370,
+  "timestampMs": 99280,
+  "confidence": null
+ },
+ {
+  "text": " name",
+  "startMs": 99370,
+  "endMs": 99750,
+  "timestampMs": 99370,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 99750,
+  "endMs": 100090,
+  "timestampMs": 99750,
+  "confidence": null
+ },
+ {
+  "text": " description",
+  "startMs": 100090,
+  "endMs": 101070,
+  "timestampMs": 100090,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 101070,
+  "endMs": 101350,
+  "timestampMs": 101070,
+  "confidence": null
+ },
+ {
+  "text": " our",
+  "startMs": 101350,
+  "endMs": 101670,
+  "timestampMs": 101350,
+  "confidence": null
+ },
+ {
+  "text": " demo",
+  "startMs": 101670,
+  "endMs": 102010,
+  "timestampMs": 101670,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 102010,
+  "endMs": 102670,
+  "timestampMs": 102010,
+  "confidence": null
+ },
+ {
+  "text": " list.",
+  "startMs": 102670,
+  "endMs": 103080,
+  "timestampMs": 102670,
+  "confidence": null
+ },
+ {
+  "text": " Next,",
+  "startMs": 114920,
+  "endMs": 115350,
+  "timestampMs": 114920,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 115350,
+  "endMs": 115500,
+  "timestampMs": 115350,
+  "confidence": null
+ },
+ {
+  "text": " choose",
+  "startMs": 115500,
+  "endMs": 115930,
+  "timestampMs": 115500,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 115930,
+  "endMs": 116150,
+  "timestampMs": 115930,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 116150,
+  "endMs": 116740,
+  "timestampMs": 116150,
+  "confidence": null
+ },
+ {
+  "text": " list",
+  "startMs": 116740,
+  "endMs": 117010,
+  "timestampMs": 116740,
+  "confidence": null
+ },
+ {
+  "text": " type",
+  "startMs": 117010,
+  "endMs": 117330,
+  "timestampMs": 117010,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 117330,
+  "endMs": 117440,
+  "timestampMs": 117330,
+  "confidence": null
+ },
+ {
+  "text": " want",
+  "startMs": 117440,
+  "endMs": 117810,
+  "timestampMs": 117440,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 117810,
+  "endMs": 118010,
+  "timestampMs": 117810,
+  "confidence": null
+ },
+ {
+  "text": " support.",
+  "startMs": 118010,
+  "endMs": 118720,
+  "timestampMs": 118010,
+  "confidence": null
+ },
+ {
+  "text": " Calls,",
+  "startMs": 118720,
+  "endMs": 119410,
+  "timestampMs": 118720,
+  "confidence": null
+ },
+ {
+  "text": " SMS,",
+  "startMs": 119410,
+  "endMs": 119880,
+  "timestampMs": 119410,
+  "confidence": null
+ },
+ {
+  "text": " email,",
+  "startMs": 119880,
+  "endMs": 120550,
+  "timestampMs": 119880,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 120550,
+  "endMs": 120850,
+  "timestampMs": 120550,
+  "confidence": null
+ },
+ {
+  "text": " WhatsApp.",
+  "startMs": 120850,
+  "endMs": 121980,
+  "timestampMs": 120850,
+  "confidence": null
+ },
+ {
+  "text": " Once",
+  "startMs": 121980,
+  "endMs": 122220,
+  "timestampMs": 121980,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 122220,
+  "endMs": 122370,
+  "timestampMs": 122220,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 122370,
+  "endMs": 122600,
+  "timestampMs": 122370,
+  "confidence": null
+ },
+ {
+  "text": " selected",
+  "startMs": 122600,
+  "endMs": 123120,
+  "timestampMs": 122600,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 123120,
+  "endMs": 123250,
+  "timestampMs": 123120,
+  "confidence": null
+ },
+ {
+  "text": " required",
+  "startMs": 123250,
+  "endMs": 123740,
+  "timestampMs": 123250,
+  "confidence": null
+ },
+ {
+  "text": " channels,",
+  "startMs": 123740,
+  "endMs": 124280,
+  "timestampMs": 123740,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 124280,
+  "endMs": 124430,
+  "timestampMs": 124280,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 124430,
+  "endMs": 124850,
+  "timestampMs": 124430,
+  "confidence": null
+ },
+ {
+  "text": " \"Save\"",
+  "startMs": 124850,
+  "endMs": 125390,
+  "timestampMs": 124850,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 125390,
+  "endMs": 125400,
+  "timestampMs": 125390,
+  "confidence": null
+ },
+ {
+  "text": " create",
+  "startMs": 125400,
+  "endMs": 125870,
+  "timestampMs": 125400,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 125870,
+  "endMs": 126070,
+  "timestampMs": 125870,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 126070,
+  "endMs": 126590,
+  "timestampMs": 126070,
+  "confidence": null
+ },
+ {
+  "text": " list.",
+  "startMs": 126590,
+  "endMs": 127180,
+  "timestampMs": 126590,
+  "confidence": null
+ },
+ {
+  "text": " The",
+  "startMs": 127180,
+  "endMs": 127420,
+  "timestampMs": 127180,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 127420,
+  "endMs": 128000,
+  "timestampMs": 127420,
+  "confidence": null
+ },
+ {
+  "text": " list",
+  "startMs": 128000,
+  "endMs": 128300,
+  "timestampMs": 128000,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 128300,
+  "endMs": 128460,
+  "timestampMs": 128300,
+  "confidence": null
+ },
+ {
+  "text": " now",
+  "startMs": 128460,
+  "endMs": 128690,
+  "timestampMs": 128460,
+  "confidence": null
+ },
+ {
+  "text": " ready",
+  "startMs": 128690,
+  "endMs": 129120,
+  "timestampMs": 128690,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 129120,
+  "endMs": 129340,
+  "timestampMs": 129120,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 129340,
+  "endMs": 129510,
+  "timestampMs": 129340,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 129510,
+  "endMs": 129710,
+  "timestampMs": 129510,
+  "confidence": null
+ },
+ {
+  "text": " begin",
+  "startMs": 129710,
+  "endMs": 130070,
+  "timestampMs": 129710,
+  "confidence": null
+ },
+ {
+  "text": " adding",
+  "startMs": 130070,
+  "endMs": 130530,
+  "timestampMs": 130070,
+  "confidence": null
+ },
+ {
+  "text": " contacts.",
+  "startMs": 130530,
+  "endMs": 131380,
+  "timestampMs": 130530,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 131480,
+  "endMs": 131520,
+  "timestampMs": 131480,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 131520,
+  "endMs": 131930,
+  "timestampMs": 131520,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 131930,
+  "endMs": 132010,
+  "timestampMs": 131930,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 132010,
+  "endMs": 132260,
+  "timestampMs": 132010,
+  "confidence": null
+ },
+ {
+  "text": " plus",
+  "startMs": 132260,
+  "endMs": 132500,
+  "timestampMs": 132260,
+  "confidence": null
+ },
+ {
+  "text": " icon",
+  "startMs": 132500,
+  "endMs": 132780,
+  "timestampMs": 132500,
+  "confidence": null
+ },
+ {
+  "text": " under",
+  "startMs": 132780,
+  "endMs": 133140,
+  "timestampMs": 132780,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 133140,
+  "endMs": 133360,
+  "timestampMs": 133140,
+  "confidence": null
+ },
+ {
+  "text": " \"Add",
+  "startMs": 133360,
+  "endMs": 133560,
+  "timestampMs": 133360,
+  "confidence": null
+ },
+ {
+  "text": " Contact\"",
+  "startMs": 133560,
+  "endMs": 133990,
+  "timestampMs": 133560,
+  "confidence": null
+ },
+ {
+  "text": " section",
+  "startMs": 133990,
+  "endMs": 134720,
+  "timestampMs": 133990,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 134720,
+  "endMs": 135090,
+  "timestampMs": 134720,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 135090,
+  "endMs": 135690,
+  "timestampMs": 135090,
+  "confidence": null
+ },
+ {
+  "text": " \"Add",
+  "startMs": 135690,
+  "endMs": 136090,
+  "timestampMs": 135690,
+  "confidence": null
+ },
+ {
+  "text": " Contact\".",
+  "startMs": 136090,
+  "endMs": 137280,
+  "timestampMs": 136090,
+  "confidence": null
+ },
+ {
+  "text": " For",
+  "startMs": 137280,
+  "endMs": 137470,
+  "timestampMs": 137280,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 137470,
+  "endMs": 137530,
+  "timestampMs": 137470,
+  "confidence": null
+ },
+ {
+  "text": " small",
+  "startMs": 137530,
+  "endMs": 137850,
+  "timestampMs": 137530,
+  "confidence": null
+ },
+ {
+  "text": " number",
+  "startMs": 137850,
+  "endMs": 138230,
+  "timestampMs": 137850,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 138230,
+  "endMs": 138370,
+  "timestampMs": 138230,
+  "confidence": null
+ },
+ {
+  "text": " contacts,",
+  "startMs": 138370,
+  "endMs": 139040,
+  "timestampMs": 138370,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 139040,
+  "endMs": 139200,
+  "timestampMs": 139040,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 139200,
+  "endMs": 139450,
+  "timestampMs": 139200,
+  "confidence": null
+ },
+ {
+  "text": " enter",
+  "startMs": 139450,
+  "endMs": 139840,
+  "timestampMs": 139450,
+  "confidence": null
+ },
+ {
+  "text": " their",
+  "startMs": 139840,
+  "endMs": 140240,
+  "timestampMs": 139840,
+  "confidence": null
+ },
+ {
+  "text": " details",
+  "startMs": 140240,
+  "endMs": 140800,
+  "timestampMs": 140240,
+  "confidence": null
+ },
+ {
+  "text": " manually,",
+  "startMs": 140800,
+  "endMs": 141480,
+  "timestampMs": 140800,
+  "confidence": null
+ },
+ {
+  "text": " including",
+  "startMs": 141480,
+  "endMs": 142010,
+  "timestampMs": 141480,
+  "confidence": null
+ },
+ {
+  "text": " their",
+  "startMs": 142010,
+  "endMs": 142310,
+  "timestampMs": 142010,
+  "confidence": null
+ },
+ {
+  "text": " first",
+  "startMs": 142310,
+  "endMs": 142610,
+  "timestampMs": 142310,
+  "confidence": null
+ },
+ {
+  "text": " name,",
+  "startMs": 142610,
+  "endMs": 143040,
+  "timestampMs": 142610,
+  "confidence": null
+ },
+ {
+  "text": " middle",
+  "startMs": 143040,
+  "endMs": 143350,
+  "timestampMs": 143040,
+  "confidence": null
+ },
+ {
+  "text": " name,",
+  "startMs": 143350,
+  "endMs": 143720,
+  "timestampMs": 143350,
+  "confidence": null
+ },
+ {
+  "text": " last",
+  "startMs": 143720,
+  "endMs": 144080,
+  "timestampMs": 143720,
+  "confidence": null
+ },
+ {
+  "text": " name,",
+  "startMs": 144080,
+  "endMs": 144590,
+  "timestampMs": 144080,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 144590,
+  "endMs": 144860,
+  "timestampMs": 144590,
+  "confidence": null
+ },
+ {
+  "text": " phone",
+  "startMs": 144860,
+  "endMs": 145170,
+  "timestampMs": 144860,
+  "confidence": null
+ },
+ {
+  "text": " number.",
+  "startMs": 145170,
+  "endMs": 145940,
+  "timestampMs": 145170,
+  "confidence": null
+ },
+ {
+  "text": " If",
+  "startMs": 145940,
+  "endMs": 146080,
+  "timestampMs": 145940,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 146080,
+  "endMs": 146150,
+  "timestampMs": 146080,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 146150,
+  "endMs": 146640,
+  "timestampMs": 146150,
+  "confidence": null
+ },
+ {
+  "text": " has",
+  "startMs": 146640,
+  "endMs": 146860,
+  "timestampMs": 146640,
+  "confidence": null
+ },
+ {
+  "text": " multiple",
+  "startMs": 146860,
+  "endMs": 147550,
+  "timestampMs": 146860,
+  "confidence": null
+ },
+ {
+  "text": " phone",
+  "startMs": 147550,
+  "endMs": 147800,
+  "timestampMs": 147550,
+  "confidence": null
+ },
+ {
+  "text": " numbers,",
+  "startMs": 147800,
+  "endMs": 148340,
+  "timestampMs": 147800,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 148340,
+  "endMs": 148500,
+  "timestampMs": 148340,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 148500,
+  "endMs": 148740,
+  "timestampMs": 148500,
+  "confidence": null
+ },
+ {
+  "text": " add",
+  "startMs": 148740,
+  "endMs": 148980,
+  "timestampMs": 148740,
+  "confidence": null
+ },
+ {
+  "text": " those",
+  "startMs": 148980,
+  "endMs": 149380,
+  "timestampMs": 148980,
+  "confidence": null
+ },
+ {
+  "text": " details",
+  "startMs": 149380,
+  "endMs": 149940,
+  "timestampMs": 149380,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 149940,
+  "endMs": 150100,
+  "timestampMs": 149940,
+  "confidence": null
+ },
+ {
+  "text": " well.",
+  "startMs": 150100,
+  "endMs": 150680,
+  "timestampMs": 150100,
+  "confidence": null
+ },
+ {
+  "text": " For",
+  "startMs": 150680,
+  "endMs": 150900,
+  "timestampMs": 150680,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 150900,
+  "endMs": 151280,
+  "timestampMs": 150900,
+  "confidence": null
+ },
+ {
+  "text": " demonstration,",
+  "startMs": 151280,
+  "endMs": 152180,
+  "timestampMs": 151280,
+  "confidence": null
+ },
+ {
+  "text": " I",
+  "startMs": 152180,
+  "endMs": 152260,
+  "timestampMs": 152180,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 152260,
+  "endMs": 152550,
+  "timestampMs": 152260,
+  "confidence": null
+ },
+ {
+  "text": " enter",
+  "startMs": 152550,
+  "endMs": 152920,
+  "timestampMs": 152550,
+  "confidence": null
+ },
+ {
+  "text": " my",
+  "startMs": 152920,
+  "endMs": 153130,
+  "timestampMs": 152920,
+  "confidence": null
+ },
+ {
+  "text": " own",
+  "startMs": 153130,
+  "endMs": 153290,
+  "timestampMs": 153130,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 153290,
+  "endMs": 153870,
+  "timestampMs": 153290,
+  "confidence": null
+ },
+ {
+  "text": " details",
+  "startMs": 153870,
+  "endMs": 154390,
+  "timestampMs": 153870,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 154390,
+  "endMs": 154650,
+  "timestampMs": 154390,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 154650,
+  "endMs": 155100,
+  "timestampMs": 154650,
+  "confidence": null
+ },
+ {
+  "text": " \"Save\".",
+  "startMs": 155100,
+  "endMs": 155940,
+  "timestampMs": 155100,
+  "confidence": null
+ },
+ {
+  "text": " For",
+  "startMs": 155940,
+  "endMs": 156140,
+  "timestampMs": 155940,
+  "confidence": null
+ },
+ {
+  "text": " larger",
+  "startMs": 156140,
+  "endMs": 156600,
+  "timestampMs": 156140,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 156600,
+  "endMs": 157030,
+  "timestampMs": 156600,
+  "confidence": null
+ },
+ {
+  "text": " lists,",
+  "startMs": 157030,
+  "endMs": 157540,
+  "timestampMs": 157030,
+  "confidence": null
+ },
+ {
+  "text": " VEE Dialer",
+  "startMs": 157540,
+  "endMs": 158060,
+  "timestampMs": 157540,
+  "confidence": null
+ },
+ {
+  "text": " also",
+  "startMs": 158060,
+  "endMs": 158360,
+  "timestampMs": 158060,
+  "confidence": null
+ },
+ {
+  "text": " supports",
+  "startMs": 158360,
+  "endMs": 158970,
+  "timestampMs": 158360,
+  "confidence": null
+ },
+ {
+  "text": " uploading",
+  "startMs": 158970,
+  "endMs": 159660,
+  "timestampMs": 158970,
+  "confidence": null
+ },
+ {
+  "text": " contacts",
+  "startMs": 159660,
+  "endMs": 160320,
+  "timestampMs": 159660,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 160320,
+  "endMs": 160600,
+  "timestampMs": 160320,
+  "confidence": null
+ },
+ {
+  "text": " bulk",
+  "startMs": 160600,
+  "endMs": 161180,
+  "timestampMs": 160600,
+  "confidence": null
+ },
+ {
+  "text": " using",
+  "startMs": 161240,
+  "endMs": 161650,
+  "timestampMs": 161240,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 161650,
+  "endMs": 161860,
+  "timestampMs": 161650,
+  "confidence": null
+ },
+ {
+  "text": " CSV",
+  "startMs": 161860,
+  "endMs": 162020,
+  "timestampMs": 161860,
+  "confidence": null
+ },
+ {
+  "text": " file",
+  "startMs": 162020,
+  "endMs": 162500,
+  "timestampMs": 162020,
+  "confidence": null
+ },
+ {
+  "text": " directly",
+  "startMs": 162500,
+  "endMs": 163300,
+  "timestampMs": 162500,
+  "confidence": null
+ },
+ {
+  "text": " from",
+  "startMs": 163300,
+  "endMs": 163530,
+  "timestampMs": 163300,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 163530,
+  "endMs": 163780,
+  "timestampMs": 163530,
+  "confidence": null
+ },
+ {
+  "text": " device.",
+  "startMs": 163780,
+  "endMs": 164680,
+  "timestampMs": 163780,
+  "confidence": null
+ },
+ {
+  "text": " With",
+  "startMs": 164680,
+  "endMs": 164950,
+  "timestampMs": 164680,
+  "confidence": null
+ },
+ {
+  "text": " our",
+  "startMs": 164950,
+  "endMs": 165150,
+  "timestampMs": 164950,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 165150,
+  "endMs": 165650,
+  "timestampMs": 165150,
+  "confidence": null
+ },
+ {
+  "text": " list",
+  "startMs": 165650,
+  "endMs": 165890,
+  "timestampMs": 165650,
+  "confidence": null
+ },
+ {
+  "text": " ready,",
+  "startMs": 165890,
+  "endMs": 166280,
+  "timestampMs": 165890,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 166280,
+  "endMs": 166420,
+  "timestampMs": 166280,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 166420,
+  "endMs": 166640,
+  "timestampMs": 166420,
+  "confidence": null
+ },
+ {
+  "text": " now",
+  "startMs": 166640,
+  "endMs": 166860,
+  "timestampMs": 166640,
+  "confidence": null
+ },
+ {
+  "text": " move",
+  "startMs": 166860,
+  "endMs": 167150,
+  "timestampMs": 166860,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 167150,
+  "endMs": 167290,
+  "timestampMs": 167150,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 167290,
+  "endMs": 167510,
+  "timestampMs": 167290,
+  "confidence": null
+ },
+ {
+  "text": " creating",
+  "startMs": 167510,
+  "endMs": 168020,
+  "timestampMs": 167510,
+  "confidence": null
+ },
+ {
+  "text": " message",
+  "startMs": 168020,
+  "endMs": 168560,
+  "timestampMs": 168020,
+  "confidence": null
+ },
+ {
+  "text": " templates.",
+  "startMs": 168560,
+  "endMs": 169480,
+  "timestampMs": 168560,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 169480,
+  "endMs": 169630,
+  "timestampMs": 169480,
+  "confidence": null
+ },
+ {
+  "text": " navigate",
+  "startMs": 169630,
+  "endMs": 170240,
+  "timestampMs": 169630,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 170240,
+  "endMs": 170420,
+  "timestampMs": 170240,
+  "confidence": null
+ },
+ {
+  "text": " \"Admin\"",
+  "startMs": 170420,
+  "endMs": 170910,
+  "timestampMs": 170420,
+  "confidence": null
+ },
+ {
+  "text": " section",
+  "startMs": 170910,
+  "endMs": 171530,
+  "timestampMs": 170910,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 171530,
+  "endMs": 171610,
+  "timestampMs": 171530,
+  "confidence": null
+ },
+ {
+  "text": " create",
+  "startMs": 171610,
+  "endMs": 172060,
+  "timestampMs": 171610,
+  "confidence": null
+ },
+ {
+  "text": " templates",
+  "startMs": 172060,
+  "endMs": 172580,
+  "timestampMs": 172060,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 172580,
+  "endMs": 172850,
+  "timestampMs": 172580,
+  "confidence": null
+ },
+ {
+  "text": " SMS,",
+  "startMs": 172850,
+  "endMs": 173300,
+  "timestampMs": 172850,
+  "confidence": null
+ },
+ {
+  "text": " WhatsApp,",
+  "startMs": 173300,
+  "endMs": 174220,
+  "timestampMs": 173300,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 174220,
+  "endMs": 174490,
+  "timestampMs": 174220,
+  "confidence": null
+ },
+ {
+  "text": " email",
+  "startMs": 174490,
+  "endMs": 174960,
+  "timestampMs": 174490,
+  "confidence": null
+ },
+ {
+  "text": " campaigns.",
+  "startMs": 174960,
+  "endMs": 176120,
+  "timestampMs": 174960,
+  "confidence": null
+ },
+ {
+  "text": " First,",
+  "startMs": 176120,
+  "endMs": 176710,
+  "timestampMs": 176120,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 176710,
+  "endMs": 176970,
+  "timestampMs": 176710,
+  "confidence": null
+ },
+ {
+  "text": " SMS",
+  "startMs": 176970,
+  "endMs": 177210,
+  "timestampMs": 176970,
+  "confidence": null
+ },
+ {
+  "text": " template,",
+  "startMs": 177210,
+  "endMs": 178210,
+  "timestampMs": 177210,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 178210,
+  "endMs": 178730,
+  "timestampMs": 178210,
+  "confidence": null
+ },
+ {
+  "text": " \"SMS",
+  "startMs": 178730,
+  "endMs": 179150,
+  "timestampMs": 178730,
+  "confidence": null
+ },
+ {
+  "text": " Template\".",
+  "startMs": 179150,
+  "endMs": 180480,
+  "timestampMs": 179150,
+  "confidence": null
+ },
+ {
+  "text": " To",
+  "startMs": 180480,
+  "endMs": 180610,
+  "timestampMs": 180480,
+  "confidence": null
+ },
+ {
+  "text": " create",
+  "startMs": 180610,
+  "endMs": 181010,
+  "timestampMs": 180610,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 181010,
+  "endMs": 181060,
+  "timestampMs": 181010,
+  "confidence": null
+ },
+ {
+  "text": " new",
+  "startMs": 181060,
+  "endMs": 181250,
+  "timestampMs": 181060,
+  "confidence": null
+ },
+ {
+  "text": " template,",
+  "startMs": 181250,
+  "endMs": 182030,
+  "timestampMs": 181250,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 182030,
+  "endMs": 182100,
+  "timestampMs": 182030,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 182100,
+  "endMs": 182500,
+  "timestampMs": 182100,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 182500,
+  "endMs": 182690,
+  "timestampMs": 182500,
+  "confidence": null
+ },
+ {
+  "text": " \"Add",
+  "startMs": 182690,
+  "endMs": 182970,
+  "timestampMs": 182690,
+  "confidence": null
+ },
+ {
+  "text": " Template\"",
+  "startMs": 182970,
+  "endMs": 183720,
+  "timestampMs": 182970,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 183720,
+  "endMs": 183980,
+  "timestampMs": 183720,
+  "confidence": null
+ },
+ {
+  "text": " enter",
+  "startMs": 183980,
+  "endMs": 184240,
+  "timestampMs": 183980,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 184240,
+  "endMs": 184460,
+  "timestampMs": 184240,
+  "confidence": null
+ },
+ {
+  "text": " template",
+  "startMs": 184460,
+  "endMs": 184960,
+  "timestampMs": 184460,
+  "confidence": null
+ },
+ {
+  "text": " name,",
+  "startMs": 184960,
+  "endMs": 185450,
+  "timestampMs": 184960,
+  "confidence": null
+ },
+ {
+  "text": " description,",
+  "startMs": 185450,
+  "endMs": 186180,
+  "timestampMs": 185450,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 186180,
+  "endMs": 186450,
+  "timestampMs": 186180,
+  "confidence": null
+ },
+ {
+  "text": " message",
+  "startMs": 186450,
+  "endMs": 187070,
+  "timestampMs": 186450,
+  "confidence": null
+ },
+ {
+  "text": " content.",
+  "startMs": 187070,
+  "endMs": 187980,
+  "timestampMs": 187070,
+  "confidence": null
+ },
+ {
+  "text": " After",
+  "startMs": 188010,
+  "endMs": 188400,
+  "timestampMs": 188010,
+  "confidence": null
+ },
+ {
+  "text": " filling",
+  "startMs": 188400,
+  "endMs": 188860,
+  "timestampMs": 188400,
+  "confidence": null
+ },
+ {
+  "text": " in",
+  "startMs": 188860,
+  "endMs": 189000,
+  "timestampMs": 188860,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 189000,
+  "endMs": 189220,
+  "timestampMs": 189000,
+  "confidence": null
+ },
+ {
+  "text": " required",
+  "startMs": 189220,
+  "endMs": 189810,
+  "timestampMs": 189220,
+  "confidence": null
+ },
+ {
+  "text": " details,",
+  "startMs": 189810,
+  "endMs": 190460,
+  "timestampMs": 189810,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 190460,
+  "endMs": 190710,
+  "timestampMs": 190460,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 190710,
+  "endMs": 190970,
+  "timestampMs": 190710,
+  "confidence": null
+ },
+ {
+  "text": " \"Save\".",
+  "startMs": 190970,
+  "endMs": 191680,
+  "timestampMs": 190970,
+  "confidence": null
+ },
+ {
+  "text": " For",
+  "startMs": 191680,
+  "endMs": 191880,
+  "timestampMs": 191680,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 191880,
+  "endMs": 192210,
+  "timestampMs": 191880,
+  "confidence": null
+ },
+ {
+  "text": " demo,",
+  "startMs": 192210,
+  "endMs": 192580,
+  "timestampMs": 192210,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 192580,
+  "endMs": 192690,
+  "timestampMs": 192580,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 192690,
+  "endMs": 192920,
+  "timestampMs": 192690,
+  "confidence": null
+ },
+ {
+  "text": " use",
+  "startMs": 192920,
+  "endMs": 193090,
+  "timestampMs": 192920,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 193090,
+  "endMs": 193260,
+  "timestampMs": 193090,
+  "confidence": null
+ },
+ {
+  "text": " \"Insurance",
+  "startMs": 193260,
+  "endMs": 193950,
+  "timestampMs": 193260,
+  "confidence": null
+ },
+ {
+  "text": " Renewal\"",
+  "startMs": 193950,
+  "endMs": 194280,
+  "timestampMs": 193950,
+  "confidence": null
+ },
+ {
+  "text": " template",
+  "startMs": 194280,
+  "endMs": 194940,
+  "timestampMs": 194280,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 194940,
+  "endMs": 195330,
+  "timestampMs": 194940,
+  "confidence": null
+ },
+ {
+  "text": " SMS.",
+  "startMs": 195330,
+  "endMs": 196320,
+  "timestampMs": 195330,
+  "confidence": null
+ },
+ {
+  "text": " Similar",
+  "startMs": 196320,
+  "endMs": 196900,
+  "timestampMs": 196320,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 196900,
+  "endMs": 197150,
+  "timestampMs": 196900,
+  "confidence": null
+ },
+ {
+  "text": " be",
+  "startMs": 197150,
+  "endMs": 197300,
+  "timestampMs": 197150,
+  "confidence": null
+ },
+ {
+  "text": " done",
+  "startMs": 197300,
+  "endMs": 197630,
+  "timestampMs": 197300,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 197630,
+  "endMs": 197870,
+  "timestampMs": 197630,
+  "confidence": null
+ },
+ {
+  "text": " WhatsApp",
+  "startMs": 197870,
+  "endMs": 198530,
+  "timestampMs": 197870,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 198530,
+  "endMs": 198770,
+  "timestampMs": 198530,
+  "confidence": null
+ },
+ {
+  "text": " email.",
+  "startMs": 198770,
+  "endMs": 199480,
+  "timestampMs": 198770,
+  "confidence": null
+ },
+ {
+  "text": " For",
+  "startMs": 199480,
+  "endMs": 199670,
+  "timestampMs": 199480,
+  "confidence": null
+ },
+ {
+  "text": " WhatsApp,",
+  "startMs": 199670,
+  "endMs": 200330,
+  "timestampMs": 199670,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 200330,
+  "endMs": 200430,
+  "timestampMs": 200330,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 200430,
+  "endMs": 200660,
+  "timestampMs": 200430,
+  "confidence": null
+ },
+ {
+  "text": " use",
+  "startMs": 200660,
+  "endMs": 200860,
+  "timestampMs": 200660,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 200860,
+  "endMs": 200970,
+  "timestampMs": 200860,
+  "confidence": null
+ },
+ {
+  "text": " existing",
+  "startMs": 200970,
+  "endMs": 201500,
+  "timestampMs": 200970,
+  "confidence": null
+ },
+ {
+  "text": " template",
+  "startMs": 201500,
+  "endMs": 202040,
+  "timestampMs": 201500,
+  "confidence": null
+ },
+ {
+  "text": " called",
+  "startMs": 202040,
+  "endMs": 202410,
+  "timestampMs": 202040,
+  "confidence": null
+ },
+ {
+  "text": " \"Special",
+  "startMs": 202410,
+  "endMs": 202910,
+  "timestampMs": 202410,
+  "confidence": null
+ },
+ {
+  "text": " Official\".",
+  "startMs": 202910,
+  "endMs": 203680,
+  "timestampMs": 202910,
+  "confidence": null
+ },
+ {
+  "text": " For",
+  "startMs": 203680,
+  "endMs": 205980,
+  "timestampMs": 203680,
+  "confidence": null
+ },
+ {
+  "text": " email,",
+  "startMs": 205980,
+  "endMs": 206720,
+  "timestampMs": 205980,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 206720,
+  "endMs": 206850,
+  "timestampMs": 206720,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 206850,
+  "endMs": 207110,
+  "timestampMs": 206850,
+  "confidence": null
+ },
+ {
+  "text": " use",
+  "startMs": 207110,
+  "endMs": 207300,
+  "timestampMs": 207110,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 207300,
+  "endMs": 207490,
+  "timestampMs": 207300,
+  "confidence": null
+ },
+ {
+  "text": " \"Insurance",
+  "startMs": 207490,
+  "endMs": 208130,
+  "timestampMs": 207490,
+  "confidence": null
+ },
+ {
+  "text": " Renewal\"",
+  "startMs": 208130,
+  "endMs": 208640,
+  "timestampMs": 208130,
+  "confidence": null
+ },
+ {
+  "text": " template.",
+  "startMs": 208640,
+  "endMs": 209420,
+  "timestampMs": 208640,
+  "confidence": null
+ },
+ {
+  "text": " Now",
+  "startMs": 209420,
+  "endMs": 209620,
+  "timestampMs": 209420,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 209620,
+  "endMs": 209880,
+  "timestampMs": 209620,
+  "confidence": null
+ },
+ {
+  "text": " our",
+  "startMs": 209880,
+  "endMs": 210100,
+  "timestampMs": 209880,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 210100,
+  "endMs": 210560,
+  "timestampMs": 210100,
+  "confidence": null
+ },
+ {
+  "text": " list",
+  "startMs": 210560,
+  "endMs": 210860,
+  "timestampMs": 210560,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 210860,
+  "endMs": 211010,
+  "timestampMs": 210860,
+  "confidence": null
+ },
+ {
+  "text": " templates",
+  "startMs": 211010,
+  "endMs": 211610,
+  "timestampMs": 211010,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 211610,
+  "endMs": 211810,
+  "timestampMs": 211610,
+  "confidence": null
+ },
+ {
+  "text": " ready,",
+  "startMs": 211810,
+  "endMs": 212320,
+  "timestampMs": 211810,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 212320,
+  "endMs": 212460,
+  "timestampMs": 212320,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 212460,
+  "endMs": 212670,
+  "timestampMs": 212460,
+  "confidence": null
+ },
+ {
+  "text": " create",
+  "startMs": 212670,
+  "endMs": 213100,
+  "timestampMs": 212670,
+  "confidence": null
+ },
+ {
+  "text": " our",
+  "startMs": 213100,
+  "endMs": 213310,
+  "timestampMs": 213100,
+  "confidence": null
+ },
+ {
+  "text": " campaign.",
+  "startMs": 213310,
+  "endMs": 214120,
+  "timestampMs": 213310,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 214120,
+  "endMs": 214250,
+  "timestampMs": 214120,
+  "confidence": null
+ },
+ {
+  "text": " navigate",
+  "startMs": 214250,
+  "endMs": 214790,
+  "timestampMs": 214250,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 214790,
+  "endMs": 214950,
+  "timestampMs": 214790,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 214950,
+  "endMs": 215120,
+  "timestampMs": 214950,
+  "confidence": null
+ },
+ {
+  "text": " \"Campaign\"",
+  "startMs": 215120,
+  "endMs": 215810,
+  "timestampMs": 215120,
+  "confidence": null
+ },
+ {
+  "text": " section,",
+  "startMs": 215810,
+  "endMs": 216420,
+  "timestampMs": 215810,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 216500,
+  "endMs": 216910,
+  "timestampMs": 216500,
+  "confidence": null
+ },
+ {
+  "text": " \"List-Based",
+  "startMs": 216910,
+  "endMs": 217630,
+  "timestampMs": 216910,
+  "confidence": null
+ },
+ {
+  "text": " Campaign\",",
+  "startMs": 217630,
+  "endMs": 218460,
+  "timestampMs": 217630,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 218460,
+  "endMs": 218720,
+  "timestampMs": 218460,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 218720,
+  "endMs": 219060,
+  "timestampMs": 218720,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 219060,
+  "endMs": 219220,
+  "timestampMs": 219060,
+  "confidence": null
+ },
+ {
+  "text": " \"Add",
+  "startMs": 219220,
+  "endMs": 219540,
+  "timestampMs": 219220,
+  "confidence": null
+ },
+ {
+  "text": " Campaign\".",
+  "startMs": 219540,
+  "endMs": 220540,
+  "timestampMs": 219540,
+  "confidence": null
+ },
+ {
+  "text": " Here,",
+  "startMs": 220540,
+  "endMs": 220910,
+  "timestampMs": 220540,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 220910,
+  "endMs": 221030,
+  "timestampMs": 220910,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 221030,
+  "endMs": 221220,
+  "timestampMs": 221030,
+  "confidence": null
+ },
+ {
+  "text": " view",
+  "startMs": 221220,
+  "endMs": 221470,
+  "timestampMs": 221220,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 221470,
+  "endMs": 221720,
+  "timestampMs": 221470,
+  "confidence": null
+ },
+ {
+  "text": " campaigns",
+  "startMs": 221720,
+  "endMs": 222320,
+  "timestampMs": 221720,
+  "confidence": null
+ },
+ {
+  "text": " that",
+  "startMs": 222320,
+  "endMs": 222480,
+  "timestampMs": 222320,
+  "confidence": null
+ },
+ {
+  "text": " have",
+  "startMs": 222480,
+  "endMs": 222750,
+  "timestampMs": 222480,
+  "confidence": null
+ },
+ {
+  "text": " already",
+  "startMs": 222750,
+  "endMs": 223120,
+  "timestampMs": 222750,
+  "confidence": null
+ },
+ {
+  "text": " been",
+  "startMs": 223120,
+  "endMs": 223560,
+  "timestampMs": 223120,
+  "confidence": null
+ },
+ {
+  "text": " created.",
+  "startMs": 223560,
+  "endMs": 224520,
+  "timestampMs": 223560,
+  "confidence": null
+ },
+ {
+  "text": " To",
+  "startMs": 224520,
+  "endMs": 224660,
+  "timestampMs": 224520,
+  "confidence": null
+ },
+ {
+  "text": " create",
+  "startMs": 224660,
+  "endMs": 225080,
+  "timestampMs": 224660,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 225080,
+  "endMs": 225150,
+  "timestampMs": 225080,
+  "confidence": null
+ },
+ {
+  "text": " new",
+  "startMs": 225150,
+  "endMs": 225380,
+  "timestampMs": 225150,
+  "confidence": null
+ },
+ {
+  "text": " campaign,",
+  "startMs": 225380,
+  "endMs": 226130,
+  "timestampMs": 225380,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 226130,
+  "endMs": 226230,
+  "timestampMs": 226130,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 226230,
+  "endMs": 226670,
+  "timestampMs": 226230,
+  "confidence": null
+ },
+ {
+  "text": " \"Add",
+  "startMs": 226670,
+  "endMs": 227010,
+  "timestampMs": 226670,
+  "confidence": null
+ },
+ {
+  "text": " Campaign\"",
+  "startMs": 227010,
+  "endMs": 227580,
+  "timestampMs": 227010,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 227580,
+  "endMs": 227870,
+  "timestampMs": 227580,
+  "confidence": null
+ },
+ {
+  "text": " enter",
+  "startMs": 227870,
+  "endMs": 228230,
+  "timestampMs": 227870,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 228230,
+  "endMs": 228430,
+  "timestampMs": 228230,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 228430,
+  "endMs": 229090,
+  "timestampMs": 228430,
+  "confidence": null
+ },
+ {
+  "text": " details.",
+  "startMs": 229090,
+  "endMs": 229880,
+  "timestampMs": 229090,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 229880,
+  "endMs": 230040,
+  "timestampMs": 229880,
+  "confidence": null
+ },
+ {
+  "text": " name",
+  "startMs": 230040,
+  "endMs": 230360,
+  "timestampMs": 230040,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 230360,
+  "endMs": 230600,
+  "timestampMs": 230360,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 230600,
+  "endMs": 231340,
+  "timestampMs": 230600,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 231340,
+  "endMs": 231410,
+  "timestampMs": 231340,
+  "confidence": null
+ },
+ {
+  "text": " so",
+  "startMs": 231410,
+  "endMs": 231570,
+  "timestampMs": 231410,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 231570,
+  "endMs": 231810,
+  "timestampMs": 231570,
+  "confidence": null
+ },
+ {
+  "text": " add",
+  "startMs": 231810,
+  "endMs": 232050,
+  "timestampMs": 231810,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 232050,
+  "endMs": 232130,
+  "timestampMs": 232050,
+  "confidence": null
+ },
+ {
+  "text": " description.",
+  "startMs": 232130,
+  "endMs": 233320,
+  "timestampMs": 232130,
+  "confidence": null
+ },
+ {
+  "text": " Next,",
+  "startMs": 233320,
+  "endMs": 233740,
+  "timestampMs": 233320,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 233740,
+  "endMs": 233860,
+  "timestampMs": 233740,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 233860,
+  "endMs": 234320,
+  "timestampMs": 233860,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 234320,
+  "endMs": 234460,
+  "timestampMs": 234320,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 234460,
+  "endMs": 234940,
+  "timestampMs": 234460,
+  "confidence": null
+ },
+ {
+  "text": " list",
+  "startMs": 234940,
+  "endMs": 235210,
+  "timestampMs": 234940,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 235210,
+  "endMs": 235400,
+  "timestampMs": 235210,
+  "confidence": null
+ },
+ {
+  "text": " created",
+  "startMs": 235400,
+  "endMs": 235930,
+  "timestampMs": 235400,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 235930,
+  "endMs": 236190,
+  "timestampMs": 235930,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 236190,
+  "endMs": 236760,
+  "timestampMs": 236190,
+  "confidence": null
+ },
+ {
+  "text": " \"Next\".",
+  "startMs": 236760,
+  "endMs": 237680,
+  "timestampMs": 236760,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 237680,
+  "endMs": 237870,
+  "timestampMs": 237680,
+  "confidence": null
+ },
+ {
+  "text": " then",
+  "startMs": 237870,
+  "endMs": 238330,
+  "timestampMs": 237870,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 238330,
+  "endMs": 238820,
+  "timestampMs": 238330,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 238820,
+  "endMs": 239100,
+  "timestampMs": 238820,
+  "confidence": null
+ },
+ {
+  "text": " time",
+  "startMs": 239100,
+  "endMs": 239480,
+  "timestampMs": 239100,
+  "confidence": null
+ },
+ {
+  "text": " zone.",
+  "startMs": 239480,
+  "endMs": 240180,
+  "timestampMs": 239480,
+  "confidence": null
+ },
+ {
+  "text": " VEE Dialer",
+  "startMs": 240180,
+  "endMs": 240780,
+  "timestampMs": 240180,
+  "confidence": null
+ },
+ {
+  "text": " supports",
+  "startMs": 240780,
+  "endMs": 241540,
+  "timestampMs": 240780,
+  "confidence": null
+ },
+ {
+  "text": " global",
+  "startMs": 241540,
+  "endMs": 242000,
+  "timestampMs": 241540,
+  "confidence": null
+ },
+ {
+  "text": " time",
+  "startMs": 242000,
+  "endMs": 242350,
+  "timestampMs": 242000,
+  "confidence": null
+ },
+ {
+  "text": " zones,",
+  "startMs": 242350,
+  "endMs": 242820,
+  "timestampMs": 242350,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 242880,
+  "endMs": 243060,
+  "timestampMs": 242880,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 243060,
+  "endMs": 243460,
+  "timestampMs": 243060,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 243460,
+  "endMs": 243620,
+  "timestampMs": 243460,
+  "confidence": null
+ },
+ {
+  "text": " demonstration,",
+  "startMs": 243620,
+  "endMs": 244820,
+  "timestampMs": 243620,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 244820,
+  "endMs": 245300,
+  "timestampMs": 244820,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 245300,
+  "endMs": 245310,
+  "timestampMs": 245300,
+  "confidence": null
+ },
+ {
+  "text": " use",
+  "startMs": 245310,
+  "endMs": 245530,
+  "timestampMs": 245310,
+  "confidence": null
+ },
+ {
+  "text": " Asia",
+  "startMs": 245530,
+  "endMs": 245860,
+  "timestampMs": 245530,
+  "confidence": null
+ },
+ {
+  "text": " Kolkata.",
+  "startMs": 245860,
+  "endMs": 246680,
+  "timestampMs": 245860,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 246680,
+  "endMs": 246860,
+  "timestampMs": 246680,
+  "confidence": null
+ },
+ {
+  "text": " set",
+  "startMs": 246860,
+  "endMs": 247130,
+  "timestampMs": 246860,
+  "confidence": null
+ },
+ {
+  "text": " start",
+  "startMs": 247130,
+  "endMs": 247590,
+  "timestampMs": 247130,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 247590,
+  "endMs": 247860,
+  "timestampMs": 247590,
+  "confidence": null
+ },
+ {
+  "text": " end",
+  "startMs": 247860,
+  "endMs": 248130,
+  "timestampMs": 247860,
+  "confidence": null
+ },
+ {
+  "text": " time",
+  "startMs": 248130,
+  "endMs": 248490,
+  "timestampMs": 248130,
+  "confidence": null
+ },
+ {
+  "text": " of",
+  "startMs": 248490,
+  "endMs": 248670,
+  "timestampMs": 248490,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 248670,
+  "endMs": 248980,
+  "timestampMs": 248670,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 248980,
+  "endMs": 249720,
+  "timestampMs": 248980,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 249720,
+  "endMs": 249950,
+  "timestampMs": 249720,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 249950,
+  "endMs": 250140,
+  "timestampMs": 249950,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 250140,
+  "endMs": 250690,
+  "timestampMs": 250140,
+  "confidence": null
+ },
+ {
+  "text": " starting",
+  "startMs": 250690,
+  "endMs": 251040,
+  "timestampMs": 250690,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 251040,
+  "endMs": 251230,
+  "timestampMs": 251040,
+  "confidence": null
+ },
+ {
+  "text": " 28",
+  "startMs": 251230,
+  "endMs": 251970,
+  "timestampMs": 251230,
+  "confidence": null
+ },
+ {
+  "text": " September",
+  "startMs": 251970,
+  "endMs": 252660,
+  "timestampMs": 251970,
+  "confidence": null
+ },
+ {
+  "text": " 2026",
+  "startMs": 252660,
+  "endMs": 253880,
+  "timestampMs": 252660,
+  "confidence": null
+ },
+ {
+  "text": " at",
+  "startMs": 253880,
+  "endMs": 253950,
+  "timestampMs": 253880,
+  "confidence": null
+ },
+ {
+  "text": " 4",
+  "startMs": 253950,
+  "endMs": 254150,
+  "timestampMs": 253950,
+  "confidence": null
+ },
+ {
+  "text": " p.m.",
+  "startMs": 254150,
+  "endMs": 254720,
+  "timestampMs": 254150,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 254720,
+  "endMs": 255170,
+  "timestampMs": 254720,
+  "confidence": null
+ },
+ {
+  "text": " ending",
+  "startMs": 255170,
+  "endMs": 255530,
+  "timestampMs": 255170,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 255530,
+  "endMs": 255710,
+  "timestampMs": 255530,
+  "confidence": null
+ },
+ {
+  "text": " 30",
+  "startMs": 255710,
+  "endMs": 256250,
+  "timestampMs": 255710,
+  "confidence": null
+ },
+ {
+  "text": " September",
+  "startMs": 256250,
+  "endMs": 257060,
+  "timestampMs": 256250,
+  "confidence": null
+ },
+ {
+  "text": " 2026",
+  "startMs": 257060,
+  "endMs": 258130,
+  "timestampMs": 257060,
+  "confidence": null
+ },
+ {
+  "text": " at",
+  "startMs": 258130,
+  "endMs": 258320,
+  "timestampMs": 258130,
+  "confidence": null
+ },
+ {
+  "text": " 12",
+  "startMs": 258320,
+  "endMs": 258900,
+  "timestampMs": 258320,
+  "confidence": null
+ },
+ {
+  "text": " a.m.",
+  "startMs": 258900,
+  "endMs": 259620,
+  "timestampMs": 258900,
+  "confidence": null
+ },
+ {
+  "text": " Next,",
+  "startMs": 259620,
+  "endMs": 260030,
+  "timestampMs": 259620,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 260030,
+  "endMs": 260180,
+  "timestampMs": 260030,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 260180,
+  "endMs": 260530,
+  "timestampMs": 260180,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 260530,
+  "endMs": 260800,
+  "timestampMs": 260530,
+  "confidence": null
+ },
+ {
+  "text": " communication",
+  "startMs": 260800,
+  "endMs": 261570,
+  "timestampMs": 260800,
+  "confidence": null
+ },
+ {
+  "text": " channels",
+  "startMs": 261570,
+  "endMs": 262120,
+  "timestampMs": 261570,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 262120,
+  "endMs": 262390,
+  "timestampMs": 262120,
+  "confidence": null
+ },
+ {
+  "text": " our",
+  "startMs": 262390,
+  "endMs": 262660,
+  "timestampMs": 262390,
+  "confidence": null
+ },
+ {
+  "text": " campaign.",
+  "startMs": 262660,
+  "endMs": 263420,
+  "timestampMs": 262660,
+  "confidence": null
+ },
+ {
+  "text": " Calls,",
+  "startMs": 263420,
+  "endMs": 264080,
+  "timestampMs": 263420,
+  "confidence": null
+ },
+ {
+  "text": " SMS,",
+  "startMs": 264080,
+  "endMs": 264550,
+  "timestampMs": 264080,
+  "confidence": null
+ },
+ {
+  "text": " WhatsApp,",
+  "startMs": 264550,
+  "endMs": 265500,
+  "timestampMs": 264550,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 265500,
+  "endMs": 265780,
+  "timestampMs": 265500,
+  "confidence": null
+ },
+ {
+  "text": " email.",
+  "startMs": 265780,
+  "endMs": 266580,
+  "timestampMs": 265780,
+  "confidence": null
+ },
+ {
+  "text": " For",
+  "startMs": 266580,
+  "endMs": 266760,
+  "timestampMs": 266580,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 266760,
+  "endMs": 266980,
+  "timestampMs": 266760,
+  "confidence": null
+ },
+ {
+  "text": " call",
+  "startMs": 266980,
+  "endMs": 267240,
+  "timestampMs": 266980,
+  "confidence": null
+ },
+ {
+  "text": " campaign,",
+  "startMs": 267240,
+  "endMs": 267860,
+  "timestampMs": 267240,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 267860,
+  "endMs": 268010,
+  "timestampMs": 267860,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 268010,
+  "endMs": 268720,
+  "timestampMs": 268010,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 268720,
+  "endMs": 269070,
+  "timestampMs": 268720,
+  "confidence": null
+ },
+ {
+  "text": " IVR",
+  "startMs": 269070,
+  "endMs": 269500,
+  "timestampMs": 269070,
+  "confidence": null
+ },
+ {
+  "text": " flow.",
+  "startMs": 269500,
+  "endMs": 270280,
+  "timestampMs": 269500,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 270370,
+  "endMs": 270450,
+  "timestampMs": 270370,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 270450,
+  "endMs": 270710,
+  "timestampMs": 270450,
+  "confidence": null
+ },
+ {
+  "text": " choose",
+  "startMs": 270710,
+  "endMs": 271270,
+  "timestampMs": 270710,
+  "confidence": null
+ },
+ {
+  "text": " between",
+  "startMs": 271270,
+  "endMs": 271850,
+  "timestampMs": 271270,
+  "confidence": null
+ },
+ {
+  "text": " a",
+  "startMs": 271850,
+  "endMs": 271970,
+  "timestampMs": 271850,
+  "confidence": null
+ },
+ {
+  "text": " human",
+  "startMs": 271970,
+  "endMs": 272380,
+  "timestampMs": 271970,
+  "confidence": null
+ },
+ {
+  "text": " agent",
+  "startMs": 272380,
+  "endMs": 272810,
+  "timestampMs": 272380,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 272810,
+  "endMs": 273070,
+  "timestampMs": 272810,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 273070,
+  "endMs": 273240,
+  "timestampMs": 273070,
+  "confidence": null
+ },
+ {
+  "text": " AI",
+  "startMs": 273240,
+  "endMs": 273410,
+  "timestampMs": 273240,
+  "confidence": null
+ },
+ {
+  "text": " agent.",
+  "startMs": 273410,
+  "endMs": 274180,
+  "timestampMs": 273410,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 274180,
+  "endMs": 274310,
+  "timestampMs": 274180,
+  "confidence": null
+ },
+ {
+  "text": " then",
+  "startMs": 274310,
+  "endMs": 274690,
+  "timestampMs": 274310,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 274690,
+  "endMs": 274980,
+  "timestampMs": 274690,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 274980,
+  "endMs": 275270,
+  "timestampMs": 274980,
+  "confidence": null
+ },
+ {
+  "text": " phone",
+  "startMs": 275270,
+  "endMs": 275530,
+  "timestampMs": 275270,
+  "confidence": null
+ },
+ {
+  "text": " number",
+  "startMs": 275530,
+  "endMs": 275940,
+  "timestampMs": 275530,
+  "confidence": null
+ },
+ {
+  "text": " used",
+  "startMs": 275940,
+  "endMs": 276330,
+  "timestampMs": 275940,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 276330,
+  "endMs": 276380,
+  "timestampMs": 276330,
+  "confidence": null
+ },
+ {
+  "text": " place",
+  "startMs": 276380,
+  "endMs": 276780,
+  "timestampMs": 276380,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 276780,
+  "endMs": 276940,
+  "timestampMs": 276780,
+  "confidence": null
+ },
+ {
+  "text": " calls",
+  "startMs": 276940,
+  "endMs": 277320,
+  "timestampMs": 276940,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 277320,
+  "endMs": 277600,
+  "timestampMs": 277320,
+  "confidence": null
+ },
+ {
+  "text": " configure",
+  "startMs": 277600,
+  "endMs": 278450,
+  "timestampMs": 277600,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 278450,
+  "endMs": 278740,
+  "timestampMs": 278450,
+  "confidence": null
+ },
+ {
+  "text": " IVR",
+  "startMs": 278740,
+  "endMs": 279000,
+  "timestampMs": 278740,
+  "confidence": null
+ },
+ {
+  "text": " settings.",
+  "startMs": 279000,
+  "endMs": 280080,
+  "timestampMs": 279000,
+  "confidence": null
+ },
+ {
+  "text": " VEE Dialer",
+  "startMs": 280080,
+  "endMs": 280670,
+  "timestampMs": 280080,
+  "confidence": null
+ },
+ {
+  "text": " supports",
+  "startMs": 280670,
+  "endMs": 281400,
+  "timestampMs": 280670,
+  "confidence": null
+ },
+ {
+  "text": " two",
+  "startMs": 281400,
+  "endMs": 281650,
+  "timestampMs": 281400,
+  "confidence": null
+ },
+ {
+  "text": " dialing",
+  "startMs": 281650,
+  "endMs": 282210,
+  "timestampMs": 281650,
+  "confidence": null
+ },
+ {
+  "text": " modes,",
+  "startMs": 282210,
+  "endMs": 282680,
+  "timestampMs": 282210,
+  "confidence": null
+ },
+ {
+  "text": " progressive",
+  "startMs": 282680,
+  "endMs": 283380,
+  "timestampMs": 282680,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 283380,
+  "endMs": 283570,
+  "timestampMs": 283380,
+  "confidence": null
+ },
+ {
+  "text": " predictive.",
+  "startMs": 283570,
+  "endMs": 284420,
+  "timestampMs": 283570,
+  "confidence": null
+ },
+ {
+  "text": " In",
+  "startMs": 284420,
+  "endMs": 284590,
+  "timestampMs": 284420,
+  "confidence": null
+ },
+ {
+  "text": " progressive",
+  "startMs": 284590,
+  "endMs": 285550,
+  "timestampMs": 284590,
+  "confidence": null
+ },
+ {
+  "text": " mode,",
+  "startMs": 285550,
+  "endMs": 286150,
+  "timestampMs": 285550,
+  "confidence": null
+ },
+ {
+  "text": " when",
+  "startMs": 286150,
+  "endMs": 286370,
+  "timestampMs": 286150,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 286370,
+  "endMs": 286510,
+  "timestampMs": 286370,
+  "confidence": null
+ },
+ {
+  "text": " agent",
+  "startMs": 286510,
+  "endMs": 286870,
+  "timestampMs": 286510,
+  "confidence": null
+ },
+ {
+  "text": " becomes",
+  "startMs": 286870,
+  "endMs": 287370,
+  "timestampMs": 286870,
+  "confidence": null
+ },
+ {
+  "text": " available,",
+  "startMs": 287370,
+  "endMs": 288040,
+  "timestampMs": 287370,
+  "confidence": null
+ },
+ {
+  "text": " VEE Dialer",
+  "startMs": 288040,
+  "endMs": 288500,
+  "timestampMs": 288040,
+  "confidence": null
+ },
+ {
+  "text": " automatically",
+  "startMs": 288500,
+  "endMs": 289380,
+  "timestampMs": 288500,
+  "confidence": null
+ },
+ {
+  "text": " calls",
+  "startMs": 289380,
+  "endMs": 289720,
+  "timestampMs": 289380,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 289720,
+  "endMs": 289920,
+  "timestampMs": 289720,
+  "confidence": null
+ },
+ {
+  "text": " next",
+  "startMs": 289920,
+  "endMs": 290180,
+  "timestampMs": 289920,
+  "confidence": null
+ },
+ {
+  "text": " customer.",
+  "startMs": 290180,
+  "endMs": 290980,
+  "timestampMs": 290180,
+  "confidence": null
+ },
+ {
+  "text": " In",
+  "startMs": 290980,
+  "endMs": 291120,
+  "timestampMs": 290980,
+  "confidence": null
+ },
+ {
+  "text": " predictive",
+  "startMs": 291120,
+  "endMs": 291810,
+  "timestampMs": 291120,
+  "confidence": null
+ },
+ {
+  "text": " mode,",
+  "startMs": 291810,
+  "endMs": 292280,
+  "timestampMs": 291810,
+  "confidence": null
+ },
+ {
+  "text": " VEE Dialer",
+  "startMs": 292280,
+  "endMs": 292850,
+  "timestampMs": 292280,
+  "confidence": null
+ },
+ {
+  "text": " predicts",
+  "startMs": 292850,
+  "endMs": 293580,
+  "timestampMs": 292850,
+  "confidence": null
+ },
+ {
+  "text": " when",
+  "startMs": 293580,
+  "endMs": 293820,
+  "timestampMs": 293580,
+  "confidence": null
+ },
+ {
+  "text": " an",
+  "startMs": 293820,
+  "endMs": 293970,
+  "timestampMs": 293820,
+  "confidence": null
+ },
+ {
+  "text": " agent",
+  "startMs": 293970,
+  "endMs": 294240,
+  "timestampMs": 293970,
+  "confidence": null
+ },
+ {
+  "text": " will",
+  "startMs": 294240,
+  "endMs": 294480,
+  "timestampMs": 294240,
+  "confidence": null
+ },
+ {
+  "text": " become",
+  "startMs": 294480,
+  "endMs": 294830,
+  "timestampMs": 294480,
+  "confidence": null
+ },
+ {
+  "text": " available",
+  "startMs": 294830,
+  "endMs": 295380,
+  "timestampMs": 294830,
+  "confidence": null
+ },
+ {
+  "text": " based",
+  "startMs": 295380,
+  "endMs": 295810,
+  "timestampMs": 295380,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 295810,
+  "endMs": 296050,
+  "timestampMs": 295810,
+  "confidence": null
+ },
+ {
+  "text": " call",
+  "startMs": 296050,
+  "endMs": 296320,
+  "timestampMs": 296050,
+  "confidence": null
+ },
+ {
+  "text": " duration",
+  "startMs": 296320,
+  "endMs": 297040,
+  "timestampMs": 296320,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 297040,
+  "endMs": 297270,
+  "timestampMs": 297040,
+  "confidence": null
+ },
+ {
+  "text": " agent",
+  "startMs": 297270,
+  "endMs": 297700,
+  "timestampMs": 297270,
+  "confidence": null
+ },
+ {
+  "text": " status,",
+  "startMs": 297700,
+  "endMs": 298240,
+  "timestampMs": 297700,
+  "confidence": null
+ },
+ {
+  "text": " triggering",
+  "startMs": 298310,
+  "endMs": 299070,
+  "timestampMs": 298310,
+  "confidence": null
+ },
+ {
+  "text": " customer",
+  "startMs": 299070,
+  "endMs": 299770,
+  "timestampMs": 299070,
+  "confidence": null
+ },
+ {
+  "text": " calls",
+  "startMs": 299770,
+  "endMs": 300150,
+  "timestampMs": 299770,
+  "confidence": null
+ },
+ {
+  "text": " accordingly.",
+  "startMs": 300150,
+  "endMs": 301340,
+  "timestampMs": 300150,
+  "confidence": null
+ },
+ {
+  "text": " In",
+  "startMs": 301340,
+  "endMs": 301470,
+  "timestampMs": 301340,
+  "confidence": null
+ },
+ {
+  "text": " predictive",
+  "startMs": 301470,
+  "endMs": 302130,
+  "timestampMs": 301470,
+  "confidence": null
+ },
+ {
+  "text": " mode,",
+  "startMs": 302130,
+  "endMs": 302600,
+  "timestampMs": 302130,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 302600,
+  "endMs": 302670,
+  "timestampMs": 302600,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 302670,
+  "endMs": 302870,
+  "timestampMs": 302670,
+  "confidence": null
+ },
+ {
+  "text": " configure",
+  "startMs": 302870,
+  "endMs": 303620,
+  "timestampMs": 302870,
+  "confidence": null
+ },
+ {
+  "text": " parameters",
+  "startMs": 303620,
+  "endMs": 304180,
+  "timestampMs": 303620,
+  "confidence": null
+ },
+ {
+  "text": " such",
+  "startMs": 304180,
+  "endMs": 304500,
+  "timestampMs": 304180,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 304500,
+  "endMs": 304660,
+  "timestampMs": 304500,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 304660,
+  "endMs": 304900,
+  "timestampMs": 304660,
+  "confidence": null
+ },
+ {
+  "text": " target",
+  "startMs": 304900,
+  "endMs": 305390,
+  "timestampMs": 304900,
+  "confidence": null
+ },
+ {
+  "text": " dial",
+  "startMs": 305390,
+  "endMs": 305710,
+  "timestampMs": 305390,
+  "confidence": null
+ },
+ {
+  "text": " ratio,",
+  "startMs": 305710,
+  "endMs": 306370,
+  "timestampMs": 305710,
+  "confidence": null
+ },
+ {
+  "text": " maximum",
+  "startMs": 306370,
+  "endMs": 306870,
+  "timestampMs": 306370,
+  "confidence": null
+ },
+ {
+  "text": " calls",
+  "startMs": 306870,
+  "endMs": 307270,
+  "timestampMs": 306870,
+  "confidence": null
+ },
+ {
+  "text": " per",
+  "startMs": 307270,
+  "endMs": 307510,
+  "timestampMs": 307270,
+  "confidence": null
+ },
+ {
+  "text": " agent,",
+  "startMs": 307510,
+  "endMs": 308080,
+  "timestampMs": 307510,
+  "confidence": null
+ },
+ {
+  "text": " maximum",
+  "startMs": 308080,
+  "endMs": 308670,
+  "timestampMs": 308080,
+  "confidence": null
+ },
+ {
+  "text": " concurrent",
+  "startMs": 308670,
+  "endMs": 309510,
+  "timestampMs": 308670,
+  "confidence": null
+ },
+ {
+  "text": " calls,",
+  "startMs": 309510,
+  "endMs": 309940,
+  "timestampMs": 309510,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 309940,
+  "endMs": 310170,
+  "timestampMs": 309940,
+  "confidence": null
+ },
+ {
+  "text": " minimum",
+  "startMs": 310170,
+  "endMs": 310720,
+  "timestampMs": 310170,
+  "confidence": null
+ },
+ {
+  "text": " agents",
+  "startMs": 310720,
+  "endMs": 311210,
+  "timestampMs": 310720,
+  "confidence": null
+ },
+ {
+  "text": " required",
+  "startMs": 311210,
+  "endMs": 311820,
+  "timestampMs": 311210,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 311820,
+  "endMs": 311970,
+  "timestampMs": 311820,
+  "confidence": null
+ },
+ {
+  "text": " start.",
+  "startMs": 311970,
+  "endMs": 312640,
+  "timestampMs": 311970,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 312640,
+  "endMs": 312840,
+  "timestampMs": 312640,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 312840,
+  "endMs": 312970,
+  "timestampMs": 312840,
+  "confidence": null
+ },
+ {
+  "text": " also",
+  "startMs": 312970,
+  "endMs": 313290,
+  "timestampMs": 312970,
+  "confidence": null
+ },
+ {
+  "text": " configure",
+  "startMs": 313290,
+  "endMs": 313820,
+  "timestampMs": 313290,
+  "confidence": null
+ },
+ {
+  "text": " ramp",
+  "startMs": 313820,
+  "endMs": 314080,
+  "timestampMs": 313820,
+  "confidence": null
+ },
+ {
+  "text": " up",
+  "startMs": 314080,
+  "endMs": 314260,
+  "timestampMs": 314080,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 314260,
+  "endMs": 314470,
+  "timestampMs": 314260,
+  "confidence": null
+ },
+ {
+  "text": " ramp",
+  "startMs": 314470,
+  "endMs": 314780,
+  "timestampMs": 314470,
+  "confidence": null
+ },
+ {
+  "text": " down",
+  "startMs": 314780,
+  "endMs": 315090,
+  "timestampMs": 314780,
+  "confidence": null
+ },
+ {
+  "text": " settings",
+  "startMs": 315090,
+  "endMs": 315720,
+  "timestampMs": 315090,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 315720,
+  "endMs": 315850,
+  "timestampMs": 315720,
+  "confidence": null
+ },
+ {
+  "text": " manage",
+  "startMs": 315850,
+  "endMs": 316250,
+  "timestampMs": 315850,
+  "confidence": null
+ },
+ {
+  "text": " calling",
+  "startMs": 316250,
+  "endMs": 316720,
+  "timestampMs": 316250,
+  "confidence": null
+ },
+ {
+  "text": " activity.",
+  "startMs": 316720,
+  "endMs": 317480,
+  "timestampMs": 316720,
+  "confidence": null
+ },
+ {
+  "text": " Next,",
+  "startMs": 317480,
+  "endMs": 318430,
+  "timestampMs": 317480,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 318430,
+  "endMs": 318520,
+  "timestampMs": 318430,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 318520,
+  "endMs": 318790,
+  "timestampMs": 318520,
+  "confidence": null
+ },
+ {
+  "text": " assign",
+  "startMs": 318790,
+  "endMs": 319500,
+  "timestampMs": 318790,
+  "confidence": null
+ },
+ {
+  "text": " agent",
+  "startMs": 319500,
+  "endMs": 320090,
+  "timestampMs": 319500,
+  "confidence": null
+ },
+ {
+  "text": " skills",
+  "startMs": 320090,
+  "endMs": 320840,
+  "timestampMs": 320090,
+  "confidence": null
+ },
+ {
+  "text": " such",
+  "startMs": 320840,
+  "endMs": 321230,
+  "timestampMs": 320840,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 321230,
+  "endMs": 321430,
+  "timestampMs": 321230,
+  "confidence": null
+ },
+ {
+  "text": " support,",
+  "startMs": 321430,
+  "endMs": 322390,
+  "timestampMs": 321430,
+  "confidence": null
+ },
+ {
+  "text": " IT,",
+  "startMs": 322390,
+  "endMs": 322940,
+  "timestampMs": 322390,
+  "confidence": null
+ },
+ {
+  "text": " general",
+  "startMs": 322940,
+  "endMs": 323370,
+  "timestampMs": 322940,
+  "confidence": null
+ },
+ {
+  "text": " or",
+  "startMs": 323370,
+  "endMs": 323560,
+  "timestampMs": 323370,
+  "confidence": null
+ },
+ {
+  "text": " accounts.",
+  "startMs": 323560,
+  "endMs": 324720,
+  "timestampMs": 323560,
+  "confidence": null
+ },
+ {
+  "text": " These",
+  "startMs": 324720,
+  "endMs": 325120,
+  "timestampMs": 324720,
+  "confidence": null
+ },
+ {
+  "text": " fields",
+  "startMs": 325120,
+  "endMs": 325680,
+  "timestampMs": 325120,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 325680,
+  "endMs": 325870,
+  "timestampMs": 325680,
+  "confidence": null
+ },
+ {
+  "text": " optional.",
+  "startMs": 325870,
+  "endMs": 326720,
+  "timestampMs": 325870,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 326770,
+  "endMs": 326860,
+  "timestampMs": 326770,
+  "confidence": null
+ },
+ {
+  "text": " then",
+  "startMs": 326860,
+  "endMs": 327220,
+  "timestampMs": 326860,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 327220,
+  "endMs": 327620,
+  "timestampMs": 327220,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 327620,
+  "endMs": 327770,
+  "timestampMs": 327620,
+  "confidence": null
+ },
+ {
+  "text": " business",
+  "startMs": 327770,
+  "endMs": 328330,
+  "timestampMs": 327770,
+  "confidence": null
+ },
+ {
+  "text": " days",
+  "startMs": 328330,
+  "endMs": 328620,
+  "timestampMs": 328330,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 328620,
+  "endMs": 328900,
+  "timestampMs": 328620,
+  "confidence": null
+ },
+ {
+  "text": " configure",
+  "startMs": 328900,
+  "endMs": 329440,
+  "timestampMs": 328900,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 329440,
+  "endMs": 329640,
+  "timestampMs": 329440,
+  "confidence": null
+ },
+ {
+  "text": " business",
+  "startMs": 329640,
+  "endMs": 330190,
+  "timestampMs": 329640,
+  "confidence": null
+ },
+ {
+  "text": " hours",
+  "startMs": 330190,
+  "endMs": 330560,
+  "timestampMs": 330190,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 330560,
+  "endMs": 330810,
+  "timestampMs": 330560,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 330810,
+  "endMs": 330930,
+  "timestampMs": 330810,
+  "confidence": null
+ },
+ {
+  "text": " campaign.",
+  "startMs": 330930,
+  "endMs": 331760,
+  "timestampMs": 330930,
+  "confidence": null
+ },
+ {
+  "text": " For",
+  "startMs": 331760,
+  "endMs": 331960,
+  "timestampMs": 331760,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 331960,
+  "endMs": 332230,
+  "timestampMs": 331960,
+  "confidence": null
+ },
+ {
+  "text": " demonstration,",
+  "startMs": 332230,
+  "endMs": 333300,
+  "timestampMs": 332230,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 333300,
+  "endMs": 333410,
+  "timestampMs": 333300,
+  "confidence": null
+ },
+ {
+  "text": " set",
+  "startMs": 333410,
+  "endMs": 333730,
+  "timestampMs": 333410,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 333730,
+  "endMs": 333860,
+  "timestampMs": 333730,
+  "confidence": null
+ },
+ {
+  "text": " start",
+  "startMs": 333860,
+  "endMs": 334240,
+  "timestampMs": 333860,
+  "confidence": null
+ },
+ {
+  "text": " time",
+  "startMs": 334240,
+  "endMs": 334560,
+  "timestampMs": 334240,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 334560,
+  "endMs": 334690,
+  "timestampMs": 334560,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 334690,
+  "endMs": 334950,
+  "timestampMs": 334690,
+  "confidence": null
+ },
+ {
+  "text": " current",
+  "startMs": 334950,
+  "endMs": 335360,
+  "timestampMs": 334950,
+  "confidence": null
+ },
+ {
+  "text": " time",
+  "startMs": 335360,
+  "endMs": 335620,
+  "timestampMs": 335360,
+  "confidence": null
+ },
+ {
+  "text": " with",
+  "startMs": 335620,
+  "endMs": 335880,
+  "timestampMs": 335620,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 335880,
+  "endMs": 336080,
+  "timestampMs": 335880,
+  "confidence": null
+ },
+ {
+  "text": " required",
+  "startMs": 336080,
+  "endMs": 336610,
+  "timestampMs": 336080,
+  "confidence": null
+ },
+ {
+  "text": " time",
+  "startMs": 336610,
+  "endMs": 336870,
+  "timestampMs": 336610,
+  "confidence": null
+ },
+ {
+  "text": " adjustments",
+  "startMs": 336870,
+  "endMs": 337660,
+  "timestampMs": 336870,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 337660,
+  "endMs": 337920,
+  "timestampMs": 337660,
+  "confidence": null
+ },
+ {
+  "text": " configure",
+  "startMs": 337920,
+  "endMs": 338700,
+  "timestampMs": 337920,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 338700,
+  "endMs": 338960,
+  "timestampMs": 338700,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 338960,
+  "endMs": 339650,
+  "timestampMs": 338960,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 339650,
+  "endMs": 339820,
+  "timestampMs": 339650,
+  "confidence": null
+ },
+ {
+  "text": " run",
+  "startMs": 339820,
+  "endMs": 340080,
+  "timestampMs": 339820,
+  "confidence": null
+ },
+ {
+  "text": " until",
+  "startMs": 340080,
+  "endMs": 340510,
+  "timestampMs": 340080,
+  "confidence": null
+ },
+ {
+  "text": " 11",
+  "startMs": 340510,
+  "endMs": 340840,
+  "timestampMs": 340510,
+  "confidence": null
+ },
+ {
+  "text": " p.m.",
+  "startMs": 340840,
+  "endMs": 341760,
+  "timestampMs": 340840,
+  "confidence": null
+ },
+ {
+  "text": " For",
+  "startMs": 341760,
+  "endMs": 342040,
+  "timestampMs": 341760,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 342040,
+  "endMs": 342330,
+  "timestampMs": 342040,
+  "confidence": null
+ },
+ {
+  "text": " SMS",
+  "startMs": 342330,
+  "endMs": 342630,
+  "timestampMs": 342330,
+  "confidence": null
+ },
+ {
+  "text": " channel,",
+  "startMs": 342630,
+  "endMs": 343540,
+  "timestampMs": 342630,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 343540,
+  "endMs": 343640,
+  "timestampMs": 343540,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 343640,
+  "endMs": 344160,
+  "timestampMs": 343640,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 344160,
+  "endMs": 344350,
+  "timestampMs": 344160,
+  "confidence": null
+ },
+ {
+  "text": " custom",
+  "startMs": 344350,
+  "endMs": 344820,
+  "timestampMs": 344350,
+  "confidence": null
+ },
+ {
+  "text": " template",
+  "startMs": 344820,
+  "endMs": 345450,
+  "timestampMs": 344820,
+  "confidence": null
+ },
+ {
+  "text": " option",
+  "startMs": 345450,
+  "endMs": 345960,
+  "timestampMs": 345450,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 345960,
+  "endMs": 346160,
+  "timestampMs": 345960,
+  "confidence": null
+ },
+ {
+  "text": " choose",
+  "startMs": 346160,
+  "endMs": 346590,
+  "timestampMs": 346160,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 346590,
+  "endMs": 346770,
+  "timestampMs": 346590,
+  "confidence": null
+ },
+ {
+  "text": " insurance",
+  "startMs": 346770,
+  "endMs": 347390,
+  "timestampMs": 346770,
+  "confidence": null
+ },
+ {
+  "text": " renewal",
+  "startMs": 347390,
+  "endMs": 347870,
+  "timestampMs": 347390,
+  "confidence": null
+ },
+ {
+  "text": " template.",
+  "startMs": 347870,
+  "endMs": 348660,
+  "timestampMs": 347870,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 348660,
+  "endMs": 348790,
+  "timestampMs": 348660,
+  "confidence": null
+ },
+ {
+  "text": " then",
+  "startMs": 348790,
+  "endMs": 349060,
+  "timestampMs": 348790,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 349060,
+  "endMs": 349600,
+  "timestampMs": 349060,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 349600,
+  "endMs": 349670,
+  "timestampMs": 349600,
+  "confidence": null
+ },
+ {
+  "text": " messaging",
+  "startMs": 349670,
+  "endMs": 350280,
+  "timestampMs": 349670,
+  "confidence": null
+ },
+ {
+  "text": " service,",
+  "startMs": 350280,
+  "endMs": 350960,
+  "timestampMs": 350280,
+  "confidence": null
+ },
+ {
+  "text": " choose",
+  "startMs": 350960,
+  "endMs": 351450,
+  "timestampMs": 350960,
+  "confidence": null
+ },
+ {
+  "text": " Monday",
+  "startMs": 351450,
+  "endMs": 351940,
+  "timestampMs": 351450,
+  "confidence": null
+ },
+ {
+  "text": " as",
+  "startMs": 351940,
+  "endMs": 352100,
+  "timestampMs": 351940,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 352100,
+  "endMs": 352350,
+  "timestampMs": 352100,
+  "confidence": null
+ },
+ {
+  "text": " business",
+  "startMs": 352350,
+  "endMs": 353260,
+  "timestampMs": 352350,
+  "confidence": null
+ },
+ {
+  "text": " day,",
+  "startMs": 353260,
+  "endMs": 353260,
+  "timestampMs": 353260,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 353260,
+  "endMs": 353540,
+  "timestampMs": 353260,
+  "confidence": null
+ },
+ {
+  "text": " configure",
+  "startMs": 353540,
+  "endMs": 354380,
+  "timestampMs": 353540,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 354380,
+  "endMs": 354660,
+  "timestampMs": 354380,
+  "confidence": null
+ },
+ {
+  "text": " business",
+  "startMs": 354660,
+  "endMs": 355280,
+  "timestampMs": 354660,
+  "confidence": null
+ },
+ {
+  "text": " hours.",
+  "startMs": 355280,
+  "endMs": 356160,
+  "timestampMs": 355280,
+  "confidence": null
+ },
+ {
+  "text": " Next,",
+  "startMs": 356190,
+  "endMs": 356570,
+  "timestampMs": 356190,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 356570,
+  "endMs": 356770,
+  "timestampMs": 356570,
+  "confidence": null
+ },
+ {
+  "text": " configure",
+  "startMs": 356770,
+  "endMs": 357330,
+  "timestampMs": 356770,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 357330,
+  "endMs": 357530,
+  "timestampMs": 357330,
+  "confidence": null
+ },
+ {
+  "text": " email",
+  "startMs": 357530,
+  "endMs": 357890,
+  "timestampMs": 357530,
+  "confidence": null
+ },
+ {
+  "text": " channel",
+  "startMs": 357890,
+  "endMs": 358400,
+  "timestampMs": 357890,
+  "confidence": null
+ },
+ {
+  "text": " by",
+  "startMs": 358400,
+  "endMs": 358530,
+  "timestampMs": 358400,
+  "confidence": null
+ },
+ {
+  "text": " selecting",
+  "startMs": 358530,
+  "endMs": 359140,
+  "timestampMs": 358530,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 359140,
+  "endMs": 359340,
+  "timestampMs": 359140,
+  "confidence": null
+ },
+ {
+  "text": " insurance",
+  "startMs": 359340,
+  "endMs": 359950,
+  "timestampMs": 359340,
+  "confidence": null
+ },
+ {
+  "text": " renewal",
+  "startMs": 359950,
+  "endMs": 360430,
+  "timestampMs": 359950,
+  "confidence": null
+ },
+ {
+  "text": " template",
+  "startMs": 360430,
+  "endMs": 361000,
+  "timestampMs": 360430,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 361000,
+  "endMs": 361260,
+  "timestampMs": 361000,
+  "confidence": null
+ },
+ {
+  "text": " setting",
+  "startMs": 361260,
+  "endMs": 361660,
+  "timestampMs": 361260,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 361660,
+  "endMs": 361840,
+  "timestampMs": 361660,
+  "confidence": null
+ },
+ {
+  "text": " business",
+  "startMs": 361840,
+  "endMs": 362380,
+  "timestampMs": 361840,
+  "confidence": null
+ },
+ {
+  "text": " day",
+  "startMs": 362380,
+  "endMs": 362580,
+  "timestampMs": 362380,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 362580,
+  "endMs": 362750,
+  "timestampMs": 362580,
+  "confidence": null
+ },
+ {
+  "text": " operating",
+  "startMs": 362750,
+  "endMs": 363330,
+  "timestampMs": 362750,
+  "confidence": null
+ },
+ {
+  "text": " hours.",
+  "startMs": 363330,
+  "endMs": 363900,
+  "timestampMs": 363330,
+  "confidence": null
+ },
+ {
+  "text": " For",
+  "startMs": 363900,
+  "endMs": 364320,
+  "timestampMs": 363900,
+  "confidence": null
+ },
+ {
+  "text": " WhatsApp,",
+  "startMs": 364320,
+  "endMs": 365720,
+  "timestampMs": 364320,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 365720,
+  "endMs": 366840,
+  "timestampMs": 365720,
+  "confidence": null
+ },
+ {
+  "text": " select",
+  "startMs": 366840,
+  "endMs": 366850,
+  "timestampMs": 366840,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 366850,
+  "endMs": 367370,
+  "timestampMs": 366850,
+  "confidence": null
+ },
+ {
+  "text": " special",
+  "startMs": 367370,
+  "endMs": 368240,
+  "timestampMs": 367370,
+  "confidence": null
+ },
+ {
+  "text": " official",
+  "startMs": 368240,
+  "endMs": 369360,
+  "timestampMs": 368240,
+  "confidence": null
+ },
+ {
+  "text": " template",
+  "startMs": 369360,
+  "endMs": 370520,
+  "timestampMs": 369360,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 370520,
+  "endMs": 370700,
+  "timestampMs": 370520,
+  "confidence": null
+ },
+ {
+  "text": " choose",
+  "startMs": 370700,
+  "endMs": 371090,
+  "timestampMs": 370700,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 371090,
+  "endMs": 371210,
+  "timestampMs": 371090,
+  "confidence": null
+ },
+ {
+  "text": " WhatsApp",
+  "startMs": 371210,
+  "endMs": 371680,
+  "timestampMs": 371210,
+  "confidence": null
+ },
+ {
+  "text": " number",
+  "startMs": 371680,
+  "endMs": 372110,
+  "timestampMs": 371680,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 372110,
+  "endMs": 372220,
+  "timestampMs": 372110,
+  "confidence": null
+ },
+ {
+  "text": " be",
+  "startMs": 372220,
+  "endMs": 372380,
+  "timestampMs": 372220,
+  "confidence": null
+ },
+ {
+  "text": " used",
+  "startMs": 372380,
+  "endMs": 372730,
+  "timestampMs": 372380,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 372730,
+  "endMs": 372940,
+  "timestampMs": 372730,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 372940,
+  "endMs": 373170,
+  "timestampMs": 372940,
+  "confidence": null
+ },
+ {
+  "text": " campaign.",
+  "startMs": 373170,
+  "endMs": 374120,
+  "timestampMs": 373170,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 374120,
+  "endMs": 374240,
+  "timestampMs": 374120,
+  "confidence": null
+ },
+ {
+  "text": " then",
+  "startMs": 374240,
+  "endMs": 374530,
+  "timestampMs": 374240,
+  "confidence": null
+ },
+ {
+  "text": " configure",
+  "startMs": 374530,
+  "endMs": 375080,
+  "timestampMs": 374530,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 375080,
+  "endMs": 375250,
+  "timestampMs": 375080,
+  "confidence": null
+ },
+ {
+  "text": " business",
+  "startMs": 375250,
+  "endMs": 375760,
+  "timestampMs": 375250,
+  "confidence": null
+ },
+ {
+  "text": " day",
+  "startMs": 375760,
+  "endMs": 375960,
+  "timestampMs": 375760,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 375960,
+  "endMs": 376200,
+  "timestampMs": 375960,
+  "confidence": null
+ },
+ {
+  "text": " operating",
+  "startMs": 376200,
+  "endMs": 376780,
+  "timestampMs": 376200,
+  "confidence": null
+ },
+ {
+  "text": " hours",
+  "startMs": 376780,
+  "endMs": 377190,
+  "timestampMs": 376780,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 377190,
+  "endMs": 377320,
+  "timestampMs": 377190,
+  "confidence": null
+ },
+ {
+  "text": " WhatsApp.",
+  "startMs": 377320,
+  "endMs": 378100,
+  "timestampMs": 377320,
+  "confidence": null
+ },
+ {
+  "text": " Once",
+  "startMs": 378100,
+  "endMs": 378690,
+  "timestampMs": 378100,
+  "confidence": null
+ },
+ {
+  "text": " all",
+  "startMs": 378690,
+  "endMs": 379130,
+  "timestampMs": 378690,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 379130,
+  "endMs": 379570,
+  "timestampMs": 379130,
+  "confidence": null
+ },
+ {
+  "text": " channels",
+  "startMs": 379570,
+  "endMs": 381030,
+  "timestampMs": 379570,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 381030,
+  "endMs": 381250,
+  "timestampMs": 381030,
+  "confidence": null
+ },
+ {
+  "text": " configured,",
+  "startMs": 381250,
+  "endMs": 383020,
+  "timestampMs": 381250,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 383060,
+  "endMs": 383160,
+  "timestampMs": 383060,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 383160,
+  "endMs": 383520,
+  "timestampMs": 383160,
+  "confidence": null
+ },
+ {
+  "text": " review",
+  "startMs": 383520,
+  "endMs": 383970,
+  "timestampMs": 383520,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 383970,
+  "endMs": 384100,
+  "timestampMs": 383970,
+  "confidence": null
+ },
+ {
+  "text": " view",
+  "startMs": 384100,
+  "endMs": 384390,
+  "timestampMs": 384100,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 384390,
+  "endMs": 384610,
+  "timestampMs": 384390,
+  "confidence": null
+ },
+ {
+  "text": " complete",
+  "startMs": 384610,
+  "endMs": 385210,
+  "timestampMs": 384610,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 385210,
+  "endMs": 385790,
+  "timestampMs": 385210,
+  "confidence": null
+ },
+ {
+  "text": " setup.",
+  "startMs": 385790,
+  "endMs": 386420,
+  "timestampMs": 385790,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 386420,
+  "endMs": 386550,
+  "timestampMs": 386420,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 386550,
+  "endMs": 386750,
+  "timestampMs": 386550,
+  "confidence": null
+ },
+ {
+  "text": " verify",
+  "startMs": 386750,
+  "endMs": 387140,
+  "timestampMs": 386750,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 387140,
+  "endMs": 387340,
+  "timestampMs": 387140,
+  "confidence": null
+ },
+ {
+  "text": " contact",
+  "startMs": 387340,
+  "endMs": 387800,
+  "timestampMs": 387340,
+  "confidence": null
+ },
+ {
+  "text": " list,",
+  "startMs": 387800,
+  "endMs": 388320,
+  "timestampMs": 387800,
+  "confidence": null
+ },
+ {
+  "text": " communication",
+  "startMs": 388320,
+  "endMs": 388970,
+  "timestampMs": 388320,
+  "confidence": null
+ },
+ {
+  "text": " channels,",
+  "startMs": 388970,
+  "endMs": 389560,
+  "timestampMs": 388970,
+  "confidence": null
+ },
+ {
+  "text": " templates,",
+  "startMs": 389560,
+  "endMs": 390330,
+  "timestampMs": 389560,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 390330,
+  "endMs": 390570,
+  "timestampMs": 390330,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 390570,
+  "endMs": 391100,
+  "timestampMs": 390570,
+  "confidence": null
+ },
+ {
+  "text": " settings.",
+  "startMs": 391100,
+  "endMs": 391880,
+  "timestampMs": 391100,
+  "confidence": null
+ },
+ {
+  "text": " If",
+  "startMs": 391880,
+  "endMs": 392030,
+  "timestampMs": 391880,
+  "confidence": null
+ },
+ {
+  "text": " any",
+  "startMs": 392030,
+  "endMs": 392290,
+  "timestampMs": 392030,
+  "confidence": null
+ },
+ {
+  "text": " changes",
+  "startMs": 392290,
+  "endMs": 392770,
+  "timestampMs": 392290,
+  "confidence": null
+ },
+ {
+  "text": " are",
+  "startMs": 392770,
+  "endMs": 393040,
+  "timestampMs": 392770,
+  "confidence": null
+ },
+ {
+  "text": " required,",
+  "startMs": 393040,
+  "endMs": 393760,
+  "timestampMs": 393040,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 393760,
+  "endMs": 393960,
+  "timestampMs": 393760,
+  "confidence": null
+ },
+ {
+  "text": " can",
+  "startMs": 393960,
+  "endMs": 394120,
+  "timestampMs": 393960,
+  "confidence": null
+ },
+ {
+  "text": " edit",
+  "startMs": 394120,
+  "endMs": 394410,
+  "timestampMs": 394120,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 394410,
+  "endMs": 394600,
+  "timestampMs": 394410,
+  "confidence": null
+ },
+ {
+  "text": " relevant",
+  "startMs": 394600,
+  "endMs": 395240,
+  "timestampMs": 394600,
+  "confidence": null
+ },
+ {
+  "text": " details",
+  "startMs": 395240,
+  "endMs": 395650,
+  "timestampMs": 395240,
+  "confidence": null
+ },
+ {
+  "text": " before",
+  "startMs": 395650,
+  "endMs": 396070,
+  "timestampMs": 395650,
+  "confidence": null
+ },
+ {
+  "text": " proceeding.",
+  "startMs": 396070,
+  "endMs": 397020,
+  "timestampMs": 396070,
+  "confidence": null
+ },
+ {
+  "text": " Once",
+  "startMs": 397020,
+  "endMs": 397270,
+  "timestampMs": 397020,
+  "confidence": null
+ },
+ {
+  "text": " everything",
+  "startMs": 397270,
+  "endMs": 397840,
+  "timestampMs": 397270,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 397840,
+  "endMs": 397930,
+  "timestampMs": 397840,
+  "confidence": null
+ },
+ {
+  "text": " verified,",
+  "startMs": 397930,
+  "endMs": 398570,
+  "timestampMs": 397930,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 398570,
+  "endMs": 398650,
+  "timestampMs": 398570,
+  "confidence": null
+ },
+ {
+  "text": " create",
+  "startMs": 398650,
+  "endMs": 399100,
+  "timestampMs": 398650,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 399100,
+  "endMs": 399250,
+  "timestampMs": 399100,
+  "confidence": null
+ },
+ {
+  "text": " campaign.",
+  "startMs": 399250,
+  "endMs": 399980,
+  "timestampMs": 399250,
+  "confidence": null
+ },
+ {
+  "text": " The",
+  "startMs": 399980,
+  "endMs": 400370,
+  "timestampMs": 399980,
+  "confidence": null
+ },
+ {
+  "text": " campaign",
+  "startMs": 400370,
+  "endMs": 401410,
+  "timestampMs": 400370,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 401410,
+  "endMs": 402510,
+  "timestampMs": 401410,
+  "confidence": null
+ },
+ {
+  "text": " currently",
+  "startMs": 402510,
+  "endMs": 402860,
+  "timestampMs": 402510,
+  "confidence": null
+ },
+ {
+  "text": " scheduled",
+  "startMs": 402860,
+  "endMs": 404010,
+  "timestampMs": 402860,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 404010,
+  "endMs": 404450,
+  "timestampMs": 404010,
+  "confidence": null
+ },
+ {
+  "text": " 4",
+  "startMs": 404450,
+  "endMs": 404790,
+  "timestampMs": 404450,
+  "confidence": null
+ },
+ {
+  "text": " p.m.",
+  "startMs": 404790,
+  "endMs": 405860,
+  "timestampMs": 404790,
+  "confidence": null
+ },
+ {
+  "text": " but",
+  "startMs": 405860,
+  "endMs": 406080,
+  "timestampMs": 405860,
+  "confidence": null
+ },
+ {
+  "text": " for",
+  "startMs": 406080,
+  "endMs": 406260,
+  "timestampMs": 406080,
+  "confidence": null
+ },
+ {
+  "text": " this",
+  "startMs": 406260,
+  "endMs": 406530,
+  "timestampMs": 406260,
+  "confidence": null
+ },
+ {
+  "text": " demonstration,",
+  "startMs": 406530,
+  "endMs": 407460,
+  "timestampMs": 406530,
+  "confidence": null
+ },
+ {
+  "text": " we",
+  "startMs": 407460,
+  "endMs": 407620,
+  "timestampMs": 407460,
+  "confidence": null
+ },
+ {
+  "text": " want",
+  "startMs": 407620,
+  "endMs": 407990,
+  "timestampMs": 407620,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 407990,
+  "endMs": 408320,
+  "timestampMs": 407990,
+  "confidence": null
+ },
+ {
+  "text": " execute",
+  "startMs": 408320,
+  "endMs": 408660,
+  "timestampMs": 408320,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 408660,
+  "endMs": 408820,
+  "timestampMs": 408660,
+  "confidence": null
+ },
+ {
+  "text": " immediately.",
+  "startMs": 408820,
+  "endMs": 409980,
+  "timestampMs": 408820,
+  "confidence": null
+ },
+ {
+  "text": " We",
+  "startMs": 410040,
+  "endMs": 410250,
+  "timestampMs": 410040,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 410250,
+  "endMs": 410480,
+  "timestampMs": 410250,
+  "confidence": null
+ },
+ {
+  "text": " on",
+  "startMs": 410480,
+  "endMs": 410620,
+  "timestampMs": 410480,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 410620,
+  "endMs": 410860,
+  "timestampMs": 410620,
+  "confidence": null
+ },
+ {
+  "text": " execute",
+  "startMs": 410860,
+  "endMs": 411340,
+  "timestampMs": 410860,
+  "confidence": null
+ },
+ {
+  "text": " button",
+  "startMs": 411340,
+  "endMs": 411810,
+  "timestampMs": 411340,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 411810,
+  "endMs": 411900,
+  "timestampMs": 411810,
+  "confidence": null
+ },
+ {
+  "text": " start",
+  "startMs": 411900,
+  "endMs": 412290,
+  "timestampMs": 411900,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 412290,
+  "endMs": 412480,
+  "timestampMs": 412290,
+  "confidence": null
+ },
+ {
+  "text": " campaign.",
+  "startMs": 412480,
+  "endMs": 413320,
+  "timestampMs": 412480,
+  "confidence": null
+ },
+ {
+  "text": " As",
+  "startMs": 413320,
+  "endMs": 413430,
+  "timestampMs": 413320,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 413430,
+  "endMs": 413670,
+  "timestampMs": 413430,
+  "confidence": null
+ },
+ {
+  "text": " call",
+  "startMs": 413670,
+  "endMs": 413910,
+  "timestampMs": 413670,
+  "confidence": null
+ },
+ {
+  "text": " comes",
+  "startMs": 413910,
+  "endMs": 414210,
+  "timestampMs": 413910,
+  "confidence": null
+ },
+ {
+  "text": " through,",
+  "startMs": 414210,
+  "endMs": 414700,
+  "timestampMs": 414210,
+  "confidence": null
+ },
+ {
+  "text": " I",
+  "startMs": 414700,
+  "endMs": 414760,
+  "timestampMs": 414700,
+  "confidence": null
+ },
+ {
+  "text": " click",
+  "startMs": 414760,
+  "endMs": 415190,
+  "timestampMs": 414760,
+  "confidence": null
+ },
+ {
+  "text": " accept",
+  "startMs": 415190,
+  "endMs": 415740,
+  "timestampMs": 415190,
+  "confidence": null
+ },
+ {
+  "text": " to",
+  "startMs": 415740,
+  "endMs": 415920,
+  "timestampMs": 415740,
+  "confidence": null
+ },
+ {
+  "text": " answer",
+  "startMs": 415920,
+  "endMs": 416720,
+  "timestampMs": 415920,
+  "confidence": null
+ },
+ {
+  "text": " it",
+  "startMs": 416720,
+  "endMs": 416720,
+  "timestampMs": 416720,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 416720,
+  "endMs": 416910,
+  "timestampMs": 416720,
+  "confidence": null
+ },
+ {
+  "text": " demonstrate",
+  "startMs": 416910,
+  "endMs": 417630,
+  "timestampMs": 416910,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 417630,
+  "endMs": 417820,
+  "timestampMs": 417630,
+  "confidence": null
+ },
+ {
+  "text": " live",
+  "startMs": 417820,
+  "endMs": 418090,
+  "timestampMs": 417820,
+  "confidence": null
+ },
+ {
+  "text": " calling",
+  "startMs": 418090,
+  "endMs": 418530,
+  "timestampMs": 418090,
+  "confidence": null
+ },
+ {
+  "text": " experience.",
+  "startMs": 418530,
+  "endMs": 419420,
+  "timestampMs": 418530,
+  "confidence": null
+ },
+ {
+  "text": " The",
+  "startMs": 419420,
+  "endMs": 419830,
+  "timestampMs": 419420,
+  "confidence": null
+ },
+ {
+  "text": " call",
+  "startMs": 419830,
+  "endMs": 420380,
+  "timestampMs": 419830,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 420380,
+  "endMs": 421630,
+  "timestampMs": 420380,
+  "confidence": null
+ },
+ {
+  "text": " transferred",
+  "startMs": 421630,
+  "endMs": 422300,
+  "timestampMs": 421630,
+  "confidence": null
+ },
+ {
+  "text": " through",
+  "startMs": 422300,
+  "endMs": 423120,
+  "timestampMs": 422300,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 423120,
+  "endMs": 423640,
+  "timestampMs": 423120,
+  "confidence": null
+ },
+ {
+  "text": " Voicera",
+  "startMs": 423640,
+  "endMs": 424480,
+  "timestampMs": 423640,
+  "confidence": null
+ },
+ {
+  "text": " Flex",
+  "startMs": 424480,
+  "endMs": 425030,
+  "timestampMs": 424480,
+  "confidence": null
+ },
+ {
+  "text": " SDK",
+  "startMs": 425030,
+  "endMs": 425480,
+  "timestampMs": 425030,
+  "confidence": null
+ },
+ {
+  "text": " and",
+  "startMs": 425480,
+  "endMs": 425660,
+  "timestampMs": 425480,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 425660,
+  "endMs": 425870,
+  "timestampMs": 425660,
+  "confidence": null
+ },
+ {
+  "text": " agent",
+  "startMs": 425870,
+  "endMs": 426140,
+  "timestampMs": 425870,
+  "confidence": null
+ },
+ {
+  "text": " answers",
+  "startMs": 426140,
+  "endMs": 426610,
+  "timestampMs": 426140,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 426610,
+  "endMs": 426740,
+  "timestampMs": 426610,
+  "confidence": null
+ },
+ {
+  "text": " call.",
+  "startMs": 426740,
+  "endMs": 427180,
+  "timestampMs": 426740,
+  "confidence": null
+ },
+ {
+  "text": " -",
+  "startMs": 427180,
+  "endMs": 427300,
+  "timestampMs": 427180,
+  "confidence": null
+ },
+ {
+  "text": " How",
+  "startMs": 427300,
+  "endMs": 427670,
+  "timestampMs": 427300,
+  "confidence": null
+ },
+ {
+  "text": " may",
+  "startMs": 427670,
+  "endMs": 428160,
+  "timestampMs": 427670,
+  "confidence": null
+ },
+ {
+  "text": " I",
+  "startMs": 428160,
+  "endMs": 428380,
+  "timestampMs": 428160,
+  "confidence": null
+ },
+ {
+  "text": " help",
+  "startMs": 428380,
+  "endMs": 428650,
+  "timestampMs": 428380,
+  "confidence": null
+ },
+ {
+  "text": " you?",
+  "startMs": 428650,
+  "endMs": 429420,
+  "timestampMs": 428650,
+  "confidence": null
+ },
+ {
+  "text": " -",
+  "startMs": 429420,
+  "endMs": 430320,
+  "timestampMs": 429420,
+  "confidence": null
+ },
+ {
+  "text": " This",
+  "startMs": 430320,
+  "endMs": 430370,
+  "timestampMs": 430320,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 430370,
+  "endMs": 430680,
+  "timestampMs": 430370,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 430680,
+  "endMs": 431220,
+  "timestampMs": 430680,
+  "confidence": null
+ },
+ {
+  "text": " SMS.",
+  "startMs": 431220,
+  "endMs": 432320,
+  "timestampMs": 431220,
+  "confidence": null
+ },
+ {
+  "text": " This",
+  "startMs": 432320,
+  "endMs": 432800,
+  "timestampMs": 432320,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 432800,
+  "endMs": 433020,
+  "timestampMs": 432800,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 433020,
+  "endMs": 433370,
+  "timestampMs": 433020,
+  "confidence": null
+ },
+ {
+  "text": " email.",
+  "startMs": 433370,
+  "endMs": 434320,
+  "timestampMs": 433370,
+  "confidence": null
+ },
+ {
+  "text": " This",
+  "startMs": 434320,
+  "endMs": 434600,
+  "timestampMs": 434320,
+  "confidence": null
+ },
+ {
+  "text": " is",
+  "startMs": 434600,
+  "endMs": 434770,
+  "timestampMs": 434600,
+  "confidence": null
+ },
+ {
+  "text": " the",
+  "startMs": 434770,
+  "endMs": 434910,
+  "timestampMs": 434770,
+  "confidence": null
+ },
+ {
+  "text": " WhatsApp",
+  "startMs": 434910,
+  "endMs": 435470,
+  "timestampMs": 434910,
+  "confidence": null
+ },
+ {
+  "text": " message.",
+  "startMs": 435470,
+  "endMs": 436180,
+  "timestampMs": 435470,
+  "confidence": null
+ }
+]

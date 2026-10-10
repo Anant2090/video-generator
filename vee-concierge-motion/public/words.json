@@ -1,0 +1,2652 @@
+[
+{
+"text": "Hello,",
+"start": 10.58,
+"end": 11.1
+},
+{
+"text": "how",
+"start": 11.1,
+"end": 11.38
+},
+{
+"text": "may",
+"start": 11.38,
+"end": 11.54
+},
+{
+"text": "I",
+"start": 11.54,
+"end": 11.68
+},
+{
+"text": "help",
+"start": 11.68,
+"end": 11.92
+},
+{
+"text": "you?",
+"start": 11.92,
+"end": 12.44
+},
+{
+"text": "From",
+"start": 12.44,
+"end": 12.9
+},
+{
+"text": "reservations",
+"start": 12.9,
+"end": 13.44
+},
+{
+"text": "and",
+"start": 13.44,
+"end": 13.76
+},
+{
+"text": "dining",
+"start": 13.76,
+"end": 14.08
+},
+{
+"text": "to",
+"start": 14.08,
+"end": 14.32
+},
+{
+"text": "concierge",
+"start": 14.32,
+"end": 14.92
+},
+{
+"text": "services",
+"start": 14.92,
+"end": 15.36
+},
+{
+"text": "and",
+"start": 15.36,
+"end": 15.6
+},
+{
+"text": "requests.",
+"start": 15.6,
+"end": 16.34
+},
+{
+"text": "Can",
+"start": 16.34,
+"end": 16.6
+},
+{
+"text": "you",
+"start": 16.6,
+"end": 16.72
+},
+{
+"text": "arrange",
+"start": 16.72,
+"end": 17.02
+},
+{
+"text": "an",
+"start": 17.02,
+"end": 17.18
+},
+{
+"text": "airport",
+"start": 17.18,
+"end": 17.5
+},
+{
+"text": "transfer?",
+"start": 17.5,
+"end": 18.64
+},
+{
+"text": "VEE",
+"start": 18.64,
+"end": 18.76
+},
+{
+"text": "takes",
+"start": 18.76,
+"end": 19.18
+},
+{
+"text": "care",
+"start": 19.18,
+"end": 19.44
+},
+{
+"text": "of",
+"start": 19.44,
+"end": 19.62
+},
+{
+"text": "it.",
+"start": 19.62,
+"end": 20.18
+},
+{
+"text": "Let's",
+"start": 22.395,
+"end": 22.715
+},
+{
+"text": "see",
+"start": 22.715,
+"end": 22.835
+},
+{
+"text": "how",
+"start": 22.835,
+"end": 23.035
+},
+{
+"text": "VEE",
+"start": 23.035,
+"end": 23.395
+},
+{
+"text": "handles",
+"start": 23.395,
+"end": 23.695
+},
+{
+"text": "a",
+"start": 23.695,
+"end": 23.875
+},
+{
+"text": "call",
+"start": 23.875,
+"end": 24.235
+},
+{
+"text": "and",
+"start": 24.235,
+"end": 24.875
+},
+{
+"text": "helps",
+"start": 24.875,
+"end": 25.175
+},
+{
+"text": "a",
+"start": 25.175,
+"end": 25.335
+},
+{
+"text": "guest",
+"start": 25.335,
+"end": 25.555
+},
+{
+"text": "reserve",
+"start": 25.555,
+"end": 25.915
+},
+{
+"text": "a",
+"start": 25.915,
+"end": 26.115
+},
+{
+"text": "room.",
+"start": 26.115,
+"end": 26.615
+},
+{
+"text": "Welcome",
+"start": 26.615,
+"end": 28.595
+},
+{
+"text": "to",
+"start": 28.595,
+"end": 28.815
+},
+{
+"text": "the",
+"start": 28.815,
+"end": 28.935
+},
+{
+"text": "Demo",
+"start": 28.935,
+"end": 29.235
+},
+{
+"text": "Heritage",
+"start": 29.235,
+"end": 29.535
+},
+{
+"text": "Hotel.",
+"start": 29.535,
+"end": 30.295
+},
+{
+"text": "How",
+"start": 30.295,
+"end": 30.415
+},
+{
+"text": "may",
+"start": 30.415,
+"end": 30.555
+},
+{
+"text": "I",
+"start": 30.555,
+"end": 30.695
+},
+{
+"text": "assist",
+"start": 30.695,
+"end": 31.035
+},
+{
+"text": "you",
+"start": 31.035,
+"end": 31.215
+},
+{
+"text": "today?",
+"start": 31.215,
+"end": 32.295
+},
+{
+"text": "Hi,",
+"start": 32.295,
+"end": 32.775
+},
+{
+"text": "I",
+"start": 32.775,
+"end": 32.895
+},
+{
+"text": "wanted",
+"start": 32.895,
+"end": 33.095
+},
+{
+"text": "to",
+"start": 33.095,
+"end": 33.275
+},
+{
+"text": "book",
+"start": 33.275,
+"end": 33.455
+},
+{
+"text": "a",
+"start": 33.455,
+"end": 33.575
+},
+{
+"text": "hotel",
+"start": 33.575,
+"end": 33.855
+},
+{
+"text": "room.",
+"start": 33.855,
+"end": 34.635
+},
+{
+"text": "Awesome,",
+"start": 34.635,
+"end": 34.975
+},
+{
+"text": "I",
+"start": 34.975,
+"end": 35.115
+},
+{
+"text": "can",
+"start": 35.115,
+"end": 35.235
+},
+{
+"text": "help",
+"start": 35.235,
+"end": 35.455
+},
+{
+"text": "you",
+"start": 35.455,
+"end": 35.575
+},
+{
+"text": "with",
+"start": 35.575,
+"end": 35.735
+},
+{
+"text": "that.",
+"start": 35.735,
+"end": 36.055
+},
+{
+"text": "Let's",
+"start": 36.055,
+"end": 36.275
+},
+{
+"text": "start",
+"start": 36.275,
+"end": 36.455
+},
+{
+"text": "with",
+"start": 36.455,
+"end": 36.675
+},
+{
+"text": "the",
+"start": 36.675,
+"end": 36.815
+},
+{
+"text": "basics.",
+"start": 36.815,
+"end": 37.455
+},
+{
+"text": "What",
+"start": 37.455,
+"end": 37.615
+},
+{
+"text": "date",
+"start": 37.615,
+"end": 37.895
+},
+{
+"text": "would",
+"start": 37.895,
+"end": 38.115
+},
+{
+"text": "you",
+"start": 38.115,
+"end": 38.235
+},
+{
+"text": "like",
+"start": 38.235,
+"end": 38.415
+},
+{
+"text": "to",
+"start": 38.415,
+"end": 38.595
+},
+{
+"text": "check",
+"start": 38.595,
+"end": 38.855
+},
+{
+"text": "in",
+"start": 38.855,
+"end": 39.155
+},
+{
+"text": "and",
+"start": 39.155,
+"end": 39.495
+},
+{
+"text": "what",
+"start": 39.495,
+"end": 40.215
+},
+{
+"text": "date",
+"start": 40.215,
+"end": 40.515
+},
+{
+"text": "would",
+"start": 40.515,
+"end": 40.755
+},
+{
+"text": "you",
+"start": 40.755,
+"end": 40.875
+},
+{
+"text": "be",
+"start": 40.875,
+"end": 40.995
+},
+{
+"text": "checking",
+"start": 40.995,
+"end": 41.255
+},
+{
+"text": "out?",
+"start": 41.255,
+"end": 41.795
+},
+{
+"text": "I",
+"start": 41.795,
+"end": 41.995
+},
+{
+"text": "will",
+"start": 41.995,
+"end": 42.135
+},
+{
+"text": "be",
+"start": 42.135,
+"end": 42.235
+},
+{
+"text": "checking",
+"start": 42.235,
+"end": 42.495
+},
+{
+"text": "in",
+"start": 42.495,
+"end": 42.715
+},
+{
+"text": "on",
+"start": 42.715,
+"end": 42.815
+},
+{
+"text": "the",
+"start": 42.815,
+"end": 42.915
+},
+{
+"text": "1st",
+"start": 42.915,
+"end": 43.175
+},
+{
+"text": "October",
+"start": 43.175,
+"end": 43.555
+},
+{
+"text": "and",
+"start": 43.555,
+"end": 43.935
+},
+{
+"text": "check-out",
+"start": 43.935,
+"end": 44.175
+},
+{
+"text": "will",
+"start": 44.175,
+"end": 44.395
+},
+{
+"text": "be",
+"start": 44.395,
+"end": 44.515
+},
+{
+"text": "on",
+"start": 44.515,
+"end": 44.655
+},
+{
+"text": "5th",
+"start": 44.655,
+"end": 44.855
+},
+{
+"text": "of",
+"start": 44.855,
+"end": 44.855
+},
+{
+"text": "October.",
+"start": 44.855,
+"end": 44.855
+},
+{
+"text": "The",
+"start": 45.705,
+"end": 45.785
+},
+{
+"text": "both",
+"start": 45.785,
+"end": 46.005
+},
+{
+"text": "will",
+"start": 46.005,
+"end": 46.145
+},
+{
+"text": "be",
+"start": 46.145,
+"end": 46.285
+},
+{
+"text": "around",
+"start": 46.285,
+"end": 46.545
+},
+{
+"text": "2",
+"start": 46.545,
+"end": 46.765
+},
+{
+"text": "PM",
+"start": 46.765,
+"end": 47.385
+},
+{
+"text": "Got",
+"start": 47.385,
+"end": 47.505
+},
+{
+"text": "it.",
+"start": 47.505,
+"end": 47.845
+},
+{
+"text": "Check",
+"start": 47.845,
+"end": 47.945
+},
+{
+"text": "in",
+"start": 47.945,
+"end": 48.425
+},
+{
+"text": "on",
+"start": 48.425,
+"end": 48.545
+},
+{
+"text": "the",
+"start": 48.545,
+"end": 48.665
+},
+{
+"text": "1st",
+"start": 48.665,
+"end": 48.925
+},
+{
+"text": "of",
+"start": 48.925,
+"end": 49.045
+},
+{
+"text": "October",
+"start": 49.045,
+"end": 49.465
+},
+{
+"text": "and",
+"start": 49.465,
+"end": 49.765
+},
+{
+"text": "check",
+"start": 49.765,
+"end": 49.945
+},
+{
+"text": "out",
+"start": 49.945,
+"end": 50.105
+},
+{
+"text": "on",
+"start": 50.105,
+"end": 50.265
+},
+{
+"text": "the",
+"start": 50.265,
+"end": 50.405
+},
+{
+"text": "5th.",
+"start": 50.405,
+"end": 50.945
+},
+{
+"text": "Both",
+"start": 50.945,
+"end": 51.405
+},
+{
+"text": "around",
+"start": 51.405,
+"end": 51.785
+},
+{
+"text": "2",
+"start": 51.785,
+"end": 52.205
+},
+{
+"text": "PM",
+"start": 52.205,
+"end": 53.105
+},
+{
+"text": "Just",
+"start": 53.105,
+"end": 53.105
+},
+{
+"text": "a",
+"start": 53.105,
+"end": 53.205
+},
+{
+"text": "heads",
+"start": 53.205,
+"end": 53.385
+},
+{
+"text": "up.",
+"start": 53.385,
+"end": 53.745
+},
+{
+"text": "Our",
+"start": 53.745,
+"end": 53.865
+},
+{
+"text": "standard",
+"start": 53.865,
+"end": 54.265
+},
+{
+"text": "check-in",
+"start": 54.265,
+"end": 54.665
+},
+{
+"text": "time",
+"start": 54.665,
+"end": 54.925
+},
+{
+"text": "is",
+"start": 54.925,
+"end": 55.145
+},
+{
+"text": "3",
+"start": 55.145,
+"end": 55.405
+},
+{
+"text": "PM",
+"start": 55.405,
+"end": 56.005
+},
+{
+"text": "and",
+"start": 56.005,
+"end": 56.145
+},
+{
+"text": "check-out",
+"start": 56.145,
+"end": 56.545
+},
+{
+"text": "is",
+"start": 56.545,
+"end": 56.725
+},
+{
+"text": "12",
+"start": 56.725,
+"end": 57.025
+},
+{
+"text": "PM,",
+"start": 57.025,
+"end": 57.625
+},
+{
+"text": "but",
+"start": 57.625,
+"end": 57.805
+},
+{
+"text": "we",
+"start": 57.805,
+"end": 57.965
+},
+{
+"text": "can",
+"start": 57.965,
+"end": 58.125
+},
+{
+"text": "definitely",
+"start": 58.125,
+"end": 58.585
+},
+{
+"text": "accommodate",
+"start": 58.585,
+"end": 59.145
+},
+{
+"text": "the",
+"start": 59.145,
+"end": 59.405
+},
+{
+"text": "2",
+"start": 59.405,
+"end": 59.605
+},
+{
+"text": "PM",
+"start": 59.605,
+"end": 60.165
+},
+{
+"text": "times.",
+"start": 60.165,
+"end": 60.585
+},
+{
+"text": "I'll",
+"start": 60.585,
+"end": 60.725
+},
+{
+"text": "make",
+"start": 60.725,
+"end": 60.885
+},
+{
+"text": "a",
+"start": 60.885,
+"end": 61.025
+},
+{
+"text": "note",
+"start": 61.025,
+"end": 61.165
+},
+{
+"text": "of",
+"start": 61.165,
+"end": 61.285
+},
+{
+"text": "that.",
+"start": 61.285,
+"end": 61.845
+},
+{
+"text": "Now,",
+"start": 61.845,
+"end": 62.105
+},
+{
+"text": "how",
+"start": 62.105,
+"end": 62.185
+},
+{
+"text": "many",
+"start": 62.185,
+"end": 62.425
+},
+{
+"text": "guests",
+"start": 62.425,
+"end": 62.765
+},
+{
+"text": "will",
+"start": 62.765,
+"end": 62.925
+},
+{
+"text": "be",
+"start": 62.925,
+"end": 63.065
+},
+{
+"text": "staying",
+"start": 63.065,
+"end": 63.325
+},
+{
+"text": "with",
+"start": 63.325,
+"end": 63.565
+},
+{
+"text": "you?",
+"start": 63.565,
+"end": 64.145
+},
+{
+"text": "Three",
+"start": 64.145,
+"end": 64.365
+},
+{
+"text": "guests",
+"start": 64.365,
+"end": 64.745
+},
+{
+"text": "will",
+"start": 64.745,
+"end": 64.945
+},
+{
+"text": "be",
+"start": 64.945,
+"end": 65.065
+},
+{
+"text": "in",
+"start": 65.065,
+"end": 65.225
+},
+{
+"text": "total.",
+"start": 65.225,
+"end": 65.925
+},
+{
+"text": "Three",
+"start": 66.525,
+"end": 66.745
+},
+{
+"text": "guests.",
+"start": 66.745,
+"end": 67.225
+},
+{
+"text": "Got",
+"start": 67.225,
+"end": 67.325
+},
+{
+"text": "it.",
+"start": 67.325,
+"end": 67.645
+},
+{
+"text": "Just",
+"start": 67.645,
+"end": 67.765
+},
+{
+"text": "so",
+"start": 67.765,
+"end": 67.965
+},
+{
+"text": "our",
+"start": 67.965,
+"end": 68.105
+},
+{
+"text": "standard",
+"start": 68.105,
+"end": 68.405
+},
+{
+"text": "rooms",
+"start": 68.405,
+"end": 68.705
+},
+{
+"text": "can",
+"start": 68.705,
+"end": 68.885
+},
+{
+"text": "accommodate",
+"start": 68.885,
+"end": 69.405
+},
+{
+"text": "up",
+"start": 69.405,
+"end": 69.705
+},
+{
+"text": "to",
+"start": 69.705,
+"end": 69.865
+},
+{
+"text": "three",
+"start": 69.865,
+"end": 70.105
+},
+{
+"text": "guests",
+"start": 70.105,
+"end": 70.505
+},
+{
+"text": "so",
+"start": 70.505,
+"end": 70.745
+},
+{
+"text": "you",
+"start": 70.745,
+"end": 70.885
+},
+{
+"text": "should",
+"start": 70.885,
+"end": 71.065
+},
+{
+"text": "be",
+"start": 71.065,
+"end": 71.225
+},
+{
+"text": "all",
+"start": 71.225,
+"end": 71.425
+},
+{
+"text": "set.",
+"start": 71.425,
+"end": 71.985
+},
+{
+"text": "Now,",
+"start": 71.985,
+"end": 72.605
+},
+{
+"text": "what",
+"start": 72.605,
+"end": 72.725
+},
+{
+"text": "type",
+"start": 72.725,
+"end": 72.945
+},
+{
+"text": "of",
+"start": 72.945,
+"end": 73.105
+},
+{
+"text": "room",
+"start": 73.105,
+"end": 73.345
+},
+{
+"text": "would",
+"start": 73.345,
+"end": 73.565
+},
+{
+"text": "you",
+"start": 73.565,
+"end": 73.665
+},
+{
+"text": "prefer?",
+"start": 73.665,
+"end": 74.285
+},
+{
+"text": "We",
+"start": 74.285,
+"end": 74.385
+},
+{
+"text": "have",
+"start": 74.385,
+"end": 74.545
+},
+{
+"text": "single",
+"start": 74.545,
+"end": 74.885
+},
+{
+"text": "bed,",
+"start": 74.885,
+"end": 75.365
+},
+{
+"text": "double",
+"start": 75.365,
+"end": 75.605
+},
+{
+"text": "bed,",
+"start": 75.605,
+"end": 76.005
+},
+{
+"text": "or",
+"start": 76.005,
+"end": 76.245
+},
+{
+"text": "adjoining",
+"start": 76.245,
+"end": 76.665
+},
+{
+"text": "rooms.",
+"start": 76.665,
+"end": 77.265
+},
+{
+"text": "I'd",
+"start": 77.265,
+"end": 80.025
+},
+{
+"text": "prefer",
+"start": 80.025,
+"end": 80.245
+},
+{
+"text": "having",
+"start": 80.245,
+"end": 80.545
+},
+{
+"text": "a",
+"start": 80.545,
+"end": 80.665
+},
+{
+"text": "room",
+"start": 80.665,
+"end": 80.865
+},
+{
+"text": "with",
+"start": 80.865,
+"end": 81.045
+},
+{
+"text": "double",
+"start": 81.045,
+"end": 81.285
+},
+{
+"text": "bed",
+"start": 81.285,
+"end": 81.605
+},
+{
+"text": "and",
+"start": 81.605,
+"end": 81.785
+},
+{
+"text": "another",
+"start": 81.785,
+"end": 82.065
+},
+{
+"text": "with",
+"start": 82.065,
+"end": 82.325
+},
+{
+"text": "single",
+"start": 82.325,
+"end": 82.605
+},
+{
+"text": "bed.",
+"start": 82.605,
+"end": 83.225
+},
+{
+"text": "I",
+"start": 83.225,
+"end": 83.905
+},
+{
+"text": "think",
+"start": 83.905,
+"end": 84.145
+},
+{
+"text": "I",
+"start": 84.145,
+"end": 84.405
+},
+{
+"text": "may",
+"start": 84.405,
+"end": 84.585
+},
+{
+"text": "have",
+"start": 84.585,
+"end": 84.765
+},
+{
+"text": "misheard",
+"start": 84.765,
+"end": 85.185
+},
+{
+"text": "you",
+"start": 85.185,
+"end": 85.365
+},
+{
+"text": "there.",
+"start": 85.365,
+"end": 85.785
+},
+{
+"text": "Did",
+"start": 85.785,
+"end": 85.865
+},
+{
+"text": "you",
+"start": 85.865,
+"end": 86.025
+},
+{
+"text": "say",
+"start": 86.025,
+"end": 86.425
+},
+{
+"text": "room",
+"start": 86.425,
+"end": 87.345
+},
+{
+"text": "with",
+"start": 87.345,
+"end": 87.545
+},
+{
+"text": "a",
+"start": 87.545,
+"end": 87.645
+},
+{
+"text": "double",
+"start": 87.645,
+"end": 87.885
+},
+{
+"text": "bed?",
+"start": 87.885,
+"end": 88.105
+},
+{
+"text": "and",
+"start": 88.25,
+"end": 88.63
+},
+{
+"text": "another",
+"start": 88.63,
+"end": 89.11
+},
+{
+"text": "with",
+"start": 89.11,
+"end": 89.39
+},
+{
+"text": "a",
+"start": 89.39,
+"end": 89.51
+},
+{
+"text": "single",
+"start": 89.51,
+"end": 89.79
+},
+{
+"text": "bed.",
+"start": 89.79,
+"end": 90.27
+},
+{
+"text": "So",
+"start": 90.27,
+"end": 90.37
+},
+{
+"text": "that",
+"start": 90.37,
+"end": 90.57
+},
+{
+"text": "would",
+"start": 90.57,
+"end": 90.73
+},
+{
+"text": "be",
+"start": 90.73,
+"end": 90.95
+},
+{
+"text": "two",
+"start": 90.95,
+"end": 91.29
+},
+{
+"text": "rooms",
+"start": 91.29,
+"end": 91.67
+},
+{
+"text": "total.",
+"start": 91.67,
+"end": 92.39
+},
+{
+"text": "Yeah,",
+"start": 92.39,
+"end": 92.83
+},
+{
+"text": "that's",
+"start": 92.83,
+"end": 92.99
+},
+{
+"text": "correct.",
+"start": 92.99,
+"end": 93.79
+},
+{
+"text": "So",
+"start": 93.79,
+"end": 94.19
+},
+{
+"text": "to",
+"start": 94.19,
+"end": 94.43
+},
+{
+"text": "recap,",
+"start": 94.43,
+"end": 94.97
+},
+{
+"text": "you'd",
+"start": 94.97,
+"end": 95.11
+},
+{
+"text": "like",
+"start": 95.11,
+"end": 95.27
+},
+{
+"text": "two",
+"start": 95.27,
+"end": 95.49
+},
+{
+"text": "rooms",
+"start": 95.49,
+"end": 95.81
+},
+{
+"text": "for",
+"start": 95.81,
+"end": 95.99
+},
+{
+"text": "three",
+"start": 95.99,
+"end": 96.23
+},
+{
+"text": "guests",
+"start": 96.23,
+"end": 96.55
+},
+{
+"text": "total,",
+"start": 96.55,
+"end": 97.23
+},
+{
+"text": "checking",
+"start": 97.23,
+"end": 97.91
+},
+{
+"text": "in",
+"start": 97.91,
+"end": 98.17
+},
+{
+"text": "on",
+"start": 98.17,
+"end": 98.35
+},
+{
+"text": "the",
+"start": 98.35,
+"end": 98.49
+},
+{
+"text": "1st",
+"start": 98.49,
+"end": 98.79
+},
+{
+"text": "of",
+"start": 98.79,
+"end": 98.95
+},
+{
+"text": "October",
+"start": 98.95,
+"end": 99.31
+},
+{
+"text": "and",
+"start": 99.31,
+"end": 99.55
+},
+{
+"text": "checking",
+"start": 99.55,
+"end": 99.75
+},
+{
+"text": "out",
+"start": 99.75,
+"end": 100.03
+},
+{
+"text": "on",
+"start": 100.03,
+"end": 100.17
+},
+{
+"text": "the",
+"start": 100.17,
+"end": 100.29
+},
+{
+"text": "5th,",
+"start": 100.29,
+"end": 100.81
+},
+{
+"text": "both",
+"start": 100.81,
+"end": 101.23
+},
+{
+"text": "around",
+"start": 101.23,
+"end": 101.53
+},
+{
+"text": "2",
+"start": 101.53,
+"end": 101.75
+},
+{
+"text": "PM,",
+"start": 101.75,
+"end": 102.27
+},
+{
+"text": "one",
+"start": 102.27,
+"end": 102.43
+},
+{
+"text": "room",
+"start": 102.43,
+"end": 102.63
+},
+{
+"text": "with",
+"start": 102.63,
+"end": 102.83
+},
+{
+"text": "a",
+"start": 102.83,
+"end": 102.93
+},
+{
+"text": "double",
+"start": 102.93,
+"end": 103.13
+},
+{
+"text": "bed",
+"start": 103.13,
+"end": 103.41
+},
+{
+"text": "and",
+"start": 103.41,
+"end": 103.61
+},
+{
+"text": "one",
+"start": 103.61,
+"end": 103.79
+},
+{
+"text": "with",
+"start": 103.79,
+"end": 103.99
+},
+{
+"text": "a",
+"start": 103.99,
+"end": 104.11
+},
+{
+"text": "single",
+"start": 104.11,
+"end": 104.37
+},
+{
+"text": "bed.",
+"start": 104.37,
+"end": 104.89
+},
+{
+"text": "Just",
+"start": 104.89,
+"end": 105.59
+},
+{
+"text": "to",
+"start": 105.59,
+"end": 105.69
+},
+{
+"text": "confirm,",
+"start": 105.69,
+"end": 106.13
+},
+{
+"text": "that's",
+"start": 106.13,
+"end": 106.29
+},
+{
+"text": "two",
+"start": 106.29,
+"end": 106.45
+},
+{
+"text": "separate",
+"start": 106.45,
+"end": 106.81
+},
+{
+"text": "rooms,",
+"start": 106.81,
+"end": 107.31
+},
+{
+"text": "correct?",
+"start": 107.31,
+"end": 107.77
+},
+{
+"text": "And",
+"start": 107.77,
+"end": 107.95
+},
+{
+"text": "do",
+"start": 107.95,
+"end": 108.11
+},
+{
+"text": "you",
+"start": 108.11,
+"end": 108.19
+},
+{
+"text": "have",
+"start": 108.19,
+"end": 108.33
+},
+{
+"text": "any",
+"start": 108.33,
+"end": 108.49
+},
+{
+"text": "other",
+"start": 108.49,
+"end": 108.67
+},
+{
+"text": "questions?",
+"start": 108.67,
+"end": 109.55
+},
+{
+"text": "I'd",
+"start": 109.55,
+"end": 110.17
+},
+{
+"text": "like",
+"start": 110.17,
+"end": 110.31
+},
+{
+"text": "to",
+"start": 110.31,
+"end": 110.45
+},
+{
+"text": "arrange",
+"start": 110.45,
+"end": 110.79
+},
+{
+"text": "an",
+"start": 110.79,
+"end": 110.95
+},
+{
+"text": "airport",
+"start": 110.95,
+"end": 111.27
+},
+{
+"text": "pickup",
+"start": 111.27,
+"end": 111.55
+},
+{
+"text": "for",
+"start": 111.55,
+"end": 111.81
+},
+{
+"text": "1",
+"start": 111.81,
+"end": 112.03
+},
+{
+"text": "PM",
+"start": 112.03,
+"end": 112.23
+},
+{
+"text": "Please",
+"start": 113.855,
+"end": 114.055
+},
+{
+"text": "share",
+"start": 114.055,
+"end": 114.335
+},
+{
+"text": "your",
+"start": 114.335,
+"end": 114.515
+},
+{
+"text": "flight",
+"start": 114.515,
+"end": 114.735
+},
+{
+"text": "details",
+"start": 114.735,
+"end": 115.155
+},
+{
+"text": "and",
+"start": 115.155,
+"end": 115.315
+},
+{
+"text": "passenger",
+"start": 115.315,
+"end": 115.655
+},
+{
+"text": "count.",
+"start": 115.655,
+"end": 116.475
+},
+{
+"text": "Skyline",
+"start": 116.475,
+"end": 117.495
+},
+{
+"text": "Airways",
+"start": 117.495,
+"end": 117.935
+},
+{
+"text": "SX234",
+"start": 117.935,
+"end": 119.095
+},
+{
+"text": "arriving",
+"start": 119.095,
+"end": 119.435
+},
+{
+"text": "at",
+"start": 119.435,
+"end": 119.635
+},
+{
+"text": "12:45 PM,",
+"start": 119.635,
+"end": 121.095
+},
+{
+"text": "3",
+"start": 121.095,
+"end": 121.195
+},
+{
+"text": "passengers.",
+"start": 121.195,
+"end": 122.135
+},
+{
+"text": "Got",
+"start": 122.135,
+"end": 123.015
+},
+{
+"text": "it.",
+"start": 123.015,
+"end": 123.195
+},
+{
+"text": "How",
+"start": 123.195,
+"end": 123.315
+},
+{
+"text": "much",
+"start": 123.315,
+"end": 123.495
+},
+{
+"text": "luggage",
+"start": 123.495,
+"end": 123.775
+},
+{
+"text": "will",
+"start": 123.775,
+"end": 123.955
+},
+{
+"text": "you",
+"start": 123.955,
+"end": 124.035
+},
+{
+"text": "have?",
+"start": 124.035,
+"end": 124.995
+},
+{
+"text": "2",
+"start": 124.995,
+"end": 125.655
+},
+{
+"text": "cabin",
+"start": 125.655,
+"end": 125.995
+},
+{
+"text": "bags",
+"start": 125.995,
+"end": 126.335
+},
+{
+"text": "and",
+"start": 126.335,
+"end": 126.515
+},
+{
+"text": "2",
+"start": 126.515,
+"end": 126.695
+},
+{
+"text": "suitcases.",
+"start": 126.695,
+"end": 128.355
+},
+{
+"text": "Perfect.",
+"start": 128.355,
+"end": 129.355
+},
+{
+"text": "Your",
+"start": 129.355,
+"end": 129.575
+},
+{
+"text": "1 PM",
+"start": 129.575,
+"end": 130.135
+},
+{
+"text": "airport",
+"start": 130.135,
+"end": 130.515
+},
+{
+"text": "pickup",
+"start": 130.515,
+"end": 130.875
+},
+{
+"text": "is",
+"start": 130.875,
+"end": 131.135
+},
+{
+"text": "arranged.",
+"start": 131.135,
+"end": 132.055
+},
+{
+"text": "Thank",
+"start": 132.055,
+"end": 132.355
+},
+{
+"text": "you.",
+"start": 132.355,
+"end": 132.355
+},
+{
+"text": "Let's",
+"start": 133.79,
+"end": 134.03
+},
+{
+"text": "see",
+"start": 134.03,
+"end": 134.17
+},
+{
+"text": "what",
+"start": 134.17,
+"end": 134.31
+},
+{
+"text": "happens",
+"start": 134.31,
+"end": 134.67
+},
+{
+"text": "after",
+"start": 134.67,
+"end": 134.93
+},
+{
+"text": "the",
+"start": 134.93,
+"end": 135.07
+},
+{
+"text": "call",
+"start": 135.07,
+"end": 135.39
+},
+{
+"text": "as",
+"start": 135.39,
+"end": 135.87
+},
+{
+"text": "our",
+"start": 135.87,
+"end": 136.01
+},
+{
+"text": "voice",
+"start": 136.01,
+"end": 136.29
+},
+{
+"text": "agent",
+"start": 136.29,
+"end": 136.63
+},
+{
+"text": "connects",
+"start": 136.63,
+"end": 137.01
+},
+{
+"text": "with",
+"start": 137.01,
+"end": 137.21
+},
+{
+"text": "Mews",
+"start": 137.21,
+"end": 137.47
+},
+{
+"text": "from",
+"start": 137.47,
+"end": 138.09
+},
+{
+"text": "understanding",
+"start": 138.09,
+"end": 138.61
+},
+{
+"text": "the",
+"start": 138.61,
+"end": 138.79
+},
+{
+"text": "guest's",
+"start": 138.79,
+"end": 139.11
+},
+{
+"text": "request",
+"start": 139.11,
+"end": 139.49
+},
+{
+"text": "to",
+"start": 139.49,
+"end": 139.87
+},
+{
+"text": "creating",
+"start": 139.87,
+"end": 140.27
+},
+{
+"text": "and",
+"start": 140.27,
+"end": 140.51
+},
+{
+"text": "managing",
+"start": 140.51,
+"end": 140.85
+},
+{
+"text": "the",
+"start": 140.85,
+"end": 141.07
+},
+{
+"text": "final",
+"start": 141.07,
+"end": 141.35
+},
+{
+"text": "reservation.",
+"start": 141.35,
+"end": 142.29
+},
+{
+"text": "Mews",
+"start": 142.29,
+"end": 142.99
+},
+{
+"text": "gives",
+"start": 142.99,
+"end": 143.27
+},
+{
+"text": "hotel",
+"start": 143.27,
+"end": 143.57
+},
+{
+"text": "teams",
+"start": 143.57,
+"end": 143.89
+},
+{
+"text": "a",
+"start": 143.89,
+"end": 144.05
+},
+{
+"text": "clear",
+"start": 144.05,
+"end": 144.27
+},
+{
+"text": "overview",
+"start": 144.27,
+"end": 144.77
+},
+{
+"text": "of",
+"start": 144.77,
+"end": 144.99
+},
+{
+"text": "their",
+"start": 144.99,
+"end": 145.11
+},
+{
+"text": "reservations",
+"start": 145.11,
+"end": 145.63
+},
+{
+"text": "and",
+"start": 145.63,
+"end": 146.01
+},
+{
+"text": "performance",
+"start": 146.01,
+"end": 146.43
+},
+{
+"text": "in",
+"start": 146.43,
+"end": 146.67
+},
+{
+"text": "one",
+"start": 146.67,
+"end": 146.83
+},
+{
+"text": "place.",
+"start": 146.83,
+"end": 147.43
+},
+{
+"text": "Teams",
+"start": 147.43,
+"end": 147.63
+},
+{
+"text": "can",
+"start": 147.63,
+"end": 147.81
+},
+{
+"text": "quickly",
+"start": 147.81,
+"end": 148.15
+},
+{
+"text": "monitor",
+"start": 148.15,
+"end": 148.61
+},
+{
+"text": "total",
+"start": 148.61,
+"end": 148.95
+},
+{
+"text": "reservations,",
+"start": 148.95,
+"end": 149.95
+},
+{
+"text": "room",
+"start": 149.95,
+"end": 150.15
+},
+{
+"text": "nights,",
+"start": 150.15,
+"end": 150.83
+},
+{
+"text": "guest",
+"start": 150.83,
+"end": 151.05
+},
+{
+"text": "volume,",
+"start": 151.05,
+"end": 151.97
+},
+{
+"text": "reservation",
+"start": 151.97,
+"end": 152.39
+},
+{
+"text": "status,",
+"start": 152.39,
+"end": 153.15
+},
+{
+"text": "and",
+"start": 153.15,
+"end": 153.45
+},
+{
+"text": "booking",
+"start": 153.45,
+"end": 153.73
+},
+{
+"text": "segments.",
+"start": 153.73,
+"end": 154.23
+},
+{
+"text": "From",
+"start": 155.15,
+"end": 155.37
+},
+{
+"text": "the",
+"start": 155.37,
+"end": 155.49
+},
+{
+"text": "timeline,",
+"start": 155.49,
+"end": 156.15
+},
+{
+"text": "staff",
+"start": 156.15,
+"end": 156.37
+},
+{
+"text": "can",
+"start": 156.37,
+"end": 156.57
+},
+{
+"text": "see",
+"start": 156.57,
+"end": 156.79
+},
+{
+"text": "room",
+"start": 156.79,
+"end": 157.09
+},
+{
+"text": "availability",
+"start": 157.09,
+"end": 157.61
+},
+{
+"text": "and",
+"start": 157.61,
+"end": 157.97
+},
+{
+"text": "reservations",
+"start": 157.97,
+"end": 158.49
+},
+{
+"text": "at",
+"start": 158.49,
+"end": 158.81
+},
+{
+"text": "a",
+"start": 158.81,
+"end": 158.87
+},
+{
+"text": "glance.",
+"start": 158.87,
+"end": 159.57
+},
+{
+"text": "Selecting",
+"start": 159.57,
+"end": 160.01
+},
+{
+"text": "a",
+"start": 160.01,
+"end": 160.09
+},
+{
+"text": "guest",
+"start": 160.09,
+"end": 160.29
+},
+{
+"text": "provides",
+"start": 160.29,
+"end": 160.73
+},
+{
+"text": "instant",
+"start": 160.73,
+"end": 161.25
+},
+{
+"text": "access",
+"start": 161.25,
+"end": 161.69
+},
+{
+"text": "to",
+"start": 161.69,
+"end": 161.97
+},
+{
+"text": "stay",
+"start": 161.97,
+"end": 162.25
+},
+{
+"text": "dates,",
+"start": 162.25,
+"end": 162.71
+},
+{
+"text": "room",
+"start": 162.71,
+"end": 162.97
+},
+{
+"text": "details,",
+"start": 162.97,
+"end": 163.77
+},
+{
+"text": "guest",
+"start": 163.77,
+"end": 164.03
+},
+{
+"text": "information,",
+"start": 164.03,
+"end": 164.95
+},
+{
+"text": "payment",
+"start": 164.95,
+"end": 165.27
+},
+{
+"text": "details,",
+"start": 165.27,
+"end": 165.93
+},
+{
+"text": "and",
+"start": 165.93,
+"end": 166.13
+},
+{
+"text": "check-in",
+"start": 166.13,
+"end": 166.55
+},
+{
+"text": "actions.",
+"start": 166.55,
+"end": 167.35
+},
+{
+"text": "Creating",
+"start": 167.35,
+"end": 168.21
+},
+{
+"text": "a",
+"start": 168.21,
+"end": 168.37
+},
+{
+"text": "new",
+"start": 168.37,
+"end": 168.51
+},
+{
+"text": "reservation",
+"start": 168.51,
+"end": 168.97
+},
+{
+"text": "is",
+"start": 168.97,
+"end": 169.31
+},
+{
+"text": "simple.",
+"start": 169.31,
+"end": 169.95
+},
+{
+"text": "Staff",
+"start": 169.95,
+"end": 170.19
+},
+{
+"text": "can",
+"start": 170.19,
+"end": 170.41
+},
+{
+"text": "select",
+"start": 170.41,
+"end": 170.75
+},
+{
+"text": "the",
+"start": 170.75,
+"end": 170.89
+},
+{
+"text": "required",
+"start": 170.89,
+"end": 171.31
+},
+{
+"text": "dates,",
+"start": 171.31,
+"end": 171.93
+},
+{
+"text": "rooms,",
+"start": 171.93,
+"end": 172.43
+},
+{
+"text": "and",
+"start": 172.43,
+"end": 172.53
+},
+{
+"text": "guests,",
+"start": 172.53,
+"end": 173.11
+},
+{
+"text": "view",
+"start": 173.11,
+"end": 173.37
+},
+{
+"text": "available",
+"start": 173.37,
+"end": 173.79
+},
+{
+"text": "room",
+"start": 173.79,
+"end": 174.05
+},
+{
+"text": "types",
+"start": 174.05,
+"end": 174.35
+},
+{
+"text": "and",
+"start": 174.35,
+"end": 174.55
+},
+{
+"text": "rates,",
+"start": 174.55,
+"end": 175.05
+},
+{
+"text": "and",
+"start": 175.05,
+"end": 175.41
+},
+{
+"text": "choose",
+"start": 175.41,
+"end": 175.67
+},
+{
+"text": "the",
+"start": 175.67,
+"end": 175.83
+},
+{
+"text": "best",
+"start": 175.83,
+"end": 176.07
+},
+{
+"text": "option",
+"start": 176.07,
+"end": 176.43
+},
+{
+"text": "for",
+"start": 176.43,
+"end": 176.61
+},
+{
+"text": "the",
+"start": 176.61,
+"end": 176.73
+},
+{
+"text": "guest.",
+"start": 176.73,
+"end": 176.73
+},
+{
+"text": "All",
+"start": 177,
+"end": 177.76
+},
+{
+"text": "from",
+"start": 177.76,
+"end": 178.02
+},
+{
+"text": "one",
+"start": 178.02,
+"end": 178.28
+},
+{
+"text": "streamlined",
+"start": 178.28,
+"end": 178.82
+},
+{
+"text": "workflow.",
+"start": 178.82,
+"end": 180.28
+},
+{
+"text": "What",
+"start": 180.28,
+"end": 181.42
+},
+{
+"text": "you",
+"start": 181.42,
+"end": 181.54
+},
+{
+"text": "just",
+"start": 181.54,
+"end": 181.74
+},
+{
+"text": "saw",
+"start": 181.74,
+"end": 182.04
+},
+{
+"text": "was",
+"start": 182.04,
+"end": 182.3
+},
+{
+"text": "VEE Concierge",
+"start": 182.3,
+"end": 183.18
+},
+{
+"text": "handling",
+"start": 183.18,
+"end": 183.54
+},
+{
+"text": "a",
+"start": 183.54,
+"end": 183.8
+},
+{
+"text": "complete",
+"start": 183.8,
+"end": 184.2
+},
+{
+"text": "multi-step",
+"start": 184.2,
+"end": 184.9
+},
+{
+"text": "guest",
+"start": 184.9,
+"end": 185.14
+},
+{
+"text": "request.",
+"start": 185.14,
+"end": 185.82
+},
+{
+"text": "From",
+"start": 185.82,
+"end": 185.96
+},
+{
+"text": "booking",
+"start": 185.96,
+"end": 186.18
+},
+{
+"text": "the",
+"start": 186.18,
+"end": 186.36
+},
+{
+"text": "reservation",
+"start": 186.36,
+"end": 186.82
+},
+{
+"text": "to",
+"start": 186.82,
+"end": 187.14
+},
+{
+"text": "understanding",
+"start": 187.14,
+"end": 187.64
+},
+{
+"text": "the",
+"start": 187.64,
+"end": 187.84
+},
+{
+"text": "airport",
+"start": 187.84,
+"end": 188.2
+},
+{
+"text": "pick",
+"start": 188.2,
+"end": 188.42
+},
+{
+"text": "up.",
+"start": 188.42,
+"end": 188.62
+},
+{
+"text": "Gathering",
+"start": 188.62,
+"end": 188.84
+},
+{
+"text": "the",
+"start": 188.84,
+"end": 188.94
+},
+{
+"text": "right",
+"start": 188.94,
+"end": 189.1
+},
+{
+"text": "details.",
+"start": 189.1,
+"end": 189.66
+},
+{
+"text": "Want",
+"start": 189.66,
+"end": 189.7
+},
+{
+"text": "to",
+"start": 189.7,
+"end": 189.78
+},
+{
+"text": "see",
+"start": 189.78,
+"end": 189.96
+},
+{
+"text": "VEE Concierge",
+"start": 189.96,
+"end": 190.84
+},
+{
+"text": "in",
+"start": 190.84,
+"end": 190.98
+},
+{
+"text": "action?",
+"start": 190.98,
+"end": 191.54
+},
+{
+"text": "Visit",
+"start": 191.54,
+"end": 192.08
+},
+{
+"text": "us",
+"start": 192.08,
+"end": 192.3
+},
+{
+"text": "at",
+"start": 192.3,
+"end": 192.44
+},
+{
+"text": "booth",
+"start": 192.44,
+"end": 192.64
+},
+{
+"text": "512",
+"start": 192.64,
+"end": 193.3
+},
+{
+"text": "at",
+"start": 193.3,
+"end": 193.62
+},
+{
+"text": "IH",
+"start": 193.62,
+"end": 194.16
+},
+{
+"text": "Miami.",
+"start": 194.16,
+"end": 194.98
+},
+{
+"text": "We'd",
+"start": 194.98,
+"end": 195.46
+},
+{
+"text": "love",
+"start": 195.46,
+"end": 195.6
+},
+{
+"text": "to",
+"start": 195.6,
+"end": 195.78
+},
+{
+"text": "meet",
+"start": 195.78,
+"end": 195.94
+},
+{
+"text": "you.",
+"start": 195.94,
+"end": 196.54
+}
+]

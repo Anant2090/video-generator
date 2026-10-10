@@ -1,0 +1,1802 @@
+{
+  "summary": {
+    "run_id": "run_61690fbb19838bb19d9eb703c5139d45",
+    "tenant_id": "acme",
+    "environment": "staging",
+    "aut_name": "banking-chat",
+    "tier": "text",
+    "region": "default",
+    "total": 12,
+    "completed": 12,
+    "pending": 0,
+    "partial": 0,
+    "errored": 0,
+    "stop_reason": "completed",
+    "report_hash": "45209e530becb87e0f3b380c33ec824ae6ad866c2f4bd1de9cd91957ee4bd425",
+    "created_at": "2026-09-29T20:52:47.3647579+05:30",
+    "phase": "succeeded",
+    "updated_at": "2026-09-29T20:52:55.2030924+05:30"
+  },
+  "campaign": {
+    "Name": "t2",
+    "Version": "1",
+    "TenantID": "acme",
+    "Seed": 11,
+    "Tier": "text",
+    "Mode": "fixed",
+    "EvalContractRef": "default",
+    "EnvProfile": "channel",
+    "TimingProfile": "default",
+    "AUTBinding": "banking-chat",
+    "Templates": [
+      {
+        "Name": "main",
+        "Axes": {
+          "CallerProfiles": [
+            "neutral",
+            "anxious"
+          ],
+          "Worlds": [
+            "banking",
+            "telecom"
+          ],
+          "BehaviorPrograms": [
+            "generic",
+            "confused",
+            "aggressive"
+          ]
+        },
+        "Budget": 0,
+        "MaxTurns": 4,
+        "AUTReplies": []
+      }
+    ],
+    "MaxSims": 0,
+    "TargetIntents": [],
+    "SteerToIntent": false,
+    "Environment": "staging",
+    "SuccessCriteria": [],
+    "CallerBackstory": "",
+    "DatasetRef": ""
+  },
+  "rec_dir": "data\\rec\\run_61690fbb19838bb19d9eb703c5139d45",
+  "report": {
+    "report_version": "report-v15",
+    "total": 12,
+    "completed": 12,
+    "pending": 0,
+    "partial": 0,
+    "errored": 0,
+    "metrics": [
+      {
+        "metric": "bleu_score",
+        "mean": 0.6999999999999995,
+        "count": 41,
+        "min": 0.7,
+        "max": 0.7,
+        "source": "local"
+      }
+    ],
+    "scenarios": [
+      {
+        "scenario": "main",
+        "total": 12,
+        "completed": 12,
+        "pending": 0,
+        "partial": 0,
+        "errored": 0
+      }
+    ],
+    "sims": [
+      {
+        "sim_id": "1e532d4396156edf895805876b2b5ddbbf9d9c294c2bb83a10effa9ca39a2627",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "anxious",
+          "World": "telecom",
+          "BehaviorProgram": "confused"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.6999999999999998
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1522,
+            "p50_ms": 1349,
+            "p95_ms": 1987,
+            "max_ms": 1987
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 74,
+            "p50_ms": 75,
+            "p95_ms": 76,
+            "max_ms": 76
+          },
+          "interruption_rate_ppm": 0,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 9,
+            "p50_ms": 8,
+            "p95_ms": 12,
+            "max_ms": 12
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "1e643b401b3133d8fa8a08b979afb04be1fabbdf5a6424a9c2e88f29d94c3ab1",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "neutral",
+          "World": "banking",
+          "BehaviorProgram": "confused"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1567,
+            "p50_ms": 1415,
+            "p95_ms": 1969,
+            "max_ms": 1969
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 45,
+            "p50_ms": 46,
+            "p95_ms": 54,
+            "max_ms": 54
+          },
+          "interruption_rate_ppm": 0,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 333333,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 6,
+            "p50_ms": 8,
+            "p95_ms": 9,
+            "max_ms": 9
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "2e8b80d5602bbf6792c819a9ce3fa08fdbb4d7ed95cb179b72698040f1cc99fe",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "anxious",
+          "World": "banking",
+          "BehaviorProgram": "confused"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1429,
+            "p50_ms": 1462,
+            "p95_ms": 1730,
+            "max_ms": 1730
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 85,
+            "p50_ms": 84,
+            "p95_ms": 100,
+            "max_ms": 100
+          },
+          "interruption_rate_ppm": 333333,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 11,
+            "p50_ms": 10,
+            "p95_ms": 18,
+            "max_ms": 18
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "5444504889b36c2005a7c08bb7f31a113a35a905439adee3ed5df2e8b2f951ee",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "anxious",
+          "World": "banking",
+          "BehaviorProgram": "generic"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.6999999999999998
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1691,
+            "p50_ms": 1577,
+            "p95_ms": 2111,
+            "max_ms": 2111
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 37,
+            "p50_ms": 35,
+            "p95_ms": 44,
+            "max_ms": 44
+          },
+          "interruption_rate_ppm": 333333,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 5,
+            "p50_ms": 5,
+            "p95_ms": 6,
+            "max_ms": 6
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "56583671eeefda3668806a03efc465bdf600831bab75d4c834bc61c8a237594f",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "anxious",
+          "World": "telecom",
+          "BehaviorProgram": "generic"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.6999999999999998
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1311,
+            "p50_ms": 1394,
+            "p95_ms": 1546,
+            "max_ms": 1546
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 49,
+            "p50_ms": 50,
+            "p95_ms": 50,
+            "max_ms": 50
+          },
+          "interruption_rate_ppm": 0,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 333333,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 7,
+            "p50_ms": 6,
+            "p95_ms": 9,
+            "max_ms": 9
+          },
+          "packet_loss_rate_ppm": 333333,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "67e976e04cae654bf6fafc882c8049cd7381f225d7142cd583094c40edc7a3c6",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "anxious",
+          "World": "banking",
+          "BehaviorProgram": "aggressive"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 1,
+          "response_delay": {
+            "count": 1,
+            "mean_ms": 1340,
+            "p50_ms": 1340,
+            "p95_ms": 1340,
+            "max_ms": 1340
+          },
+          "network_latency": {
+            "count": 1,
+            "mean_ms": 103,
+            "p50_ms": 103,
+            "p95_ms": 103,
+            "max_ms": 103
+          },
+          "interruption_rate_ppm": 0,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 1,
+            "mean_ms": 15,
+            "p50_ms": 15,
+            "p95_ms": 15,
+            "max_ms": 15
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "6ee0885037445b4fe7287a787bfb2d59467be9a580013cea6d3fd1b63c17a0ae",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "neutral",
+          "World": "banking",
+          "BehaviorProgram": "aggressive"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1441,
+            "p50_ms": 1272,
+            "p95_ms": 1934,
+            "max_ms": 1934
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 117,
+            "p50_ms": 119,
+            "p95_ms": 123,
+            "max_ms": 123
+          },
+          "interruption_rate_ppm": 666666,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 19,
+            "p50_ms": 21,
+            "p95_ms": 25,
+            "max_ms": 25
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "77484f045c6fa330abffd0f0c42364f2e450bb7c0f21b6a160cf548269ac8e89",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "neutral",
+          "World": "telecom",
+          "BehaviorProgram": "generic"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1448,
+            "p50_ms": 1351,
+            "p95_ms": 1768,
+            "max_ms": 1768
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 86,
+            "p50_ms": 84,
+            "p95_ms": 104,
+            "max_ms": 104
+          },
+          "interruption_rate_ppm": 0,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 13,
+            "p50_ms": 12,
+            "p95_ms": 20,
+            "max_ms": 20
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "a1c130cbbfe067d19019236749579101d137d243988e2cf4786cb59579c6f345",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "anxious",
+          "World": "telecom",
+          "BehaviorProgram": "aggressive"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.6999999999999998
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1320,
+            "p50_ms": 1213,
+            "p95_ms": 1620,
+            "max_ms": 1620
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 113,
+            "p50_ms": 111,
+            "p95_ms": 130,
+            "max_ms": 130
+          },
+          "interruption_rate_ppm": 0,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 16,
+            "p50_ms": 16,
+            "p95_ms": 29,
+            "max_ms": 29
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "b78d6b67978094715fe38eb46cf4055fecb7b8b13e8d0c7bbcab27e324d77c52",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "neutral",
+          "World": "telecom",
+          "BehaviorProgram": "confused"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1445,
+            "p50_ms": 1459,
+            "p95_ms": 1785,
+            "max_ms": 1785
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 67,
+            "p50_ms": 71,
+            "p95_ms": 75,
+            "max_ms": 75
+          },
+          "interruption_rate_ppm": 0,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 10,
+            "p50_ms": 11,
+            "p95_ms": 15,
+            "max_ms": 15
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "decdd38e991ba48863e3f698b9ca3dd18e35971afae58c0aed20352fabff975e",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "neutral",
+          "World": "telecom",
+          "BehaviorProgram": "aggressive"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1591,
+            "p50_ms": 1424,
+            "p95_ms": 1963,
+            "max_ms": 1963
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 71,
+            "p50_ms": 70,
+            "p95_ms": 81,
+            "max_ms": 81
+          },
+          "interruption_rate_ppm": 0,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 10,
+            "p50_ms": 12,
+            "p95_ms": 19,
+            "max_ms": 19
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      },
+      {
+        "sim_id": "efda24e9ede1be84912118e741b73639d5a32315a767b86a260b67ad7713022f",
+        "scenario": "main",
+        "coord": {
+          "CallerProfile": "neutral",
+          "World": "banking",
+          "BehaviorProgram": "generic"
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7
+          }
+        ],
+        "criteria_passed": true,
+        "realism": {
+          "sims": 1,
+          "turns": 3,
+          "response_delay": {
+            "count": 3,
+            "mean_ms": 1444,
+            "p50_ms": 1486,
+            "p95_ms": 1584,
+            "max_ms": 1584
+          },
+          "network_latency": {
+            "count": 3,
+            "mean_ms": 89,
+            "p50_ms": 82,
+            "p95_ms": 107,
+            "max_ms": 107
+          },
+          "interruption_rate_ppm": 0,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 3,
+            "mean_ms": 12,
+            "p50_ms": 13,
+            "p95_ms": 14,
+            "max_ms": 14
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      }
+    ],
+    "realism": {
+      "sims": 12,
+      "turns": 34,
+      "response_delay": {
+        "count": 34,
+        "mean_ms": 1469,
+        "p50_ms": 1394,
+        "p95_ms": 1987,
+        "max_ms": 2111
+      },
+      "network_latency": {
+        "count": 34,
+        "mean_ms": 76,
+        "p50_ms": 75,
+        "p95_ms": 123,
+        "max_ms": 130
+      },
+      "interruption_rate_ppm": 117647,
+      "realized_interruption_rate_ppm": 0,
+      "impaired_rate_ppm": 58823,
+      "jitter": {
+        "count": 34,
+        "mean_ms": 11,
+        "p50_ms": 10,
+        "p95_ms": 25,
+        "max_ms": 29
+      },
+      "packet_loss_rate_ppm": 29411,
+      "talkover": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "clip_rate_ppm": 0,
+      "aut_response_time": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "dead_air": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "dead_air_ratio_ppm": 0,
+      "tool_latency": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "ttfb": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "call_duration": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      }
+    },
+    "criteria_sims": 0,
+    "criteria_pass_rate_ppm": 0,
+    "goal_sims": 12,
+    "goal_satisfied_rate_ppm": 0
+  },
+  "turn_evals": {
+    "1e532d4396156edf895805876b2b5ddbbf9d9c294c2bb83a10effa9ca39a2627": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Sure, I'll lay out the full picture for you now. Also, outage_area=true.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Just so I understand you correctly, could you clarify what you mean?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "Forget it. I'm done.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "1e643b401b3133d8fa8a08b979afb04be1fabbdf5a6424a9c2e88f29d94c3ab1": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Here's the info.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Wait — what does that even mean?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "That's not clear at all. Again?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "aut": "Thanks for calling Acme Bank. Goodbye!",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "2e8b80d5602bbf6792c819a9ce3fa08fdbb4d7ed95cb179b72698040f1cc99fe": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Here's the info.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Just so I understand you correctly, could you clarify what you mean?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "Wait — what does that even mean?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "aut": "Thanks for calling Acme Bank. Goodbye!",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "5444504889b36c2005a7c08bb7f31a113a35a905439adee3ed5df2e8b2f951ee": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "That's not clear at all. Again?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Look, I already have it: here you go.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "That's all, bye.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "56583671eeefda3668806a03efc465bdf600831bab75d4c834bc61c8a237594f": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Just so I understand you correctly, could you clarify what you mean?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Sorry, what?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "I think that covers everything I needed, thank you so much for your help. Goodbye.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "67e976e04cae654bf6fafc882c8049cd7381f225d7142cd583094c40edc7a3c6": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "That's it, I'm hanging up.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "6ee0885037445b4fe7287a787bfb2d59467be9a580013cea6d3fd1b63c17a0ae": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Can you clarify?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Sure, I'll lay out the full picture for you now. Also, account_locked=true.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "Sorry, what?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "aut": "Thanks for calling Acme Bank. Goodbye!",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "77484f045c6fa330abffd0f0c42364f2e450bb7c0f21b6a160cf548269ac8e89": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Can you clarify?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Sure, I'll lay out the full picture for you now. Also, outage_area=false.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "Would you mind going over that once more? I want to be sure I follow.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "aut": "Thanks for calling Acme Bank. Goodbye!",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "a1c130cbbfe067d19019236749579101d137d243988e2cf4786cb59579c6f345": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Come again?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Okay, here's what I have.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "We're done here.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "b78d6b67978094715fe38eb46cf4055fecb7b8b13e8d0c7bbcab27e324d77c52": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Sure, I'll lay out the full picture for you now. Also, outage_area=true.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Come again?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "Just so I understand you correctly, could you clarify what you mean?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "aut": "Thanks for calling Acme Bank. Goodbye!",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "decdd38e991ba48863e3f698b9ca3dd18e35971afae58c0aed20352fabff975e": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Would you mind going over that once more? I want to be sure I follow.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Of course, let me walk you through everything I have on this.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "That's not clear at all. Again?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "aut": "Thanks for calling Acme Bank. Goodbye!",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ],
+    "efda24e9ede1be84912118e741b73639d5a32315a767b86a260b67ad7713022f": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Sorry, what?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated. I've also waived your late fees this month.",
+        "caller": "Sure, I'll lay out the full picture for you now. Also, account_locked=true.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "aut": "Anything else I can help you with today?",
+        "caller": "I'm sorry, I didn't quite follow — could you explain that a bit more?",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "aut": "Thanks for calling Acme Bank. Goodbye!",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ]
+  }
+}

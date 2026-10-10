@@ -1,0 +1,29 @@
+﻿# secrets
+.env
+.env.*
+!.env.example
+
+# installs & caches
+node_modules/
+**/node_modules/
+__pycache__/
+*.pyc
+.remotion/
+.cache/
+*.tsbuildinfo
+
+# rendered / source videos (place locally; do not commit)
+**/out/
+**/*.mp4
+**/*.mov
+**/*.webm
+**/*.mkv
+whisper.cpp/
+**/whisper.cpp/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

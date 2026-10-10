@@ -1,0 +1,32 @@
+{
+  "name": "voicera-motion",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "setup": "python scripts/setup.py",
+    "transcribe": "node scripts/transcribe.mjs && node scripts/words.mjs",
+    "scrolls": "python scripts/scrolls.py",
+    "dev": "remotion studio",
+    "render": "remotion render Main out/render.mp4 --crf=16 --concurrency=8 --gl=angle",
+    "finalize": "python scripts/finalize.py"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.8.1",
+    "@remotion/captions": "^4.0.529",
+    "@remotion/cli": "^4.0.529",
+    "@remotion/google-fonts": "^4.0.529",
+    "@remotion/install-whisper-cpp": "^4.0.529",
+    "@remotion/paths": "^4.0.529",
+    "@remotion/three": "^4.0.529",
+    "@remotion/transitions": "^4.0.529",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.529",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.186.0",
+    "typescript": "^7.0.2"
+  }
+}

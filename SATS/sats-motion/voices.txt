@@ -1,0 +1,439 @@
+﻿db6b0ed5-d5d3-463d-ae85-518a07d3c2b4 | en | feminine | Skylar - Friendly Guide | Approachable American female ideal for customer care and support.
+47c38ca4-5f35-497b-b1a3-415245fb35e1 | en | masculine | Daniel - Modern Assistant | Clear, crisp male voice for digital assistants and system interactions
+62ae83ad-4f6a-430b-af41-a9bede9286ca | en | feminine | Gemma - Decisive Agent | Confident, emotive British female for professional assistance
+30894953-bcce-41fe-892c-15ce19c843ff | en | masculine | Parker - Supportive Pal | Casual, supportive warmth for friendly conversational flows and approachable check-ins.
+ef191366-f52f-447a-a398-ed8c0f2943a1 | en | masculine | Archie - Approachable Mate | Warm, conversational British male for casual and engaging dialogue.
+9626c31c-bec5-4cca-baa8-f8ba9e84c8bc | en | feminine | Jacqueline - Reassuring Agent | Confident, young adult female for empathic customer support
+b24f41fd-00a3-4cd8-992a-a0c9f13f3ef1 | en | masculine | Clive - Measured Expert | Offers a composed and articulate voice, perfect for delivering educational content or detailed advice.
+2a12b36c-7f9b-4c3a-9f7a-72731b15323a | en | feminine | Ella - Caring Scout | Approachable presence for bright, lightweight and everyday customer conversations.
+12e85709-099c-480a-ba3e-875c41a9611a | en | masculine | Arlo - Service Specialist | Arlo's friendly, mid-toned Australian voice is excellent for customer support, offering clear and helpful assistance wit
+630ed21c-2c5c-41cf-9d82-10a7fd668370 | en | masculine | Corey - Supportive Buddy | Inviting, cheerful young adult male for casual conversation.
+a33f7a4c-100f-41cf-a1fd-5822e8fc253f | en | feminine | Lauren - Lively Narrator | Expressive female voice for narration, storytelling, and creative content
+c46cf1f6-49a1-4d67-9a57-ff859a4046d3 | en | feminine | Cora - Service Specialist | Cora offers a helpful and articulate tone, perfectly suited for customer support and service-oriented communication.
+aa2cafe9-97ba-4052-ac3c-875000f95212 | en | masculine | Zander - Composed Advisor | Zander delivers a measured and calm presence, ideal for professional guidance and reassuring explanations.
+f786b574-daa5-4673-aa0c-cbe3e8534c02 | en | feminine | Katie - Friendly Fixer | Enunciating young adult female for conversational support use cases
+6c756032-11c3-4be8-a120-74f9673fb700 | en | feminine | Harlow - Warm Support | Offers a friendly yet professional presence, perfect for efficient problem-solving and customer support conversations.
+33d406dd-ff6f-4be7-a7f5-8b1ba183b3e4 | en | feminine | Nandi - Poised Concierge | A poised and eloquent delivery, ideal for corporate presentations, documentary narration, and sophisticated informationa
+7348f896-8516-4382-9c8f-ad2aee1ffedc | en | feminine | Naledi - Engaging Instructor | Naledi offers an engaging and informative tone, ideal for e-learning and clear, comprehensive educational narration.
+273f9ef7-9fc2-4def-88bb-ab108c6249ca | en | feminine | Julia - Gentle Guide | Soft, graceful tone with a composed rhythm for polished guidance and reassurance.
+a5136bf9-224c-4d76-b823-52bd5efcffcc | en | masculine | Jameson - Easygoing Support | Friendly, laid-back male voice for customer support and onboarding
+e8e5fffb-252c-436d-b842-8879b84445b6 | en | feminine | Cathy - Coworker | Nice, young adult female for casual conversations
+8d673f7e-4a22-47fd-973a-ead9a85b7187 | en | feminine | Lindiwe - Capable Professional | Offers a composed and thoughtful approach, guiding listeners through complex information with ease and assurance.
+8c254787-4eb4-4577-bd3d-fb3c273baea2 | en | masculine | Rowan - Steady Guide | Provides a reliable and steady vocal presence, ensuring clarity and trust in every piece of communication.
+5ee9feff-1265-424a-9d7f-8e4d431a12c7 | en | masculine | Ronald - Thinker | Intense, deep young adult male for casual conversations
+391f4c0a-f1a8-4c21-9aa2-7a07f0a4b0dc | en | feminine | Bronte - Trusted Guide | Bright and trustworthy Australian voice provides approachable guidance, making her excellent for customer support and he
+1fcd23d0-bf12-4896-8f60-4f21ef5c9b98 | en | masculine | Austin - Conversational Guide | Reliable and approachable guide for dependable everyday assistance.
+5241b0aa-3c09-479d-b0b8-a6ec68daef5e | en | feminine | Brielle - Renewal Partner | Brielle delivers engaging renewal partner narration with professional pacing and a friendly presence.
+5568a7df-e5ab-4442-9fae-2e9ba1b15ad8 | en | masculine | Quentin - Refined Narrator | Polished narrator with a measured pace, perfect for corporate and professional settings
+d7bf7d75-64b7-4c1e-86c0-79d647366587 | en | feminine | Michelle - Empathetic Voice | Gentle and reassuring tone designed to offer comfort and build trust.
+25d7abcb-4d6d-4aca-adce-8a1c85620c8b | en | feminine | Jessica - Clear Communicator | Crisp and articulate delivery designed for seamless information sharing.
+d1d9c946-7cfc-4378-85a4-07d09827cb7e | en | feminine | Jolene - Warm Storyteller | Rich, honeyed Southern female perfect for narration.
+87286a8d-7ea7-4235-a41a-dd9fa6630feb | en | masculine | Henry - Plainspoken Guy | A relaxed, youthful male voice with a monotone, matter-of-fact attitude - ideal for casual, straightforward conversation
+86e30c1d-714b-4074-a1f2-1cb6b552fb49 | en | masculine | Carson - Curious Conversationalist | Friendly young adult male for customer support conversations
+79d2cf27-444a-4c3a-9eed-2ad5cf795a3b | en | masculine | Fraser - Trusted Communicator | Fraser brings a bright and articulate Australian voice, ensuring messages are delivered with precision and natural confi
+7d444628-dd13-442b-b687-71a6baf0c07e | en | masculine | Joseph - Empathetic Voice | Gentle and reassuring tone designed to offer comfort and build trust.
+710feaa3-b550-42f3-b3eb-6f37f2a7cc0a | en | masculine | Tanner - Upbeat Assistant | English male adult voice with an upbeat and energetic tone
+cfce9402-0067-458b-95a7-95846f469406 | en | feminine | Sheryl - Warm Briefing | This voice provides a warm and understanding approach, fostering trust and ensuring every customer interaction feels val
+df38a4f6-5d10-4fe7-b268-952aef25d76a | en | masculine | Justin - Logistics Liaison | Delivers a calm and methodical Singaporean accent, perfect for tracking updates and ensuring smooth communication in com
+4bc3cb8c-adb9-4bb8-b5d5-cbbef950b991 | en | masculine | George - Composed Consultant | Steady, British male voice for capable assistance.
+c8f7835e-28a3-4f0c-80d7-c1302ac62aae | en | masculine | Alistair - Composed Consultant | Sophisticated, steady British male for customer interactions.
+dc30854e-e398-4579-9dc8-16f6cb2c19b9 | en | feminine | Victoria - Refined Coordinator | Crisp, professional British female for reassuring communication.
+0ad65e7f-006c-47cf-bd31-52279d487913 | en | masculine | Rupert - Caring Dad | Warm, mature voice for caring, reassuring conversations
+49743b08-0f5d-4741-839c-b12933853780 | en | masculine | Cooper - Friendly Mate | Warm and highly relatable, excellent for customer service.
+263b9cc0-0d99-44e7-ae92-3d4ad5d2ad18 | en | feminine | Zanele - Vibrant Advocate | Lively, positive delivery that brings authentic energy.
+baf84392-fa95-4d44-8871-d32ee36b0e01 | en | masculine | Pieter - Polished Analyst | Clear, articulate South African male ideal for business briefings.
+692846ad-1a6b-49b8-bfc5-86421fd41a19 | en | feminine | Thandi - Direct Dispatcher | Professional South African female for structured support.
+d79d2b77-9192-4e10-9407-5d43ca034803 | en | feminine | Siobhan - Warm Welcomer | Approachable Irish female for friendly, everyday dialogue.
+e5d4c33a-d8f6-46e8-a10f-b5afecc35648 | en | feminine | Evie - Engaging Expert | Formal British female for high-level corporate interactions.
+1ec736fa-db96-4eea-9299-235ce2cb7a0e | en | masculine | Conor - Decisive Agent | Decisive Irish male for straightforward customer communication.
+df89f42f-f285-4613-adbf-14eedcec4c9e | en | masculine | Harrison - Diligent Detailer | Crisp, professional British male for efficient customer interactions.
+3d5ce2fb-e56c-42f0-9ed9-4662484063b4 | en | masculine | Toby - Genuine Guide | Warm, conversational British male with a polished tone.
+228fca29-3a0a-435c-8728-5cb483251068 | en | masculine | Kiefer - Assured Tone | Confident voice with strong clarity and composed delivery, ideal for presentations and customer interactions
+5cad89c9-d88a-4832-89fb-55f2f16d13d3 | en | masculine | Brandon - Confident Guy | Confident voice with strong clarity and composed tone, perfect for persuasive and professional delivery
+ec1e269e-9ca0-402f-8a18-58e0e022355a | en | feminine | Ariana - Kind Friend | Friendly and approachable female voice with a warm, welcoming tone that builds instant connection
+66c6b81c-ddb7-4892-bdd5-19b5a7be38e7 | en | feminine | Dorothy - Easy Charm | Casual female voice with a relaxed and natural tone, perfect for everyday conversations and relatable content
+a7b8d8fa-f6e5-4908-900e-0c11d1d82519 | en | feminine | Joanie - Vibrant Speaker | Upbeat matured female voice with lively warmth and confidence, perfect for natural and engaging conversations
+999df508-4de5-40a7-8bd3-8c12f678c284 | en | feminine | Layla - Casual Friend | Chill voice with a smooth, easygoing tone that feels relaxed and effortlessly cool
+26403c37-80c1-4a1a-8692-540551ca2ae5 | en | feminine | Marian - Poised Narrator | Matured female voice with calm authority and smooth pacing, perfect for narrations and storytelling
+41468051-3a85-4b68-92ad-64add250d369 | en | masculine | Cory - Relaxed Voice | Casual male voice with a friendly, easygoing tone that feels natural and approachable
+c961b81c-a935-4c17-bfb3-ba2239de8c2f | en | masculine | Kyle - Approachable Friend | Friendly male voice with a warm, conversational tone that builds instant connection and trust
+57dcab65-68ac-45a6-8480-6c4c52ec1cd1 | en | feminine | Kira - Trusted Confidant | Emotive, young adult female for empathetic conversations
+78ab82d5-25be-4f7d-82b3-7ad64e5b85b2 | en | feminine | Savannah - Magnolia Belle | Adult female for casual, authentic conservations
+8d8ce8c9-44a4-46c4-b10f-9a927b99a853 | en | feminine | Connie - Candid Conversationalist | Natural, cheery young adult female for authentic conversations
+146485fd-8736-41c7-88a8-7cdd0da34d84 | en | masculine | Tim - Pal | Nasal-y male for casual conversations
+5abd2130-146a-41b1-bcdb-974ea8e19f56 | en | feminine | Jo - Go to Gal | Young adult female for casual conversations
+dcddf1f4-b114-4b5d-9158-895cbba0e406 | en | masculine | Martin - Meticulous Operator | A mature, composed delivery offering precise, practical guidance to ensure absolute dependability.
+bb7e8daa-8b79-47a2-8408-a7a1cc72b53c | en | masculine | Arthur - Polished Advisor | Refined and confident tone for formal support and clear customer communication.
+4b31d090-8d2d-4bcd-8a32-1c135301e26e | en | masculine | Johan - Deep Consultant | Deep, resonant presence for confident guidance, high-trust support, and clear professional conversations.
+bd89603f-0efb-4721-a0c8-d10b3642acc3 | en | masculine | Evan - Practical Guide | Practical and easygoing delivery for step-by-step help, service tasks, and conversational assistance.
+c99d36f3-5ffd-4253-803a-535c1bc9c306 | en | masculine | Griffin - Narrator | Elderly male for narrations
+9fa83ce3-c3a8-4523-accc-173904582ced | en | masculine | Keith - Easygoing Friend | Chill, young adult male for casual conversations
+15a13943-32a7-49a9-b944-d6062129c5a3 | en | masculine | Cillian - Corporate Presenter | This voice offers a confident, polished tone, ideal for corporate presentations and professional broadcast content.
+9f14cf59-e7e2-4783-b733-dbae49640789 | en | feminine | Sof├¡a - Service Navigator | This voice offers clear, patient guidance, ideal for navigating complex information or providing detailed customer suppo
+d3e3d5d5-07b0-484f-9967-dbc8f15b60d5 | en | masculine | Ronan - Steady Advisor | Ronan offers a trustworthy and calm Irish presence, ideal for financial guidance, corporate presentations, and reliable 
+16a4052e-1f11-47ac-95f5-9330bee062f9 | en | feminine | Courtney - Composed Professional | Warm, professional, measured delivery, perfect for complex information and professional guidance.
+4df027cb-2920-4a1f-8c34-f21529d5c3fe | en | masculine | Carson - Friendly Support | Friendly, young adult male for customer support conversations
+1fc31370-81b1-4588-9c1a-f93793c6e01d | en | masculine | Carlo - Roman Guide | Inviting, young accented male for tourism use cases
+87bc56aa-ab01-4baa-9071-77d497064686 | en | masculine | Jordan - Chill Pal | Welcoming adult male for engaging conversations
+3945925b-9143-4b7d-9ab5-cc4878001106 | en | masculine | Max - Conversational Support | Delivers a warm, natural, and engaging tone for friendly interactions and helpful customer service.
+741a0606-3f3a-430e-a928-aa81be7a5aef | en | feminine | Gabriela - Account Guide | An articulate and pleasant presence, perfect for engaging listeners in storytelling or dynamic presentations.
+2bc8e99c-bf1c-4977-93ff-151d7383921c | en | masculine | Darren - Methodical Advisor | Offers structured and dependable advice, ideal for explaining intricate concepts with precision and confidence in a Sing
+24894159-1d4e-4b7c-80ca-4ae37dce9400 | en | feminine | Tamsin - Engaging Narrator | Delivers content with a pleasant, mid-pitched delivery, making e-learning and informational narratives accessible.
+8499aae3-022c-4d55-8283-0c2e8adbefb4 | en | masculine | Ricardo - Calm Problem-Solver | A composed and logical presence, excellent for resolving inquiries and offering clear, actionable solutions.
+56c7989e-7a5f-4d12-838f-e0f910e7356e | en | masculine | Tristan - Calm Authority | Tristan's steady South African tone exudes confidence and calm, making him an excellent choice for authoritative narrati
+65209f8e-6140-4a20-b819-3cc2e21da19b | en | masculine | Nolan - Expressive Agent | Warm, engaging, and effortlessly dependable with a natural, conversational touch.
+533b2990-5b82-45a4-b9f2-367776972ca6 | en | masculine | Reed - Polished Professional | Steady, polished delivery for professional support, confident explanations, and structured customer conversations.
+10bd4af4-825b-49b8-b8bd-0ca11865536e | en | feminine | Rachel - Polished Presence | Refined and smooth articulation for high-quality corporate messaging.
+3e39e9a5-585c-4f5f-bac6-5e4905c51095 | en | masculine | Cole - Clear Communicator | Articulate, approachable male designed for friendly communication.
+0ee8beaa-db49-4024-940d-c7ea09b590b3 | en | feminine | Morgan - Executive Expert | Polished American female for highly professional interactions.
+55deba52-bc73-4481-ab69-9c8831c8a7c3 | en | feminine | Camille - Friendly Expert | Calm, neutral female for customer support and instructional videos
+c8ad77a8-42b9-4f69-8ed3-a2801c3e223d | en | feminine | Daniela - Guidance Specialist | Provides thoughtful and precise guidance, ideal for complex instructions or detailed explanations with a comforting touc
+68fb6747-b6ea-4c44-a18e-4e29921424d3 | en | masculine | Derek - Deep Advisor | Low-register, grounded presence for authoritative guidance, high-trust support, and calm issue resolution.
+f014dce5-df0e-4cfa-98e1-bd4bb73bb0b1 | en | feminine | Haven - Survey Host | Easy to place in commerce, care, and onboarding scripts, with a survey host presence without sounding stiff.
+15070120-82ab-48e5-87e5-c4bf28fa4bf9 | en | masculine | Finn - Engaging Host | Finn provides an upbeat and amiable listening experience, perfect for presentations or welcoming introductions.
+c9440d34-5641-427b-bbb7-80ef7462576d | en | feminine | Joan - Messenger | Young adult female for casual conversations
+3246e36c-ac8c-418d-83cd-4eaad5a3b887 | en | masculine | Carson - Sad Friendly Support | Friendly young adult male for customer support conversations
+1df0b2fe-acb0-4484-8f32-9e231d9e7a90 | en | masculine | Harvey - Precise Liaison | Harvey offers a calm, reassuring delivery that works well for appointment reminders, care updates, and precise liaison f
+548172e3-7581-406b-8788-f5346fb992de | en | feminine | Shana - Composed Consultant | This composed South African voice provides reliable and clear consultation, perfect for detailed financial advice and pr
+fd91495f-b8da-4944-ab8f-674c13089d7f | en | feminine | Blair - Triage Ally | Provides a steady and reliable presence as a triage ally, making complex information accessible with clear, friendly del
+f4e419a9-fc75-4252-9d4e-93e4247f07c9 | en | feminine | Peyton - Peer Ally | Provides a steady and reliable presence as a peer ally, making complex information accessible with clear, friendly deliv
+a0e8430e-1267-4a4d-baa5-a5d5e53122a9 | en | feminine | Aila - Paced Helper | Aila offers a paced and approachable Australian delivery, ideal for service announcements, healthcare information, and g
+81cd8d19-45e7-47b2-ad0e-bcd94f557ad0 | en | feminine | Pippa - Bright Assistant | Bright, upbeat delivery for helpful guidance, friendly onboarding, and clear everyday support conversations.
+aec42b73-8c46-4528-a377-537b5ecb8e7b | en | masculine | Warren - Seasoned Pragmatist | Experienced, reassuring delivery for thoughtful guidance, careful explanations, and high-trust service conversations.
+25bf938a-025c-4dd0-906f-8cf8be2e26e9 | en | feminine | Loretta - Still Comfort | Settled delivery with a slow and comfortable cadence, entirely discarding useless small talk in favor of a heavy, peacef
+0ea47942-be0b-4bc7-a1bf-5dba008dc1cc | en | masculine | Owen - Support Anchor | Owen provides precise and efficient support, ideal for navigating services and tech solutions as a support anchor.
+f0e50f2a-9116-4510-9c5b-fec928daff4b | en | masculine | Ethan - Casual Assistant | Laid-back with a relaxed, low-key delivery for effortless, grounded customer support.
+db408a93-859c-4a0a-b6a2-220c074cc90d | en | feminine | Hana - Easygoing Support | Relaxed female voice with a warm, rounded tone, natural pacing, and an easy conversational feel, ideal for approachable 
+5a93ae96-9e3e-4b9d-8575-5f62b7de6d0f | en | feminine | Imogen - Polished Guide | Polished, articulate delivery for refined support, clear explanations, and calm customer guidance.
+fdd6abff-902a-4885-9f5f-0d3d9f7567e5 | en | feminine | Betty - Reassured Guide | Bold and reassured voice perfect for conveying command and a sharp, confident Southern presence.
+02a924f6-bb49-4177-8fbb-52238c5056d6 | en | feminine | Maeve - Steady Host | Gentle, welcoming delivery for friendly guidance, patient support, and relaxed customer conversations.
+d6c52d6f-6478-47a2-ad54-dbc8f3335a2b | en | feminine | Pearl - Calm Solutionist | Soft-spoken, poised Southern female for attentive client support.
+dc52ada6-0e11-4684-a8fa-e0af5b7bdcb2 | en | masculine | Gary - Composed Advisor | Measured and direct delivery for no-nonsense conversations.
+ac5a9529-3965-4eac-b574-dce63664fbf4 | en | masculine | Kiran - Steady Advisor | Kiran provides a steady and trustworthy voice, well-suited for financial services, e-learning, and reliable customer int
+e98bd614-9b9d-4031-b930-ed72482af858 | en | masculine | Jasper - Vibrant Stylist | A bright, expressive Australian male with an engaging, animated delivery that adds natural personality and warmth to any
+1e9b9b3d-d2ce-4cac-9d05-bc36a63fa28e | en | feminine | Saira - Organized Coordinator | Warm, attentive delivery for organized, thoughtful follow-up, and approachable service conversations.
+96c64eb5-a945-448f-9710-980abe7a514c | en | masculine | Carson - Friendly Support | Friendly, young adult male for customer support conversations
+f4e8781b-a420-4080-81cf-576331238efa | en | feminine | Samantha - Support Leader | Firm, confident adult female for conversational support
+bbee10a8-4f08-4c5c-8282-e69299115055 | en | masculine | Ben - Helpful Man | slightly raspy voiced middle aged man for friendly and natural conversational support
+5e10a334-7fa5-46d4-a64b-5ae6185da3fd | en | feminine | Samantha - Sad Support Leader | Firm, confident adult female for conversational support
+0b32066b-2bcc-44b9-89ab-0223a09d1606 | en | masculine | Carson - Angry Friendly Support | Friendly young adult male for customer support conversations
+761afc95-bef5-44dd-aa07-d3c678912e43 | en | feminine | Samantha - Happy Support Leader | Firm, confident adult female for conversational support
+f9fc912e-52f0-448a-8bfa-47e9ca75f25a | en | feminine | Marilyn - Explainer | smooth and supportive young adult woman great for natural conversations and explaining
+bfd3644b-d561-4b1c-a01f-d9af98cb67c0 | en | masculine | Matt - Goofy Friend | High pitched, silly male for fun characters and entertainment use cases
+2747b6cf-fa34-460c-97db-267566918881 | en | feminine | Allie - Natural Conversationalist | Confident, approachable young adult woman for natural conversational support
+34d923aa-c3b5-4f21-aac7-2c1f12730d4b | en | masculine | Griffin - Excited Narrator | Elderly male for narrations
+b2e12ebd-7bed-4d48-9243-0aa7acef4140 | en | feminine | Maren - Resourceful Guide | Explains options clearly and helps someone find a practical next step.
+5c43e078-5ba4-4e1f-9639-8d85a403f76a | en | masculine | Carson - Scared Friendly Support | Friendly young adult male for customer support conversations
+ca6e2abc-f3e6-4f62-9625-92fada58eb9b | en | masculine | Declan - Clear Support | Keeps support conversations clear, steady, and easy to follow.
+d7862948-75c3-4c7c-ae28-2959fe166f49 | en | masculine | Caspian - Oracle | Echo-y, mystical male for characters with gravitas
+f4c33650-23a7-43bd-8199-1af16815e58a | en | feminine | Bronwen - Guidance Narrator | Guides a listener through a topic with a calm, confident pace.
+6a176356-ada1-4b48-b2ae-3a3fdd485680 | en | masculine | Elias - Night Warden | Deep male for entertainment and gaming characters
+66f5935b-af2e-4ec9-bb3e-59112e9ddc93 | en | masculine | Carson - Surprised Friendly Support | Friendly young adult male for customer support conversations
+ee8b13e7-98af-4b15-89d1-8d402be10c94 | en | masculine | Carson - Disgusted Friendly Support | Friendly young adult male for customer support conversations
+d3e03deb-5439-4203-add1-ca9a7501eaa7 | en | feminine | Samantha - Yelling Support Leader | Firm, confident adult female for conversational support
+04bfd756-4fd4-42c2-9ccf-37f647c5bf54 | en | feminine | Samantha - Angry Support Leader | Firm, confident adult female for conversational support
+c2ad7092-0447-47ea-948b-61fbb6faf153 | en | feminine | Grace - Helpful Hand | Polished, bright Australian female for friendly professional assistance.
+a151affa-feaa-439e-8df8-c1d3f91dc6b9 | en | feminine | Ellen - Welcome Agent | Authentic female voice with balanced warmth and clarity for both casual and support-driven contexts
+eb7d0d3b-e427-483b-bbca-1c009c33f8a7 | en | masculine | Heath - Calm & Composed | Smooth professional delivery, perfect for calm customer support.
+c0832d40-57c5-4a34-991a-907b2cf0bfbf | en | feminine | Doreen - Decisive Coordinator | Confident, assured Southern female voice with a composed, lower register for professional customer support.
+17044048-bfab-44b2-9532-9c1b65e9c217 | en | masculine | Alec - Spirited Salesman | Lively, warm British male with an upbeat, welcoming energy for sales, product demos, and engaging customer conversations
+f3c7d5d2-c1e1-41a0-bd88-8b5512be5335 | en | feminine | Whitney - Composed Concierge | Calm, even voice with a composed tone and warm authority, ideal for steady customer support.
+c894559e-d529-4d70-a6fb-3330ecf7ef6b | en | feminine | Iris - Friendly Specialist | Warm, conversational American female with a steady, relatable tone, ideal for customer care, scheduling, and everyday as
+4111bc29-d7ff-4a15-90db-819f7b4f7706 | en | feminine | Clementine - Hospitable Host | Warm with a friendly cadence and easygoing tone, great for hospitable customer service and conversational support.
+5a033900-2ed6-4fd4-a257-707f2688e713 | en | feminine | Maia - Agile Support | Prompt, polished voice with crisp articulation, composed warmth, and a collaborative tone, ideal for corporate care, cli
+22df7143-7987-4e15-a720-d65c69a443b3 | en | masculine | Oscar - Clear Specialist | Keen, professional delivery with an energetic undertone for practical guidance, accurate explanations, and professional 
+fb02b554-7d64-4f90-841e-e57fc88f410c | en | feminine | Ailsa - Warm Guide | Calm and personable delivery suited to friendly guidance and calm service interactions.
+f2ddbdca-59d9-4363-abeb-a197d65ea24a | en | masculine | Roy - Stern Realist | Measured, professional delivery that channels a serious and experienced business attitude into trusted support.
+5e7d492a-5502-482e-b315-ebf587427806 | en | masculine | Alfie - Composed Advisor | Calm, balanced delivery for thoughtful guidance and professional assistant experiences.
+358e650d-ac0b-4a74-b14f-aca3daa40d79 | en | feminine | Kendra - Smooth Communicator | Clear, steady, and professional voice perfect for conveying reliability and smooth confidence.
+caa06a3e-c85d-459d-a1c0-4a25eeb60aeb | en | feminine | Faye - Hospitable Neighbor | Comforting and hospitable Southern voice, perfect for conveying trust and charm.
+59cb0f89-5d66-49f8-b965-f72b252789e0 | en | masculine | Chase - Steady Helper | Dependable sound for everyday assurance and guided next steps.
+1a0c6bb2-bc1b-476e-8d45-56a66300362b | en | feminine | Esther - Gracious Helper | Steady, gentle Southern American female for a comforting and reliable customer experience.
+83ae58a1-7e97-4b94-b03f-e4cc0a10d8af | en | gender_neutral | Eden - Clear Advisor | Young clean delivery that keeps conversations simple and easy to follow.
+b87d697c-0af2-4617-a72f-a17444b32d1b | en | feminine | Natalie - Caring Specialist | Steady warm tone for customer care and smooth conversational flow.
+f039066f-cdb7-45ed-b51d-1034ae2f04a0 | en | feminine | Cindy Baker - Receptionist | Smooth, welcoming adult female for frontline customer interactions
+efddb3d2-4464-45e0-9f8a-fcd5fd4fc54f | en | feminine | Nadia - Singaporean Female | Friendly and clear Singaporean female voice.
+b60048c2-abb5-43fa-b403-90dce232e55e | en | feminine | Amanda - Warm Guide | Inviting and approachable tone perfect for providing friendly guidance.
+6a73e45f-3fa6-427c-97da-0fc6a7a1bc0d | en | feminine | Stephanie - Steady Professional | Steady and even pacing that offers a grounding presence for any script.
+8d2c9eda-31df-477a-9eb6-df6f00b82845 | en | feminine | Ellie Mae - Friendly Companion | Bright, approachable Southern female that feels like a trusted neighbor.
+072d954b-8379-4b6b-816a-bb0cd38725f8 | en | feminine | Anele - Bright Presenter | Clear South African female for customer service.
+5f621418-ab01-4bf4-9a9d-73d66032234e | en | feminine | Willow - Approachable Ally | Friendly female for approachable, down-to-earth support.
+c5d00dfb-501f-43f3-8e79-c810d24f5acd | en | feminine | Harper - Conversationalist | Adult female for highly structured communication.
+ed9ccfa4-8fa1-40f8-bfb2-cb7d67d2f9cd | en | feminine | Ruby - Helpful Handler | Adult female for everyday dialogue.
+5fc5c797-12c5-4f2b-ac9b-d4e53c08098f | en | masculine | Wyatt - Dependable Dispatcher | Friendly, clear American male with a subtle Southern drawl.
+3c0f09d6-e0d7-499c-a594-70c5b7b93048 | en | masculine | Benedict - Measured Mediator | Polished, and formal British male.
+2f251ac3-89a9-4a77-a452-704b474ccd01 | en | feminine | Lucy - Capable Coordinator | Reassuring British female for customer assistance.
+7d7d769c-5ab1-4dd5-bb17-ec8d4b69d03d | en | feminine | Eleanor - Composed Clarifier | Clear, professional adult female for customer communication
+fd098a10-ba9e-445e-b144-be2a9f3dac02 | en | masculine | David - Engaging Greeter | Engaging adult male for advertising and upbeat conversations
+fb78f09f-f998-4061-ad51-d71f90388f0e | en | feminine | Lori - Scared Cheerleader | Female with clear enunciation for upbeat, emotive conversations
+f96dc0b1-7900-4894-a339-81fb46d515a7 | en | masculine | Steve - Disgusted Baritone | Deep, firm adult male for narrations and voiceovers
+f80e7298-93f5-46d0-86f2-b8f29cfc88bd | en | feminine | Claudia - Welcoming Lady | Friendly, calm young adult female for casual conversations
+c4e848dc-d4fd-4bc8-90ea-8525563ec0e5 | en | masculine | David - Sad Greeter | Engaging adult male for advertising and upbeat conversations
+c2da2a3e-b0d6-46bf-a09a-68562617a50a | en | feminine | Lori - Surprised Cheerleader | Female with clear enunciation for upbeat, emotive conversations
+c1c65fc2-528a-4dde-a2c4-f822785c2704 | en | masculine | Steve - Curious Baritone | Deep, firm adult male for narrations and voiceovers
+ba0add52-783c-4ec0-8b9c-7a6b60f99d1c | en | feminine | Lori - Curious Cheerleader | Female with clear enunciation for upbeat, emotive conversations
+b1ce5126-4d08-42c3-adef-d3eb39e90c7a | en | masculine | Steve - Scared Baritone | Deep, firm adult male for narrations and voiceovers
+b08c966e-2146-4592-99eb-3171a714a43c | en | masculine | David - Curious Greeter | Engaging adult male for advertising and upbeat conversations
+adde00e9-c98f-42ae-a94d-fc9f92f11c76 | en | masculine | Steve - Happy Baritone | Deep, firm adult male for narrations and voiceovers
+a5def41e-2e73-433f-92f7-5f1d99fef05d | en | feminine | Madison - Surprised Best Friend | Enthusiastic, young adult female for emotive discussions
+a3a4fe2a-d402-41d1-be7d-28f71eda755f | en | masculine | David - Scared Greeter | Engaging adult male for advertising and upbeat conversations
+9d2b4a7f-7ced-4fb8-b570-9ce21fb931c8 | en | masculine | David - Disgusted Greeter | Engaging adult male for advertising and upbeat conversations
+98c87826-dba2-44f4-b123-4c7e3c8a2647 | en | feminine | Madison - Curious Best Friend | Enthusiastic, young adult female for emotive discussions
+911b8b22-887f-4caf-bf87-85d834c08708 | en | masculine | Kenneth - Friendly Rep | Well-paced male voice with clear enunciation, great for approachable and informative conversations
+8e14933d-ecd7-402b-9505-795130d69b35 | en | masculine | Luke - Broadway Voice | Seasoned male voice for casual, authentic conversations
+8843adfb-77d3-455a-86f9-de0651555ec6 | en | feminine | Lori - Happy Cheerleader | Female with clear enunciation for upbeat, emotive conversations
+80713a53-e484-4f69-9852-7891096016ac | en | masculine | Steve - Sad Baritone | Deep, firm adult male for narrations and voiceovers
+7c8ba972-4960-4c43-bea0-8178e2205696 | en | masculine | Steve - Angry Baritone | Deep, firm adult male for narrations and voiceovers
+79b8126f-c5d9-4a73-8585-ba5e1a077ed6 | en | masculine | Luke - Disgusted Broadway Voice | Seasoned male voice for casual, authentic conversations
+725d43d6-1196-480e-bd87-728ae5eff9e1 | en | masculine | Luke - Surprised Broadway Voice | Seasoned male voice for casual, authentic conversations
+6fd4f468-0345-4f41-81d0-3f48ebc295e0 | en | masculine | Steve - Surprised Baritone | Deep, firm adult male for narrations and voiceovers
+6b622a1d-906f-44af-b60c-7bef365bf124 | en | masculine | David - Happy Greeter | Engaging adult male for advertising and upbeat conversations
+63426c82-a0c9-4f23-a175-50eb64c95ec1 | en | masculine | Luke - Scared Broadway Voice | Seasoned male voice for casual, authentic conversations
+62305e79-9d39-4643-b003-5e0b096fe4f4 | en | feminine | Madison - Happy Best Friend | Enthusiastic young adult female for emotive discussions
+61001bc6-9064-40a4-b8b2-29178e0fa558 | en | masculine | Luke - Angry Broadway Voice | Seasoned male voice for casual, authentic conversations
+5cc54223-ec0c-4c50-87e9-b9947264e1f4 | en | feminine | Lori - Cheerleader | Female with clear enunciation for upbeat, emotive conversations
+5c7b66c2-3b58-464d-8a12-093410a269c5 | en | masculine | Luke - Sad Broadway Voice | Seasoned male voice for casual, authentic conversations
+5993c2c9-5d59-403e-b459-946c8b302086 | en | feminine | Madison - Disgusted Best Friend | Enthusiastic young adult female for emotive discussions
+414da90b-16b3-4e88-86f5-3c3945e8fa4b | en | feminine | Lori - Disgusted Cheerleader | Female with clear enunciation for upbeat, emotive conversations
+3d79b1fd-daaa-439c-bff3-903dc18e7684 | en | masculine | Luke - Happy Broadway Voice | Seasoned male voice for casual, authentic conversations
+30236d07-62d0-4c63-abf7-df46aa45e473 | en | feminine | Madison - Scared Best Friend | Enthusiastic, young adult female for emotive discussions
+2d01710c-7c77-4cf1-b0d0-5902a25f6e17 | en | feminine | Lori - Sad Cheerleader | Female with clear enunciation for upbeat, emotive conversations
+27c12970-3efb-4f39-a78a-2fbb7bddc941 | en | feminine | Madison - Sad Best Friend | Enthusiastic young adult female for emotive discussions
+134838f5-ce7e-4876-ac32-6367b99daf83 | en | feminine | Madison - Best Friend | Enthusiastic, young adult female for emotive discussions
+1242fb95-7ddd-44ac-8a05-9e8a22a6137d | en | feminine | Cindy - Receptionist | Smooth, welcoming adult female for frontline customer interactions
+10d17ae0-8f64-472a-be00-f00a98c729e0 | en | masculine | David - Surprised Greeter | Engaging adult male for advertising and upbeat conversations
+02fe5732-a072-4767-83e3-a91d41d274ca | en | feminine | Madison - Best Friend | Enthusiastic, young adult female for emotive discussions
+9fb269e7-70fe-4cbe-aa3f-28bdb67e3e84 | en | masculine | Steve - Baritone | Deep, firm adult male for narrations and voiceovers
+7b2c0a2e-3dd3-4a44-b16b-26ecd8134279 | en | masculine | Luke - Broadway Voice | Seasoned male voice for casual, authentic conversations
+da69d796-4603-4419-8a95-293bfc5679eb | en | masculine | David - Greeter | Engaging adult male for advertising and upbeat conversations
+57c63422-d911-4666-815b-0c332e4d7d6a | en | feminine | Lori - Cheerleader | Female with clear enunciation for upbeat, emotive conversations
+3faa81ae-d3d8-4ab1-9e44-e50e46d33c30 | en | masculine | Jasper - Service Specialist | Warm, expressive voice for customer support and sales conversations
+4703c250-66e4-4682-a223-0a60acafcfc0 | en | masculine | Levi - Steady Spokesman | Strong, confident voice for customer service, newscasting, and reliable narration
+dda51133-5d43-4a3b-84e6-e68c13f60cba | en | feminine | Lily - Casual Pal | Relaxed, casual voice for friendly, everyday conversations
+489b647b-5662-408f-8c95-82e26ef8d29e | en | feminine | Kate - Practical Voice | Direct, no-nonsense female voice for instructions and clear explanations
+58fbaf73-d7de-4e82-a6b3-118180e7057c | en | feminine | Janet - Sunny Speaker | Bright, warm female voice for guidance, narration, and supportive interactions
+2a17e905-8f14-4db7-9b9d-9223a8e3f278 | en | feminine | Jane - Digital Guide | A crisp, modern voice with a friendly, intelligent tone ΓÇö great for virtual-assistant tasks, guidance, and simple conver
+3c7dfd17-3fa8-47aa-aacc-6313fe025442 | en | feminine | Evelyn - Digital Assistante | A clear, neutral, and precise female voice with a smooth digital polish - perfect for virtual-assistant style responses,
+39d518b7-fd0b-4676-9b8b-29d64ff31e12 | en | masculine | Aarav - Old Time Storyteller | Warm adult male voice with a slight Indian accent and a vintage tone for nostalgic storytelling, retro-style media, and 
+4fb26a05-57de-4d21-855a-f51adae44f38 | en | masculine | Barry 2.0 - Helper | Inviting, friendly male for customer support and product videos
+fbf7d2ec-ebea-49f2-8889-a482b9b0a7ed | en | masculine | Wade 2.0 - Storytelling Host | Warm male voice with an unhurried, slightly playful charm, built for telling a story.
+1cb5b8bc-77c9-4e7c-a251-da02348e2727 | en | masculine | Sean - Steady Companion | Casual voice with an easy, relaxed tone that feels natural and effortlessly approachable
+f24ae0b7-a3d2-4dd1-89df-959bdc4ab179 | en | masculine | Ross - Reliable Partner | Steady voice with balanced tone and clear delivery, ideal for customer support and service
+db69127a-dbaf-4fa9-b425-2fe67680c348 | en | masculine | Clint - Rugged Actor | Raspy voice with rugged tone, perfect for voice acting and dramatic narration
+ca566b43-944e-4474-b494-7d9f0695f307 | en | feminine | Celine - Soothing Presence | Relaxed voice with smooth tone and gentle warmth, ideal for calm conversations and easy listening
+4d3d2e9c-14e4-4802-a8d8-bd5268a73fde | en | feminine | Judith - Poised Strength | Confident voice with clear articulation and composed tone, perfect for presentations and professional dialogue
+8634bd27-0acf-4056-b014-4fea0385ed9e | en | feminine | Suzanne - Laidback Aunt | Matured voice with a natural, conversational tone that feels warm, relatable, and approachable
+5fb68a42-0ed7-46fa-8a8f-ad4b332fbf6f | en | masculine | Edward - Persuasive Promoter | Confident voice with clarity and persuasive tone, perfect for advertisements and promotional content
+b56c6aac-f35f-46f7-9361-e8f078cec72e | en | feminine | Tabitha - Smooth Energy | Smooth voice with easy warmth and relaxed tone, perfect for casual conversations
+f0377496-2708-4cc9-b2f8-1b7fdb5e1a2a | en | feminine | Elaine - Confident Guide | Assured voice with calm confidence and clear tone, ideal for professional, informative, or guiding narration
+b134c304-d095-4d2b-a77a-914f5e8e84e7 | en | masculine | Sterling - Monarch | Deep voice with commanding presence and dignified tone, perfect for narrations and authoritative storytelling
+74f42072-6245-4fe2-b5dc-3dc9b56fdbd0 | en | masculine | Regis - News Anchor | Authoritative voice with polished clarity and balanced tone, perfect for news delivery and formal announcements
+373e661a-f0ef-4e34-a09e-183184a443e6 | en | masculine | Tanner - Laidback Spirit | Laidback voice with smooth tone and easy rhythm, great for conversational and approachable content
+9301949d-b7cd-40d9-a246-5a4430992d6b | en | masculine | Marcus - Reliable Guy | Composed voice with approachable warmth, perfect for customer service and support
+e39b9fc0-23f5-4616-962a-da99c8ccb1dc | en | masculine | Colin - Assured Guide | Confident voice with clear articulation and reassuring tone, ideal for professional and customer service use
+01fd7d67-d2a0-4e4e-8c48-42611c71a926 | en | masculine | Skyler - Laidback Partner | Easygoing voice with effortless tone that feels natural and approachable
+df872fcd-da17-4b01-a49f-a80d7aaee95e | en | masculine | Cameron - Chill Companion | Laidback voice with a natural, conversational tone that feels friendly and easy to engage with
+0a9a5903-0a30-4d2e-b6b6-891f73d4b4e0 | en | feminine | Sabrina - Casual Ally | Relaxed female voice with an easy, conversational tone that feels approachable and genuine
+f6ce3444-478b-4ce4-982e-bcb72dffe7aa | en | feminine | Emily - Easygoing Pal | Cheerful voice with warm and welcoming tone that feels natural and easy to connect with
+0d2162c2-2fe9-40a7-b3c1-43eab576a64b | en | feminine | Shelly - Warm Companion | Friendly voice with a bright, approachable tone that feels natural and welcoming in any setting
+cb6a8744-41b0-4cdc-b643-fabeb545c6a9 | en | feminine | Laurel - Caring Sister | Warm voice with gentle empathy and clarity, perfect for heartfelt conversations and customer support
+6cb8801d-259a-4bdc-978f-b45808d58cd3 | en | masculine | Jeremy - Energetic Promoter | High energy voice with clear and engaging tone, perfect for advertisements and promotions
+efa653e5-314d-46ca-9f90-70ac7d6ca71e | en | masculine | Kurt - Phone Support | Engaging male voice with expressive tone and natural warmth, ideal for customer service
+afb19d1b-4044-4f34-a962-f4aef640a002 | en | masculine | Zander - Energetic Announcer | Enthusiastic voice with energetic delivery and bold tone, perfect for advertisements and high-energy narrations
+e4d5f4c4-6601-4779-bee1-b3c14d629dc6 | en | feminine | Jillian - Happy Spirit | Cheerful voice with lively warmth and friendly tone, perfect for upbeat conversations
+c58bda25-abd5-4c72-97a2-4dbe049b368d | en | masculine | Garrett - Enthusiastic Pal | Upbeat voice with bright energy and confident tone, perfect for lively conversations and engaging content
+f688c0a6-dddd-48ba-8246-c099d494a162 | en | masculine | Romeo - Calm Narrator | Relaxing voice with smooth depth and calm pacing, perfect for storytelling and immersive narrations
+3d9b50f9-10c5-4026-9ae1-c4a698f67fc5 | en | feminine | Marjorie - Encouraging Aunt | Encouraging matured voice with warm reassurance and steady tone, perfect for motivational and supportive messages
+a924b0e6-9253-4711-8fc3-5cb8e0188c94 | en | masculine | Noah - Calming Presence | Slow-paced voice with gentle warmth and soothing tone, perfect for ASMR and relaxation content
+eb649460-7e23-43bc-ad20-0a7a2749b938 | en | feminine | Kim - Cheerful Pal | Friendly voice with a smooth, easygoing tone
+1f575487-6f3d-40e0-862a-814f55b5fb15 | en | feminine | Ariane - Captivating Tone | Engaging voice with expressive warmth and clarity, perfect for drawing listeners into any conversation
+050f5a7a-9d2b-4b76-84e3-2d056a0a3eb0 | en | feminine | Kelsey - Ball of energy | Upbeat voice with lively energy and friendly warmth, perfect for energetic and engaging conversations
+6fbca103-0f7f-4e49-97ed-49a53b4f3534 | en | feminine | Maxine - Relaxed Energy | Smooth voice with a calm, laid-back tone that brings an easy sense of comfort to any conversation
+87041166-c212-4838-9028-05d7437df750 | en | feminine | Aubrey - Easygoing Pal | Warm voice with a relaxed, natural tone that feels friendly and effortlessly relatable
+6fccb471-26f7-4f7a-93dd-542935db6c20 | en | masculine | Wesley - Chill Flow | Casual voice with a relaxed, friendly tone that feels natural and easy to listen to
+9329fbdb-e285-4fba-95ec-592e15f14476 | en | feminine | Rory - Maternal Vibe | Motherlike female voice with a calm, nurturing tone that brings warmth and reassurance to any conversation
+eef47c0d-cb49-4160-a4a0-6b97ed4c81e6 | en | feminine | Isla - Serene Flow | Calm voice with gentle warmth and steady rhythm, perfect for yoga, meditation, and relaxation
+69092565-1c93-4a88-9f2c-ac8cddaf9f65 | en | feminine | Janice - Engaging Tone | Engaging voice with a casual, friendly tone that draws listeners in and keeps conversations lively
+17488b72-f815-44d8-bdd9-869971c3ec06 | en | masculine | Steven - Big Brother | Conversational voice with a relaxed, natural tone that feels genuine and easy to engage with
+d6b0c62a-c7ff-477c-9a1f-eadd64b94360 | en | feminine | Melina - Bright Spirit | Outgoing voice with lively warmth and friendly tone, perfect for casual chats and everyday conversations
+59697755-8cfb-4ccf-9da4-f2201d06b067 | en | masculine | Dominic - Sportscaster | Strong voice with commanding projection and energetic tone, perfect for sports commentary and live announcements
+80c81aee-b6ad-4d12-9af8-a9c79c2e141d | en | feminine | Aina - Meditation Guru | Calm voice with soothing balance and gentle rhythm, ideal for meditation, mindfulness, and relaxation
+ca31ce53-ebf6-4e51-b87d-2f65d5d1f7f8 | en | feminine | Vivian - Fierce Narrator | Voice with rich emotion and expressive depth, perfect for dramatic readings and heartfelt narratio
+aef96ff9-4578-4b5d-9744-7fb347cbe4d4 | en | feminine | Holly - Joyful Presence | Cheerful voice with bright warmth and friendly energy, perfect for engaging conversations and upbeat content
+b58b6b46-1a27-46ba-8648-bc203a5d394e | en | masculine | Mason - Calm Vibe | Chill voice with a smooth, conversational tone that feels relaxed and genuine
+3bf35adc-bcc4-464b-b834-c90c88cf6492 | en | masculine | Spencer - Chill Gentleman | Casual voice with an engaging, upbeat tone that feels friendly and effortlessly conversational
+9c8880b2-ccf9-4730-b805-cea23df247d7 | en | masculine | Conrad - Seasoned Support | Mature, confident voice with composed authority and clear tone, perfect for professional or narrative use
+5cf0e4d9-ca2b-4fd5-81fa-89db3b645539 | en | masculine | Derrick - Professional Man | No-nonsense voice with steady confidence and clear tone, ideal for customer service and tech support
+c0f43c66-9f21-4034-b485-8f1d3340d759 | en | masculine | Clarkson - Executive Tone | Businesslike voice with confident tone and professional delivery, perfect for corporate and formal settings
+643f5eee-459d-4b41-b4fc-0b8407139be6 | en | feminine | Vicky - Businesswoman | Clear and crisp voice with precise delivery and bright tone, ideal for professional and instructional content
+dcc82bcd-647e-4478-955f-8232d5122f8b | en | feminine | Melanie - Lively Spirit | Enthusiastic voice with bright, engaging energy that brings excitement to any conversation
+045f0292-0731-4a4c-971d-64594fc2c35a | en | feminine | Quinn - Calm Authority | Confident voice with clear articulation and poised tone, perfect for presentations and customer interactions
+2948c301-9211-4112-8f36-4c3fc836ef12 | en | masculine | Bryce - Clear Explainer | Confident voice with clear enunciation and strong delivery, ideal for professional and instructional use
+49808e4c-998a-40a8-b2ea-8ac8e8ce779e | en | masculine | Marvin - Steady Ally | Deep, comforting voice with calm authority and warmth, perfect for reassuring and professional customer service
+86600680-b836-41e1-9916-8475728dcc14 | en | feminine | Tiffany - Dynamic Presence | Engaging voice with lively clarity and confident warmth, ideal for keeping listeners interested and connected
+7a8ae0b6-504a-49af-92d3-4e7e2eb84ca1 | en | masculine | Eliott - Positive Spirit | Approachable and cheerful voice with bright warmth that instantly connects and uplifts listeners
+b5c1bab5-f036-481f-9295-4db6f06f6443 | en | feminine | Jamie - Comforting Presence | Casual voice with a warm, friendly tone that feels like chatting with a close friend
+cd6256ef-2b2a-41f6-a8d8-c1307af5061f | en | masculine | Preston - Relatable Pal | Confident voice with expressive tone and charismatic delivery, great for engaging conversations
+3ccc4544-84f7-45e3-ae57-5c52b5a1fac6 | en | masculine | Aiden - Yogi | Soothing voice with calm depth and gentle pacing, perfect for peaceful narrations and relaxation content
+4b1e0bf9-53a0-4e9e-8664-ba1314dbcb38 | en | feminine | Kelly - Friendly Spirit | Casual voice with a friendly, natural tone that feels easygoing and approachable
+e5a6cd18-d552-4192-9533-82a08cac8f23 | en | feminine | Patricia - Veteran Support | Matured voice with lively warmth and enthusiasm, perfect for engaging and energetic customer service
+ea93f57f-7c71-4d79-aeaa-0a39b150f6ca | en | feminine | Diana - Gentle Mom | Matured voice with a casual, friendly tone that feels warm, relatable, and easy to connect with
+18f8d87b-0da9-4efa-b504-4580e303f7db | en | masculine | Colby - Lively Guy | Casual voice with an engaging, upbeat tone that brings energy and friendliness to any conversation
+fdf6303b-4cfa-4f8e-b7ae-acb398984cf9 | en | masculine | Harley - Comforting Voice | Casual voice with a relaxed, natural tone that feels approachable and genuine
+ea7c252f-6cb1-45f5-8be9-b4f6ac282242 | en | masculine | Logan - Approachable Friend | Casual voice with an easy, conversational tone that feels natural and approachable
+63927f41-9616-4ac2-89cf-f3afa346e0ef | en | feminine | Selene - Soothing Aura | Relaxing and calm voice with gentle flow and serene tone, ideal for meditation and mindfulness content
+3308b492-50cc-417e-89dd-1f446c574546 | en | feminine | Tara - Confident Ally | Confident voice with clear, composed tone, perfect for professional and customer service settings
+320f7211-3dc3-4292-89b1-3661e8cac27c | en | feminine | Evelyn - Peaceful Whisper | Calm voice with soft warmth and gentle pacing, ideal for soothing narrations and ASMR
+a2364c9d-1fe3-4553-9eff-100c4fe5ffc8 | en | feminine | Marge - Seasoned Grace | Wise matured voice with expressive warmth and character, perfect for storytelling and entertainment
+2d5b8c3a-116c-4741-acaf-ba4fa289eba2 | en | masculine | Benji - Joyful Spirit | Excited and cheerful voice with bright energy and lively tone, perfect for upbeat chats and engaging content
+48369ca9-0645-40de-9821-0d55e18a03c2 | en | feminine | Zoey - Bright Voice | Upbeat female voice with lively energy and warmth, perfect for energetic and engaging conversations
+356f4a89-d056-4e2e-8c73-865fa4d3af0a | en | masculine | Chandler - Easygoing Pal | Casual male voice with a warm, natural tone that feels friendly and effortlessly relatable
+d6905573-8e91-4e32-b103-fd4d1205cd87 | en | feminine | Mindy - Spirited Ally | Enthusiastic female voice with bright energy and cheerful tone, great for lively conversations and upbeat content
+23112795-d54e-4560-9568-791a87c30201 | en | masculine | Darius - Engaging Narrator | Husky matured male voice with rich texture and commanding tone, ideal for engaging story telling and narrations
+1ac31ebd-9113-405b-9d80-4a4bbbeea91c | en | feminine | Kayla - Easygoing Pal | Casual female voice with a friendly, natural tone that feels effortless and engaging in conversation
+1628cfcd-a161-4e47-98ff-46bffa4ab290 | en | masculine | Graham - Assured Helper | Confident male voice with a clear, reassuring tone, perfect for professional and customer service interactions
+a892d232-f705-40d7-bc8d-e368b295ec2a | en | masculine | Harlan - Vintage Tone | Deep male voice with classic resonance and smooth authority, reminiscent of an old radio announcer
+3d83e30f-c31b-4f26-b442-7075feafa53a | en | masculine | Wade - Southern Soul | Country-sounding male voice with a warm drawl and genuine charm, perfect for friendly storytelling
+87a983d8-3471-4c4b-9ade-f1d10a4110ac | en | masculine | Devin - Relaxed Spirit | Laidback male voice with a smooth, easygoing tone that feels relaxed and effortlessly cool.
+3f38cbe2-ce6a-4051-b5dc-2b2ee20b9bc1 | en | feminine | Sasha - Cool Friend | Chill female voice with a smooth, laid-back tone that brings ease and calm to any conversation
+b2222537-1561-4425-8c3c-e1aca96ad853 | en | masculine | Dylan - Chill Companion | Casual male voice with an easy, conversational tone that feels friendly and down-to-earth
+8cbfe3ab-8364-4e72-b606-93f749519c66 | en | masculine | Shane - Helpful Guide | Casual male voice with clear, steady delivery that makes troubleshooting steps easy to follow and understand
+d2c66146-c1c8-4c3a-9870-38e5a6b72442 | en | masculine | Lawson - Suave Storyteller | Charming matured male voice with smooth delivery and refined tone, perfect for narrations and advertisements
+083de431-6b5c-4b18-a2dc-264eafa205f2 | en | feminine | Diana - Animated Narrator | Chirpy matured female voice with expressive warmth and lively cadence, perfect for engaging storytelling
+cec7cae1-ac8b-4a59-9eac-ec48366f37ae | en | feminine | Haley - Engaging Friend | Casual female voice with a relaxed, friendly tone that feels natural and easy to engage with
+5319c0b1-3dd1-4c00-b721-bfd2ec88ef56 | en | masculine | Julian - Vibrant Voice | Friendly and cheerful male voice with uplifting warmth, great for feel-good narrations and advertisements
+f4a3a8e4-694c-4c45-9ca0-27caf97901b5 | en | masculine | Gavin - Friendly Vibe | Casual male voice with a relaxed, conversational tone that feels approachable and genuine
+8a1b8af0-c4f6-423f-a268-5507fd4aefdf | en | feminine | Denise - Professional Woman | Professional female voice with confident clarity and polished tone, ideal for corporate and business settings
+ed82c17b-4704-4d34-be43-5d19065acdf1 | en | masculine | Carl - Steady Storyteller | Matured male voice with calm depth and measured pacing, perfect for narrations and documentaries
+bbc5d060-50e1-45a3-87ff-191b8cea3092 | en | masculine | Jett - Helpful Pal | Casual male voice with an easygoing rhythm and friendly tone that feels natural and relatable
+19e399df-5b30-4fba-9d1d-99434f993614 | en | feminine | Edna - Graceful Veteran | Matured female voice with gentle wisdom and poise, perfect for thoughtful narration and reflective dialogue
+b9cf5ec3-eaa4-46a5-a5b2-b0d0f22395a2 | en | masculine | Caleb - Seasoned Pro | Confident male voice with authoritative clarity, perfect for delivering expert insights and professional guidance
+4c2dcd38-5608-45ca-8f11-51c88208d01c | en | masculine | Orin - Velvet Gentleman | Deep, silky male voice that delivers authority and allure, perfect for impactful ads and promos
+90c896fa-aaa1-41af-a612-5267636440a3 | en | masculine | Dean - Laidback Pal | Casual male voice with a relaxed, natural tone that feels easy to listen to and effortlessly genuine
+efc5488b-5429-4e72-aaa2-570981cf47d9 | en | feminine | Lacey - Sunny Soul | Cheerful and friendly female voice with bright energy that uplifts and engages listeners instantly
+cc00e582-ed66-4004-8336-0175b85c85f6 | en | feminine | Dana - Balanced Spirit | Neutral female voice with clear articulation and calm tone, ideal for versatile conversational or professional use
+3af40927-948e-429b-b92d-e2158f79fb9f | en | feminine | Cera - Lighthearted Muse | Casual female voice with an easy, conversational flow that feels natural and friendly
+python : 1026 voices total
+At C:\Users\Admin\AppData\Local\Temp\ps-script-21abaef2-3ca9-4116-b548-1cda4f00bd1a.ps1:105 char:32
++ $env:PYTHONIOENCODING='utf-8'; python scripts/voices.py 2>&1 | Out-Fi ...
++                                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (1026 voices total:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+d709a7e8-9495-4247-aef0-01b3207d11bf | en | masculine | Donny - Steady Presence | Neutral male voice with balanced tone and clarity, adaptable for a wide range of casual speaking contexts
+64b2a604-f0de-449f-9d90-255602357c05 | en | feminine | Elise - Helpful Voice | Casual female voice with a smooth, approachable tone that feels effortless and natural in conversation
+c7c790c5-2bf4-47e4-bc83-5f43e61f3803 | en | feminine | Reese - Warm Companion | Casual, friendly female voice with a bright and welcoming tone suited for everyday conversations.
+1ce291a1-0771-4732-a3f7-8cca29bf055f | en | masculine | Ralph - Dynamic Commentator | Matured male voice with powerful projection and crisp delivery, perfect for announcements and sports commentary
+dbfa416f-d5c3-4006-854b-235ef6bdf4fd | en | masculine | Damon - Commanding Narrator | Deep and serious male voice with steady gravitas, ideal for documentaries and impactful storytelling
+6ccbfb76-1fc6-48f7-b71d-91ac6298247b | en | feminine | Tessa - Kind Companion | Friendly female voice with a warm, conversational tone that feels like chatting with a close friend
+6776173b-fd72-460d-89b3-d85812ee518d | en | masculine | Jace - Cool Conversationalist | Friendly and chill male voice with an easygoing tone that feels relaxed and natural
+921034a2-aace-4ef7-87b1-b9bc455c9a15 | en | masculine | Edric - Refined Mentor | Matured male voice with steady pacing and clear intonation, delivering messages with poise and clarity
+c78dd7ae-6692-4c44-a2a2-834e365afe60 | en | masculine | Clark - Trustworthy Expert | Approachable male voice with a confident, knowledgeable tone ideal for customer service and support
+0834f3df-e650-4766-a20c-5a93a43aa6e3 | en | masculine | Leo - Genuine Companion | Friendly and approachable male voice that brings warmth and ease to any interaction
+4cf80313-54dc-4ca9-a17c-3e5b8f68a78c | en | masculine | Hugh - Confident Veteran | Seasoned male voice with rich character and charisma, great for lively ads and engaging conversations
+8d7d11ff-d985-48a2-a737-1da0b6fedc8b | en | masculine | Ronan - Warm Buddy | Friendly male voice with an easygoing tone that feels natural and inviting in any context
+3f04e815-3260-4f50-8fd9-af9c657be4c2 | en | masculine | Arvin - Reliable Guide | Clear, steady male voice that communicates instructions and troubleshooting steps with confidence and ease
+f4c1a0b2-669d-403f-b440-4b34b34856aa | en | feminine | Nora - Calm Companion | Balanced, neutral female voice that sounds natural and approachable for everyday conversations
+cbaf8084-f009-4838-a096-07ee2e6612b1 | en | feminine | Maya - Easygoing Ally | Friendly, casual female voice with clear articulation, ideal for natural conversations and customer support
+c1b9a03e-747f-40ad-8e7b-18caf8aaac0b | en | feminine | Lira - Tranquil Voice | Soothing female voice with gentle warmth, ideal for calm narrations and ASMR
+e07c00bc-4134-4eae-9ea4-1a55fb45746b | en | feminine | Brooke - Big Sister | Confident adult female for conversational use cases
+3e1ed423-17e5-4773-b87c-25b031106e41 | en | masculine | Paul - Straight Talker | Deep and firm male voice with a relaxed, conversational delivery
+1463a4e1-56a1-4b41-b257-728d56e93605 | en | masculine | Hugo - Teatime Friend | Expressive, young adult male for characters and natural conversation
+e2d08065-b658-466b-ad52-cef8ee21d307 | en | feminine | Natasha - Upbeat Guide | English female adult voice with a lively, upbeat tone for energetic conversations
+9a0894a9-28f0-436e-9a1d-e92bccbce4dd | en | masculine | Albert - Firm Guide | English male adult voice with a firm and authoritative tone for providing clear instructions and guidance
+f762e181-ddc7-486e-9a48-636bd7e229d4 | en | feminine | Chloe - Persuasive Lady | English female adult voice with a confident and persuasive tone, able to influence and engage listeners with clarity and
+3ef78ba6-9aaa-46a2-b5b5-f9ded76a2370 | en | feminine | Serena - Laidback Girl | Female adult voice with a relaxed, easygoing tone and laid-back delivery
+0d42f0f6-c019-4082-b250-1c16133d1c82 | en | masculine | Howard - Approachable Man | Male adult voice with a clear, approachable tone and steady delivery
+a7a59115-2425-4192-844c-1e98ec7d6877 | en | feminine | Amber - Warm Support Agent | English female adult voice with a cheerful yet deeper tone, striking a balance of warmth and authority for customer serv
+f39d8500-0d9b-4b8b-a080-38f5188f5892 | en | feminine | Jewel - Commercial Announcer | Smooth, confident, and engaging female voice for advertising, promos, and high-impact brand messaging
+3d808d23-cb09-4c39-8afd-528e209cba4f | en | masculine | Brent - Steady Conversationalist | English male adult voice with a calm, steady, and composed delivery
+1b4ea5fb-b1c0-43ee-a7be-4e315878c2b1 | en | feminine | Monica - Emotive Voice | English female adult voice with rich emotional range and expressive delivery
+efd255c7-f030-43d3-b5d8-c7b72063be70 | en | masculine | Todd - Matter of Fact Salesman | English male adult voice with a direct, matter-of-fact delivery
+7edf9efb-58fc-46ba-a648-3a00a86b111b | en | masculine | Elliott - Reflective Storyteller | English male adult voice with a soft, melancholic tone and a questioning inflection for storytelling and emotional dialo
+01eaafa9-308a-4276-a017-6ab0cf061b1f | en | feminine | Clara - Instructor | Middle-aged American female voice with a clear tone and precise enunciation for instructions, customer support, and prof
+03b1c65d-4b7f-4c09-91a8-e2f6f78cb2c9 | en | feminine | Molly - Upbeat Conversationalist | Bright and cheerful American-accented female voice for upbeat conversations, advertisements, and lively interactions
+92c41dd4-04aa-45de-8504-a92b40cb8818 | en | masculine | Connor - Grateful Person | Expressive American adult male voice with a grateful yet firm tone for speeches, storytelling, and professional communic
+2f22b9bc-b0eb-4cb6-b5ae-0c099a0fdfad | en | masculine | Scott - Sportscaster | Energetic American adult male voice with the excitement of a sportscaster for live commentary, sports content, and high-
+4e41a434-85fc-4614-b203-af79ba44d473 | en | feminine | Sienna - Encourager | Soft-spoken American-accented female voice with a motivating and reassuring tone for guidance, support, and uplifting co
+09ed0318-2f4a-41b1-abe5-d11da7537c31 | en | feminine | Daphne - Excited Woman | Expressive and upbeat American-accented female voice with an exciting tone for ads, presentations, and lively storytelli
+79bfcec0-720c-41f2-a33a-f12383e9627f | en | masculine | Wang - Guide | Clear and firm adult male voice with an authoritative tone for customer support, giving instructions and professional co
+8918ddfe-2ad4-4cc8-a573-e020ca13f3f5 | en | feminine | Erin - Joyful Guide | Cheerful and optimistic adult female voice for upbeat conversations, advertisements, and positive customer interactions
+46788d8e-cdf9-4d5c-9125-094eb2e4d44c | en | feminine | Brittany - Intense Performer | Strong and aggressive American-accented female voice for intense dialogue, dramatic roles, or high-energy commercials
+e2d48e7b-cd73-4c4c-bc1e-f232580e8709 | en | masculine | Adrian - Explorer | Deep American adult male voice with a curious and engaging tone for explorations, documentaries, and storytelling
+c63361f8-d142-4c62-8da7-8f8149d973d6 | en | masculine | Krishna - Friendly Pal | Easygoing adult male voice with a slight Indian accent for casual conversations, approachable dialogue, and friendly int
+9287676d-f0cc-423f-ac03-3b3c7242f091 | en | masculine | Allen - Modern Voice | Confident young adult male voice with a neutral American accent for presentations, ads, and engaging everyday conversati
+f9836c6e-a0bd-460e-9d3c-f7299fa60f94 | en | feminine | Caroline - Southern Guide | Friendly, inviting, slow young adult female for conversation support
+f6ff7c0c-e396-40a9-a70b-f7607edb6937 | en | feminine | Emma - Customer Care Line | Casual adult female for natural conversations and customer support
+f31cc6a7-c1e8-4764-980c-60a361443dd1 | en | feminine | Olivia - Sunny Woman | Friendly, happy adult female for engaging conversations
+4af7c703-f2a9-45dd-a7fd-724cf7efc371 | en | feminine | Lila - Meditation Guide | Melodic female for gentle and empathetic conversations
+23e9e50a-4ea2-447b-b589-df90dbb848a2 | en | masculine | Dallas - Fireside Friend | Kind male for inviting and authentic conversations
+57b6bf63-c7a1-4ffc-8e10-23bf45152dd6 | en | feminine | Rebecca - Counselor | Soft-spoken, empathetic female voice suited for thoughtful, calming dialogue
+4f7f1324-1853-48a6-b294-4e78e8036a83 | en | masculine | Casper - Gentle Narrator | Wistful, young male for emotional narrations
+607167f6-9bf2-473c-accc-ac7b3b66b30b | en | feminine | Brenda - Host | Cheerful, friendly female voice that creates a positive, helpful experience for customer interactions
+0c8ed86e-6c64-40f0-b252-b773911de6bb | en | feminine | Doris - Friend | Warm and relatable female voice suited for casual, natural conversations
+bf0a246a-8642-498a-9950-80c35e9276b5 | en | feminine | Sophie - Teacher | Mature female for natural conversations
+97f4b8fb-f2fe-444b-bb9a-c109783a857a | en | masculine | Nathan - Easy Talker | Confident, firm young adult male with a slight edge for conversational use cases
+a3520a8f-226a-428d-9fcd-b0a4711a6829 | en | feminine | Reflective Woman | This voice is even, full, and reflective, perfect for a young narrator for an audiobook or movie
+729651dc-c6c3-4ee5-97fa-350da1f88600 | en | masculine | Jake - Sidekick | Friendly, young adult male for welcoming and engaging conversations
+694f9389-aac1-45b6-b726-9d9369183238 | en | feminine | Sarah - Mindful Woman | Soothing female for meditations and calming conversations
+156fb8d2-335b-4950-9cb3-a2d33befec77 | en | feminine | Sunny - Pep Talker | Upbeat female for engaging conversations
+e00d0e4c-a5c8-443f-a8a3-473eb9a62355 | en | masculine | Zeke - Friendly Sidekick | High pitched, friendly, young adult male for gaming and entertainment characters
+e13cae5c-ec59-4f71-b0a6-266df3c9bb8e | en | feminine | Lulu - Madame Mischief | Squeaky, young female for media and entertainment for kids
+2a4d065a-ac91-4203-a015-eb3fc3ee3365 | en | masculine | Wes - Customer Companion | Kind male for engaging with customers
+39b376fc-488e-4d0c-8b37-e00b72059fdd | en | masculine | Sheldon - Help Desk Man | Enunciating male for customer support use cases
+af346552-54bf-4c2b-a4d4-9d2820f51b6c | en | feminine | Valerie - Support Authority | Authoritative mature female for frontline customer support use cases
+da4a4eff-3b7e-4846-8f70-f075ff61222c | en | masculine | Callum - Brand Spokesperson | Neutral, confident young adult male fit for voiceovers and customer interactions
+7e19344f-9f17-47d7-a13a-4366ad06ebf3 | en | masculine | Silas - Nighttime Narrator | Gentle and steady male voice with a nurturing tone for calm conversations and serene narration
+701a96e1-7fdd-4a6c-a81e-a4a450403599 | en | masculine | Rowan - Team Leader | Confident male for narrations
+32b3f3c5-7171-46aa-abe7-b598964aa793 | en | feminine | Daisy - Reading Girl | Very young female for children's book narrations and young animated personas
+cccc21e8-5bcf-4ff0-bc7f-be4e40afc544 | en | feminine | Avery - Gaming Girl | High pitched, energetic young female for animated characters and gaming and entertainment use cases
+56b87df1-594d-4135-992c-1112bb504c59 | en | feminine | Lexi - Fun Friend | Cheery, young female for entertainment, media, and gaming use cases
+7cf0e2b1-8daf-4fe4-89ad-f6039398f359 | en | masculine | Benedict - Royal Narrator | Confident, firm male for narrations
+c2ac25f9-ecc4-4f56-9095-651354df60c0 | en | feminine | Renee - Commander | Firm adult female fit for broadcasts and narrations
+d46abd1d-2d02-43e8-819f-51fb652c1c61 | en | masculine | Grant - Friendly Support | Reliable, clear male voice with neutral American accent for customer support interactions
+87748186-23bb-4158-a1eb-332911b0b708 | en | masculine | Alaric - Wizard | Wistful, wise, elderly male for entertainment and fun characters
+a167e0f3-df7e-4d52-a9c3-f949145efdab | en | masculine | Blake - Helpful Agent | Energetic adult male for engaging customer support
+41534e16-2966-4c6b-9670-111411def906 | en | masculine | Clarence - Newsman | Firm, deep male with old time radio like acoustics for 20th century historical reenactments
+79f8b5fb-2cc8-479a-80df-29f7a7cf1a3e | en | masculine | Theo - Modern Narrator | Steady, enunciating, confident young male for narrations
+c8605446-247c-4d39-acd4-8f4c28aa363c | en | feminine | Edith - Matriarch | Elderly, confident female for narrations and wise characters
+00a77add-48d5-4ef6-8157-71e5437b282d | en | feminine | Callie - Encourager | Smooth, young adult female for empathetic conversation
+00967b2f-88a6-4a31-8153-110a92134b9f | en | masculine | Asher - Podcaster | Firm adult male for audiobooks and clear communication
+a38e4e85-e815-43ab-acf1-907c4688dd6c | en | feminine | Lindsey - Relaxed Rep | Happy adult female with a laidback affect for casual conversations and customer support
+7ea5e9c2-b719-4dc3-b870-5ba5f14d31d8 | en | feminine | Janvi - Steady Agent | Calm and neutral female voice with a slow, steady delivery, ideal for customer support scenarios
+f6141af3-5f94-418c-80ed-a45d450e7e2e | en | feminine | Priya - Trusted Operator | Authoritative, adult female for customer support
+f8f5f1b2-f02d-4d8e-a40d-fd850a487b3d | en | feminine | Kiara - Joyful Woman | Upbeat, enunciating Indian accented mature adult female for happy conversations
+1259b7e3-cb8a-43df-9446-30971a46b8b0 | en | masculine | Devansh - Warm Support Agent | Warm, conversational Indian male adult voice for casual chats, everyday interactions, and friendly user engagement
+8985388c-1332-4ce7-8d55-789628aa3df4 | en | feminine | Robyn - Storycrafter | Neutral, mature female for narrations
+41f3c367-e0a8-4a85-89e0-c27bae9c9b6d | en | masculine | Liam - Guy Next Door | Casual, friendly young male for authentic and engaging conversations
+ee7ea9f8-c0c1-498c-9279-764d6b56d189 | en | masculine | Oliver - Customer Chap | Polite, young adult male for customer facing use cases
+b7d50908-b17c-442d-ad8d-810c63997ed9 | en | feminine | Sierra - California Girl | Slow, chill young adult female for casual conversations
+996a8b96-4804-46f0-8e05-3fd4ef1a87cd | en | feminine | Darla - Resolution Agent | Firm and confident female voice with a calm, supportive tone - ideal for customer support roles
+03496517-369a-4db1-8236-3d3ae459ddf7 | en | feminine | Calypso - ASMR Lady | Soothing female for meditations and other calming use cases
+a01c369f-6d2d-4185-bc20-b32c225eab70 | en | feminine | Fiona - Witty Woman | Chirpy and energetic British female voice with a bright tone, great for lively and engaging conversations
+8f091740-3df1-4795-8bd9-dc62d88e5131 | en | feminine | Aurora - Fairy Princess | Fairy like female for character use cases in entertainment
+043cfc81-d69f-4bee-ae1e-7862cb358650 | en | feminine | Amelia - Instructor | Strong, composed female voice suited for giving instructions with clarity and authority
+13524ffb-a918-499a-ae97-c98c7c4408c4 | en | masculine | Barry - Helper | Inviting, friendly male for customer support and product videos
+829ccd10-f8b3-43cd-b8a0-4aeaa81f3b30 | en | feminine | Linda - Conversational Guide | Clear, confident mature female for conversational use cases
+820a3788-2b37-4d21-847a-b65d8a68c99a | en | masculine | Tyler - Friendly Salesman | Direct and confidence inspiring adult male for sales and friendly interpersonal conversations
+5c42302c-194b-4d0c-ba1a-8cb485c84ab9 | en | feminine | Mary - Nurse | Mature adult female for instructional videos and empathetic conversations
+21b81c14-f85b-436d-aff5-43f2e788ecf8 | en | feminine | Riley - Chill Friend | Casual, young female for authentic and everyday conversations
+726d5ae5-055f-4c3d-8355-d9677de68937 | en | masculine | Troy - Fix It Man | Strong, dependable male voice designed for trust-building in customer-facing interactions
+11af83e2-23eb-452f-956e-7fee218ccb5c | en | feminine | Ruth - Manager | Firm, authoritative female for providing guidance
+42b39f37-515f-4eee-8546-73e841679c1d | en | masculine | James - Navigator | Very deep, authoritative male for providing guidance and instruction
+5619d38c-cf51-4d8e-9575-48f61a280413 | en | masculine | Mark - Promotion Lead | Deep, confident male voice with strong presence - ideal for commercials, promos, and broadcast narration
+f114a467-c40a-4db8-964d-aaba89cd08fa | en | masculine | Miles - Yogi | Deep, soothing mature male for providing guidance
+a0e99841-438c-4a64-b679-ae501e7d6091 | en | masculine | Greg - Supporter | Neutral, deep male for conversational support
+ed81fd13-2016-4a49-8fe3-c0d2761695fc | en | masculine | Zack - Sportsman | Firm, energetic male for lively announcing
+c45bc5ec-dc68-4feb-8829-6e6b2748095d | en | masculine | Trevor - Movieman | Deep, elderly male for narrations and entertainment use cases
+bf991597-6c13-47e4-8411-91ec2de5c466 | en | feminine | Carol - Task Coach | Authortative, mature female for giving instructions
+248be419-c632-4f23-adf1-5324ed7dbf1d | en | feminine | Elizabeth - Manager | Enunicating young female for providing guidance and instructions
+98a34ef2-2140-4c28-9c71-663dc4dd7022 | en | masculine | Clyde - Calm Narrator | Gentle, measured male voice with warmth and clarity for storytelling and informative reads
+3b554273-4299-48b9-9aaf-eefd438e3941 | en | feminine | Simi - Support Specialist | Firm, young accented female for customer support use cases
+daf747c6-6bc2-4083-bd59-aa94dce23f5d | en | feminine | Yasmin - Dialogue Anchor | Firm adult female for conversational use cases
+e3827ec5-697a-4b7c-9704-1a23041bbc51 | en | feminine | Dottie - Sweet Gal | High pitched, earnest, very young female for character narrations for children
+638efaaa-4d0c-442e-b701-3fae16aad012 | en | masculine | Sameer - Problem Solver | Friendly male for customer support use cases
+565510e8-6b45-45de-8758-13588fbaec73 | en | masculine | Ray - Conversationalist | Approachable male voice with a laid-back, natural delivery for everyday conversations
+40104aff-a015-4da1-9912-af950fbec99e | en | masculine | Travis - How To Guide | Firm, young male for instructional videos and customer support
+34575e71-908f-4ab6-ab54-b08c95d6597d | en | masculine | Joey - Neighborhood Guy | Casual, friendly male for natural conversations
+71a7ad14-091c-4e8e-a314-022ece01c121 | en | feminine | Charlotte - Heiress | Elegant, young adult female for narrations
+91b4cf29-5166-44eb-8054-30d40ecc8081 | en | feminine | Tina - Customer Ally | Natural, firm adult female for authentic conversation and customer support

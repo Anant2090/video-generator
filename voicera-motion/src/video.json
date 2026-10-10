@@ -1,0 +1,14 @@
+{
+  "fps": 30,
+  "frames": 13840,
+  "width": 1920,
+  "height": 1080,
+  "crop": {
+    "x": 5,
+    "y": 93,
+    "w": 1914,
+    "h": 894
+  },
+  "scrollDeny": [4274],
+  "whisperPrompt": "Voicera cx.ai, AI fueled CX."
+}

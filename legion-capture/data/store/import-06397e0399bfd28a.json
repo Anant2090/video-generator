@@ -1,0 +1,266 @@
+{
+  "summary": {
+    "run_id": "import-06397e0399bfd28a",
+    "tenant_id": "acme",
+    "aut_name": "banking-assistant",
+    "tier": "imported",
+    "region": "",
+    "total": 1,
+    "completed": 1,
+    "pending": 0,
+    "partial": 0,
+    "errored": 0,
+    "stop_reason": "imported",
+    "report_hash": "86cac57059060a0d5b4421a4dba7628953a2cdcaa7238afae6f92174ace76657",
+    "created_at": "2026-09-29T20:51:27.2090222+05:30",
+    "phase": "succeeded",
+    "updated_at": "2026-09-29T20:51:27.2090222+05:30"
+  },
+  "campaign": {
+    "Name": "",
+    "Version": "",
+    "TenantID": "acme",
+    "Seed": 0,
+    "Tier": "",
+    "Mode": "",
+    "EvalContractRef": "",
+    "EnvProfile": "",
+    "TimingProfile": "",
+    "AUTBinding": "",
+    "Templates": null,
+    "MaxSims": 0,
+    "TargetIntents": null,
+    "SteerToIntent": false,
+    "Environment": "",
+    "SuccessCriteria": null,
+    "CallerBackstory": "",
+    "DatasetRef": ""
+  },
+  "rec_dir": "",
+  "report": {
+    "report_version": "report-v15",
+    "total": 1,
+    "completed": 1,
+    "pending": 0,
+    "partial": 0,
+    "errored": 0,
+    "metrics": [
+      {
+        "metric": "bleu_score",
+        "mean": 0.7,
+        "count": 2,
+        "min": 0.7,
+        "max": 0.7,
+        "source": "local"
+      }
+    ],
+    "scenarios": [
+      {
+        "scenario": "imported/prod-call-2026-09-28-1142.wav",
+        "total": 1,
+        "completed": 1,
+        "pending": 0,
+        "partial": 0,
+        "errored": 0
+      }
+    ],
+    "sims": [
+      {
+        "sim_id": "imported-a18bccc079570b85492c62a6",
+        "scenario": "imported/prod-call-2026-09-28-1142.wav",
+        "coord": {
+          "CallerProfile": "",
+          "World": "",
+          "BehaviorProgram": ""
+        },
+        "status": "completed",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7
+          }
+        ],
+        "realism": {
+          "sims": 0,
+          "turns": 0,
+          "response_delay": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "network_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "interruption_rate_ppm": 0,
+          "realized_interruption_rate_ppm": 0,
+          "impaired_rate_ppm": 0,
+          "jitter": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "packet_loss_rate_ppm": 0,
+          "talkover": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "clip_rate_ppm": 0,
+          "aut_response_time": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "dead_air_ratio_ppm": 0,
+          "tool_latency": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "ttfb": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          },
+          "call_duration": {
+            "count": 0,
+            "mean_ms": 0,
+            "p50_ms": 0,
+            "p95_ms": 0,
+            "max_ms": 0
+          }
+        }
+      }
+    ],
+    "realism": {
+      "sims": 0,
+      "turns": 0,
+      "response_delay": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "network_latency": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "interruption_rate_ppm": 0,
+      "realized_interruption_rate_ppm": 0,
+      "impaired_rate_ppm": 0,
+      "jitter": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "packet_loss_rate_ppm": 0,
+      "talkover": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "clip_rate_ppm": 0,
+      "aut_response_time": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "dead_air": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "dead_air_ratio_ppm": 0,
+      "tool_latency": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "ttfb": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      },
+      "call_duration": {
+        "count": 0,
+        "mean_ms": 0,
+        "p50_ms": 0,
+        "p95_ms": 0,
+        "max_ms": 0
+      }
+    },
+    "criteria_sims": 0,
+    "criteria_pass_rate_ppm": 0,
+    "goal_sims": 0,
+    "goal_satisfied_rate_ppm": 0
+  },
+  "turn_evals": {
+    "imported-a18bccc079570b85492c62a6": [
+      {
+        "index": 1,
+        "aut": "Sure! What's the new address you'd like on file?",
+        "caller": "Hi, I need to update my billing address.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "aut": "Done, your billing address is updated.",
+        "caller": "Great, thank you.",
+        "metrics": [
+          {
+            "metric": "bleu_score",
+            "score": 0.7,
+            "source": "local",
+            "rationale": "stub"
+          }
+        ]
+      }
+    ]
+  }
+}

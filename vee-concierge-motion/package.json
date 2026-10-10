@@ -1,0 +1,22 @@
+﻿{
+    "name":  "vee-concierge-motion",
+    "private":  true,
+    "type":  "module",
+    "scripts":  {
+                    "prep":  "python scripts/prep.py",
+                    "dev":  "remotion studio",
+                    "render":  "remotion render Main out/render.mp4 --crf=16 --concurrency=8 --gl=angle --muted",
+                    "finalize":  "python scripts/finalize.py"
+                },
+    "dependencies":  {
+                         "@remotion/cli":  "^4.0.529",
+                         "@remotion/google-fonts":  "^4.0.529",
+                         "react":  "^19.3.0",
+                         "react-dom":  "^19.3.0",
+                         "remotion":  "^4.0.529"
+                     },
+    "devDependencies":  {
+                            "@types/react":  "^19.3.0",
+                            "typescript":  "^5.9.0"
+                        }
+}

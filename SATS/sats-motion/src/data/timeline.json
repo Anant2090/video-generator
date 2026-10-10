@@ -1,0 +1,341 @@
+{
+ "fps": 30,
+ "total": 247.93,
+ "frames": 7438,
+ "scenes": [
+  {
+   "name": "hook",
+   "start": 0,
+   "end": 14.0
+  },
+  {
+   "name": "challenge",
+   "start": 14.0,
+   "end": 31.52
+  },
+  {
+   "name": "title",
+   "start": 31.52,
+   "end": 45.52
+  },
+  {
+   "name": "canvas",
+   "start": 45.52,
+   "end": 104.02
+  },
+  {
+   "name": "call",
+   "start": 104.02,
+   "end": 166.49
+  },
+  {
+   "name": "handoffs",
+   "start": 166.49,
+   "end": 199.53
+  },
+  {
+   "name": "exceptions",
+   "start": 199.53,
+   "end": 210.99
+  },
+  {
+   "name": "record",
+   "start": 210.99,
+   "end": 232.27
+  },
+  {
+   "name": "benefits",
+   "start": 232.27,
+   "end": 239.29
+  },
+  {
+   "name": "end",
+   "start": 239.29,
+   "end": 247.93
+  }
+ ],
+ "lines": {
+  "vo1": {
+   "at": 0.8,
+   "end": 9.68,
+   "who": "narrator"
+  },
+  "vo2": {
+   "at": 14.4,
+   "end": 31.12,
+   "who": "narrator"
+  },
+  "vo3": {
+   "at": 32.02,
+   "end": 44.18,
+   "who": "narrator"
+  },
+  "vo4a": {
+   "at": 46.22,
+   "end": 51.34,
+   "who": "narrator"
+  },
+  "vo4b": {
+   "at": 51.94,
+   "end": 69.22,
+   "who": "narrator"
+  },
+  "vo4c": {
+   "at": 69.72,
+   "end": 78.68,
+   "who": "narrator"
+  },
+  "vo4d": {
+   "at": 79.18,
+   "end": 91.9,
+   "who": "narrator"
+  },
+  "vo4e": {
+   "at": 92.3,
+   "end": 103.02,
+   "who": "narrator"
+  },
+  "vo5": {
+   "at": 104.62,
+   "end": 106.86,
+   "who": "narrator"
+  },
+  "A1": {
+   "at": 111.06,
+   "end": 118.02,
+   "who": "agent"
+  },
+  "A2": {
+   "at": 118.37,
+   "end": 119.89,
+   "who": "consignee"
+  },
+  "A3": {
+   "at": 120.44,
+   "end": 131.64,
+   "who": "agent"
+  },
+  "A4": {
+   "at": 131.99,
+   "end": 134.87,
+   "who": "consignee"
+  },
+  "A5": {
+   "at": 135.97,
+   "end": 139.65,
+   "who": "agent"
+  },
+  "A6": {
+   "at": 140.0,
+   "end": 142.56,
+   "who": "consignee"
+  },
+  "A7": {
+   "at": 143.66,
+   "end": 148.94,
+   "who": "agent"
+  },
+  "A8": {
+   "at": 149.29,
+   "end": 151.77,
+   "who": "consignee"
+  },
+  "A9": {
+   "at": 152.87,
+   "end": 157.83,
+   "who": "agent"
+  },
+  "A10": {
+   "at": 158.18,
+   "end": 160.26,
+   "who": "consignee"
+  },
+  "A11": {
+   "at": 160.81,
+   "end": 164.89,
+   "who": "agent"
+  },
+  "vo6a": {
+   "at": 166.89,
+   "end": 169.05,
+   "who": "narrator"
+  },
+  "B1": {
+   "at": 169.65,
+   "end": 173.17,
+   "who": "consignee"
+  },
+  "B2": {
+   "at": 174.17,
+   "end": 179.93,
+   "who": "agent"
+  },
+  "B3": {
+   "at": 182.83,
+   "end": 185.23,
+   "who": "counter"
+  },
+  "vo6b": {
+   "at": 185.93,
+   "end": 188.25,
+   "who": "narrator"
+  },
+  "C1": {
+   "at": 188.75,
+   "end": 192.35,
+   "who": "consignee"
+  },
+  "C2": {
+   "at": 193.25,
+   "end": 198.53,
+   "who": "agent"
+  },
+  "vo7": {
+   "at": 200.23,
+   "end": 209.99,
+   "who": "narrator"
+  },
+  "vo8": {
+   "at": 211.59,
+   "end": 231.27,
+   "who": "narrator"
+  },
+  "vo9": {
+   "at": 232.77,
+   "end": 238.69,
+   "who": "narrator"
+  },
+  "vo10": {
+   "at": 239.99,
+   "end": 245.43,
+   "who": "narrator"
+  }
+ },
+ "sfx": [
+  {
+   "name": "touchdown",
+   "at": 2.1,
+   "gain": 1.0
+  },
+  {
+   "name": "tick",
+   "at": 4.3,
+   "gain": 0.6
+  },
+  {
+   "name": "tick",
+   "at": 4.72,
+   "gain": 0.6
+  },
+  {
+   "name": "tick",
+   "at": 5.14,
+   "gain": 0.6
+  },
+  {
+   "name": "tick",
+   "at": 5.56,
+   "gain": 0.6
+  },
+  {
+   "name": "tick",
+   "at": 5.98,
+   "gain": 0.6
+  },
+  {
+   "name": "stream",
+   "at": 8.2,
+   "gain": 1.0
+  },
+  {
+   "name": "ring",
+   "at": 10.4,
+   "gain": 1.0
+  },
+  {
+   "name": "whoosh",
+   "at": 13.7,
+   "gain": 1.0
+  },
+  {
+   "name": "whoosh",
+   "at": 31.22,
+   "gain": 0.8
+  },
+  {
+   "name": "click",
+   "at": 40.52,
+   "gain": 0.7
+  },
+  {
+   "name": "click",
+   "at": 44.52,
+   "gain": 0.7
+  },
+  {
+   "name": "whoosh",
+   "at": 45.32,
+   "gain": 0.7
+  },
+  {
+   "name": "whoosh",
+   "at": 103.82,
+   "gain": 0.7
+  },
+  {
+   "name": "ring",
+   "at": 107.76,
+   "gain": 1.0
+  },
+  {
+   "name": "pickup",
+   "at": 110.66,
+   "gain": 0.8
+  },
+  {
+   "name": "hangup",
+   "at": 165.29,
+   "gain": 0.7
+  },
+  {
+   "name": "ringback",
+   "at": 180.23,
+   "gain": 1.0
+  },
+  {
+   "name": "hangup",
+   "at": 198.83,
+   "gain": 0.6
+  },
+  {
+   "name": "whoosh",
+   "at": 199.33,
+   "gain": 0.7
+  },
+  {
+   "name": "whoosh",
+   "at": 232.07,
+   "gain": 0.6
+  },
+  {
+   "name": "chime",
+   "at": 239.49,
+   "gain": 0.8
+  }
+ ],
+ "marks": {
+  "hook_ring": 10.4,
+  "home_in": 37.52,
+  "click_canvas": 40.52,
+  "list_in": 41.12,
+  "click_sats": 44.52,
+  "trigger": 107.16,
+  "ringA": 107.76,
+  "pickupA": 110.66,
+  "hangupA": 165.29,
+  "callB": 169.25,
+  "ringB": 180.23,
+  "callC": 185.73,
+  "hangupC": 198.83
+ }
+}
