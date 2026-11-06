@@ -2600,29 +2600,94 @@
  },
  "B3": {
   "who": "counter",
-  "text": "Import counter, good afternoon.",
-  "show": "Import counter, good afternoon.",
-  "dur": 2.4,
+  "text": "Import counter, good afternoon. A W B four five one eight is ready. How can I help?",
+  "show": "Import counter, good afternoon. AWB 4518 is ready. How can I help?",
+  "dur": 5.6,
   "words": [
    {
     "w": "Import",
-    "s": 0.118,
-    "e": 0.6
+    "s": 0.078,
+    "e": 0.44
    },
    {
     "w": "counter,",
-    "s": 0.601,
-    "e": 1.16
+    "s": 0.521,
+    "e": 0.84
    },
    {
     "w": "good",
-    "s": 1.446,
-    "e": 1.64
+    "s": 1.034,
+    "e": 1.24
    },
    {
     "w": "afternoon.",
-    "s": 1.642,
-    "e": 2.28
+    "s": 1.321,
+    "e": 1.72
+   },
+   {
+    "w": "A",
+    "s": 2.221,
+    "e": 2.52
+   },
+   {
+    "w": "W",
+    "s": 2.524,
+    "e": 2.84
+   },
+   {
+    "w": "B",
+    "s": 2.922,
+    "e": 3.16
+   },
+   {
+    "w": "four",
+    "s": 3.161,
+    "e": 3.4
+   },
+   {
+    "w": "five",
+    "s": 3.481,
+    "e": 3.72
+   },
+   {
+    "w": "one",
+    "s": 3.8,
+    "e": 3.88
+   },
+   {
+    "w": "eight",
+    "s": 3.96,
+    "e": 4.04
+   },
+   {
+    "w": "is",
+    "s": 4.065,
+    "e": 4.28
+   },
+   {
+    "w": "ready.",
+    "s": 4.36,
+    "e": 4.6
+   },
+   {
+    "w": "How",
+    "s": 4.844,
+    "e": 5.08
+   },
+   {
+    "w": "can",
+    "s": 5.16,
+    "e": 5.16
+   },
+   {
+    "w": "I",
+    "s": 5.24,
+    "e": 5.24
+   },
+   {
+    "w": "help?",
+    "s": 5.32,
+    "e": 5.48
    }
   ]
  },
@@ -2764,6 +2829,1370 @@
     "w": "safely.",
     "s": 4.6,
     "e": 5.16
+   }
+  ]
+ },
+ "vo5d": {
+  "who": "narrator",
+  "text": "Scenario six. The consignee cannot collect today, so the agent explains the pickup deadline and shares a payment link for any applicable charges.",
+  "show": "Scenario six. The consignee cannot collect today, so the agent explains the pickup deadline and shares a payment link for any applicable charges.",
+  "dur": 9.68,
+  "words": [
+   {
+    "w": "Scenario",
+    "s": 0.117,
+    "e": 0.68
+   },
+   {
+    "w": "six.",
+    "s": 0.683,
+    "e": 1.32
+   },
+   {
+    "w": "The",
+    "s": 1.959,
+    "e": 2.2
+   },
+   {
+    "w": "consignee",
+    "s": 2.202,
+    "e": 2.92
+   },
+   {
+    "w": "cannot",
+    "s": 2.93,
+    "e": 3.48
+   },
+   {
+    "w": "collect",
+    "s": 3.561,
+    "e": 3.88
+   },
+   {
+    "w": "today,",
+    "s": 3.881,
+    "e": 4.36
+   },
+   {
+    "w": "so",
+    "s": 4.662,
+    "e": 4.76
+   },
+   {
+    "w": "the",
+    "s": 4.76,
+    "e": 5
+   },
+   {
+    "w": "agent",
+    "s": 5.08,
+    "e": 5.32
+   },
+   {
+    "w": "explains",
+    "s": 5.321,
+    "e": 5.8
+   },
+   {
+    "w": "the",
+    "s": 5.88,
+    "e": 5.88
+   },
+   {
+    "w": "pickup",
+    "s": 5.96,
+    "e": 6.28
+   },
+   {
+    "w": "deadline",
+    "s": 6.281,
+    "e": 6.76
+   },
+   {
+    "w": "and",
+    "s": 6.84,
+    "e": 6.92
+   },
+   {
+    "w": "shares",
+    "s": 7.0,
+    "e": 7.24
+   },
+   {
+    "w": "a",
+    "s": 7.32,
+    "e": 7.32
+   },
+   {
+    "w": "payment",
+    "s": 7.321,
+    "e": 7.72
+   },
+   {
+    "w": "link",
+    "s": 7.8,
+    "e": 7.88
+   },
+   {
+    "w": "for",
+    "s": 7.96,
+    "e": 8.12
+   },
+   {
+    "w": "any",
+    "s": 8.121,
+    "e": 8.44
+   },
+   {
+    "w": "applicable",
+    "s": 8.521,
+    "e": 8.92
+   },
+   {
+    "w": "charges.",
+    "s": 8.923,
+    "e": 9.64
+   }
+  ]
+ },
+ "D1": {
+  "who": "agent",
+  "text": "Hello, I'm calling from sats regarding your shipment. Your consignment has arrived and is ready for collection. Please arrange to pick it up before three p.m. today.",
+  "show": "Hello, I'm calling from SATS regarding your shipment. Your consignment has arrived and is ready for collection. Please arrange to pick it up before 3:00 p.m. today.",
+  "dur": 9.28,
+  "words": [
+   {
+    "w": "Hello,",
+    "s": 0.117,
+    "e": 0.6
+   },
+   {
+    "w": "I'm",
+    "s": 0.83,
+    "e": 0.92
+   },
+   {
+    "w": "calling",
+    "s": 0.92,
+    "e": 1.24
+   },
+   {
+    "w": "from",
+    "s": 1.32,
+    "e": 1.4
+   },
+   {
+    "w": "sats",
+    "s": 1.4,
+    "e": 1.8
+   },
+   {
+    "w": "regarding",
+    "s": 1.881,
+    "e": 2.2
+   },
+   {
+    "w": "your",
+    "s": 2.28,
+    "e": 2.36
+   },
+   {
+    "w": "shipment.",
+    "s": 2.361,
+    "e": 2.76
+   },
+   {
+    "w": "Your",
+    "s": 3.157,
+    "e": 3.4
+   },
+   {
+    "w": "consignment",
+    "s": 3.48,
+    "e": 3.88
+   },
+   {
+    "w": "has",
+    "s": 3.96,
+    "e": 3.96
+   },
+   {
+    "w": "arrived",
+    "s": 3.96,
+    "e": 4.44
+   },
+   {
+    "w": "and",
+    "s": 4.521,
+    "e": 4.6
+   },
+   {
+    "w": "is",
+    "s": 4.68,
+    "e": 4.68
+   },
+   {
+    "w": "ready",
+    "s": 4.68,
+    "e": 5
+   },
+   {
+    "w": "for",
+    "s": 5.08,
+    "e": 5.16
+   },
+   {
+    "w": "collection.",
+    "s": 5.24,
+    "e": 5.72
+   },
+   {
+    "w": "Please",
+    "s": 6.169,
+    "e": 6.6
+   },
+   {
+    "w": "arrange",
+    "s": 6.68,
+    "e": 7
+   },
+   {
+    "w": "to",
+    "s": 7.08,
+    "e": 7.08
+   },
+   {
+    "w": "pick",
+    "s": 7.16,
+    "e": 7.32
+   },
+   {
+    "w": "it",
+    "s": 7.32,
+    "e": 7.4
+   },
+   {
+    "w": "up",
+    "s": 7.48,
+    "e": 7.56
+   },
+   {
+    "w": "before",
+    "s": 7.641,
+    "e": 7.96
+   },
+   {
+    "w": "three",
+    "s": 7.961,
+    "e": 8.36
+   },
+   {
+    "w": "p.m.",
+    "s": 8.441,
+    "e": 8.76
+   },
+   {
+    "w": "today.",
+    "s": 8.761,
+    "e": 9.16
+   }
+  ]
+ },
+ "D2": {
+  "who": "consignee",
+  "text": "I'm not available to come and collect it today. What can I do?",
+  "show": "I'm not available to come and collect it today. What can I do?",
+  "dur": 3.92,
+  "words": [
+   {
+    "w": "I'm",
+    "s": 0.1,
+    "e": 0.28
+   },
+   {
+    "w": "not",
+    "s": 0.361,
+    "e": 0.52
+   },
+   {
+    "w": "available",
+    "s": 0.586,
+    "e": 1.08
+   },
+   {
+    "w": "to",
+    "s": 1.161,
+    "e": 1.24
+   },
+   {
+    "w": "come",
+    "s": 1.327,
+    "e": 1.56
+   },
+   {
+    "w": "and",
+    "s": 1.64,
+    "e": 1.64
+   },
+   {
+    "w": "collect",
+    "s": 1.65,
+    "e": 2.12
+   },
+   {
+    "w": "it",
+    "s": 2.2,
+    "e": 2.2
+   },
+   {
+    "w": "today.",
+    "s": 2.201,
+    "e": 2.6
+   },
+   {
+    "w": "What",
+    "s": 2.98,
+    "e": 3.32
+   },
+   {
+    "w": "can",
+    "s": 3.4,
+    "e": 3.48
+   },
+   {
+    "w": "I",
+    "s": 3.56,
+    "e": 3.64
+   },
+   {
+    "w": "do?",
+    "s": 3.72,
+    "e": 3.88
+   }
+  ]
+ },
+ "D3": {
+  "who": "agent",
+  "text": "I understand. Please be aware that additional charges may apply if the shipment is not collected within the required timeframe. I can share the payment link for the applicable charges. I won't quote an amount \u2014 those charges have to be confirmed by the sats system.",
+  "show": "I understand. Please be aware that additional charges may apply if the shipment is not collected within the required timeframe. I can share the payment link for the applicable charges. I won't quote an amount \u2014 those charges have to be confirmed by the SATS system.",
+  "dur": 14.48,
+  "words": [
+   {
+    "w": "I",
+    "s": 0.105,
+    "e": 0.28
+   },
+   {
+    "w": "understand.",
+    "s": 0.361,
+    "e": 0.92
+   },
+   {
+    "w": "Please",
+    "s": 1.242,
+    "e": 1.56
+   },
+   {
+    "w": "be",
+    "s": 1.64,
+    "e": 1.72
+   },
+   {
+    "w": "aware",
+    "s": 1.72,
+    "e": 2.04
+   },
+   {
+    "w": "that",
+    "s": 2.12,
+    "e": 2.2
+   },
+   {
+    "w": "additional",
+    "s": 2.2,
+    "e": 2.6
+   },
+   {
+    "w": "charges",
+    "s": 2.681,
+    "e": 3.08
+   },
+   {
+    "w": "may",
+    "s": 3.16,
+    "e": 3.16
+   },
+   {
+    "w": "apply",
+    "s": 3.161,
+    "e": 3.8
+   },
+   {
+    "w": "if",
+    "s": 3.881,
+    "e": 3.96
+   },
+   {
+    "w": "the",
+    "s": 4.04,
+    "e": 4.04
+   },
+   {
+    "w": "shipment",
+    "s": 4.041,
+    "e": 4.44
+   },
+   {
+    "w": "is",
+    "s": 4.52,
+    "e": 4.6
+   },
+   {
+    "w": "not",
+    "s": 4.68,
+    "e": 4.84
+   },
+   {
+    "w": "collected",
+    "s": 4.84,
+    "e": 5.32
+   },
+   {
+    "w": "within",
+    "s": 5.4,
+    "e": 5.48
+   },
+   {
+    "w": "the",
+    "s": 5.56,
+    "e": 5.56
+   },
+   {
+    "w": "required",
+    "s": 5.561,
+    "e": 6.12
+   },
+   {
+    "w": "timeframe.",
+    "s": 6.122,
+    "e": 6.76
+   },
+   {
+    "w": "I",
+    "s": 7.161,
+    "e": 7.32
+   },
+   {
+    "w": "can",
+    "s": 7.32,
+    "e": 7.48
+   },
+   {
+    "w": "share",
+    "s": 7.56,
+    "e": 7.72
+   },
+   {
+    "w": "the",
+    "s": 7.8,
+    "e": 7.8
+   },
+   {
+    "w": "payment",
+    "s": 7.8,
+    "e": 8.2
+   },
+   {
+    "w": "link",
+    "s": 8.28,
+    "e": 8.36
+   },
+   {
+    "w": "for",
+    "s": 8.44,
+    "e": 8.44
+   },
+   {
+    "w": "the",
+    "s": 8.52,
+    "e": 8.6
+   },
+   {
+    "w": "applicable",
+    "s": 8.601,
+    "e": 9
+   },
+   {
+    "w": "charges.",
+    "s": 9.082,
+    "e": 9.64
+   },
+   {
+    "w": "I",
+    "s": 9.929,
+    "e": 10.04
+   },
+   {
+    "w": "won't",
+    "s": 10.12,
+    "e": 10.28
+   },
+   {
+    "w": "quote",
+    "s": 10.281,
+    "e": 10.6
+   },
+   {
+    "w": "an",
+    "s": 10.68,
+    "e": 10.76
+   },
+   {
+    "w": "amount",
+    "s": 10.841,
+    "e": 11.04
+   },
+   {
+    "w": "\u2014",
+    "s": 11.04,
+    "e": 11.24
+   },
+   {
+    "w": "those",
+    "s": 11.615,
+    "e": 11.88
+   },
+   {
+    "w": "charges",
+    "s": 11.88,
+    "e": 12.28
+   },
+   {
+    "w": "have",
+    "s": 12.36,
+    "e": 12.52
+   },
+   {
+    "w": "to",
+    "s": 12.6,
+    "e": 12.6
+   },
+   {
+    "w": "be",
+    "s": 12.68,
+    "e": 12.76
+   },
+   {
+    "w": "confirmed",
+    "s": 12.762,
+    "e": 13.32
+   },
+   {
+    "w": "by",
+    "s": 13.4,
+    "e": 13.4
+   },
+   {
+    "w": "the",
+    "s": 13.48,
+    "e": 13.48
+   },
+   {
+    "w": "sats",
+    "s": 13.48,
+    "e": 13.88
+   },
+   {
+    "w": "system.",
+    "s": 13.961,
+    "e": 14.36
+   }
+  ]
+ },
+ "D4": {
+  "who": "consignee",
+  "text": "Okay, please send me the link.",
+  "show": "Okay, please send me the link.",
+  "dur": 2.24,
+  "words": [
+   {
+    "w": "Okay,",
+    "s": 0.119,
+    "e": 0.6
+   },
+   {
+    "w": "please",
+    "s": 0.827,
+    "e": 1.16
+   },
+   {
+    "w": "send",
+    "s": 1.241,
+    "e": 1.4
+   },
+   {
+    "w": "me",
+    "s": 1.48,
+    "e": 1.56
+   },
+   {
+    "w": "the",
+    "s": 1.64,
+    "e": 1.64
+   },
+   {
+    "w": "link.",
+    "s": 1.642,
+    "e": 2.12
+   }
+  ]
+ },
+ "D5": {
+  "who": "agent",
+  "text": "Certainly. I'll send the payment link to your registered contact number. Please review the details before making any payment.",
+  "show": "Certainly. I'll send the payment link to your registered contact number. Please review the details before making any payment.",
+  "dur": 6.56,
+  "words": [
+   {
+    "w": "Certainly.",
+    "s": 0.123,
+    "e": 0.68
+   },
+   {
+    "w": "I'll",
+    "s": 0.89,
+    "e": 1.16
+   },
+   {
+    "w": "send",
+    "s": 1.24,
+    "e": 1.32
+   },
+   {
+    "w": "the",
+    "s": 1.4,
+    "e": 1.48
+   },
+   {
+    "w": "payment",
+    "s": 1.48,
+    "e": 1.8
+   },
+   {
+    "w": "link",
+    "s": 1.88,
+    "e": 1.96
+   },
+   {
+    "w": "to",
+    "s": 2.04,
+    "e": 2.12
+   },
+   {
+    "w": "your",
+    "s": 2.2,
+    "e": 2.28
+   },
+   {
+    "w": "registered",
+    "s": 2.281,
+    "e": 2.76
+   },
+   {
+    "w": "contact",
+    "s": 2.842,
+    "e": 3.32
+   },
+   {
+    "w": "number.",
+    "s": 3.32,
+    "e": 3.64
+   },
+   {
+    "w": "Please",
+    "s": 4.076,
+    "e": 4.44
+   },
+   {
+    "w": "review",
+    "s": 4.52,
+    "e": 4.76
+   },
+   {
+    "w": "the",
+    "s": 4.84,
+    "e": 4.84
+   },
+   {
+    "w": "details",
+    "s": 4.84,
+    "e": 5.32
+   },
+   {
+    "w": "before",
+    "s": 5.4,
+    "e": 5.64
+   },
+   {
+    "w": "making",
+    "s": 5.64,
+    "e": 5.88
+   },
+   {
+    "w": "any",
+    "s": 5.96,
+    "e": 6.04
+   },
+   {
+    "w": "payment.",
+    "s": 6.12,
+    "e": 6.44
+   }
+  ]
+ },
+ "E1": {
+  "who": "agent",
+  "text": "Hello, I'm calling from sats regarding your shipment. Your consignment has arrived and is ready for collection. Please arrange to pick it up before three p.m. today.",
+  "show": "Hello, I'm calling from SATS regarding your shipment. Your consignment has arrived and is ready for collection. Please arrange to pick it up before 3:00 p.m. today.",
+  "dur": 8.56,
+  "words": [
+   {
+    "w": "Hello,",
+    "s": 0.124,
+    "e": 0.68
+   },
+   {
+    "w": "I'm",
+    "s": 0.803,
+    "e": 1
+   },
+   {
+    "w": "calling",
+    "s": 1.08,
+    "e": 1.24
+   },
+   {
+    "w": "from",
+    "s": 1.32,
+    "e": 1.4
+   },
+   {
+    "w": "sats",
+    "s": 1.402,
+    "e": 1.88
+   },
+   {
+    "w": "regarding",
+    "s": 1.96,
+    "e": 2.2
+   },
+   {
+    "w": "your",
+    "s": 2.28,
+    "e": 2.36
+   },
+   {
+    "w": "shipment.",
+    "s": 2.361,
+    "e": 2.84
+   },
+   {
+    "w": "Your",
+    "s": 3.173,
+    "e": 3.4
+   },
+   {
+    "w": "consignment",
+    "s": 3.48,
+    "e": 3.88
+   },
+   {
+    "w": "has",
+    "s": 3.96,
+    "e": 4.04
+   },
+   {
+    "w": "arrived",
+    "s": 4.04,
+    "e": 4.52
+   },
+   {
+    "w": "and",
+    "s": 4.6,
+    "e": 4.68
+   },
+   {
+    "w": "is",
+    "s": 4.76,
+    "e": 4.76
+   },
+   {
+    "w": "ready",
+    "s": 4.76,
+    "e": 5
+   },
+   {
+    "w": "for",
+    "s": 5.08,
+    "e": 5.16
+   },
+   {
+    "w": "collection.",
+    "s": 5.16,
+    "e": 5.72
+   },
+   {
+    "w": "Please",
+    "s": 6.156,
+    "e": 6.36
+   },
+   {
+    "w": "arrange",
+    "s": 6.36,
+    "e": 6.68
+   },
+   {
+    "w": "to",
+    "s": 6.76,
+    "e": 6.76
+   },
+   {
+    "w": "pick",
+    "s": 6.84,
+    "e": 6.92
+   },
+   {
+    "w": "it",
+    "s": 7.0,
+    "e": 7
+   },
+   {
+    "w": "up",
+    "s": 7.08,
+    "e": 7.16
+   },
+   {
+    "w": "before",
+    "s": 7.16,
+    "e": 7.4
+   },
+   {
+    "w": "three",
+    "s": 7.481,
+    "e": 7.72
+   },
+   {
+    "w": "p.m.",
+    "s": 7.8,
+    "e": 8.04
+   },
+   {
+    "w": "today.",
+    "s": 8.041,
+    "e": 8.44
+   }
+  ]
+ },
+ "E2": {
+  "who": "consignee",
+  "text": "How many parcels are there, and what's the weight?",
+  "show": "How many parcels are there, and what's the weight?",
+  "dur": 2.88,
+  "words": [
+   {
+    "w": "How",
+    "s": 0.116,
+    "e": 0.28
+   },
+   {
+    "w": "many",
+    "s": 0.361,
+    "e": 0.6
+   },
+   {
+    "w": "parcels",
+    "s": 0.606,
+    "e": 1.16
+   },
+   {
+    "w": "are",
+    "s": 1.24,
+    "e": 1.32
+   },
+   {
+    "w": "there,",
+    "s": 1.401,
+    "e": 1.64
+   },
+   {
+    "w": "and",
+    "s": 1.884,
+    "e": 2.12
+   },
+   {
+    "w": "what's",
+    "s": 2.201,
+    "e": 2.36
+   },
+   {
+    "w": "the",
+    "s": 2.44,
+    "e": 2.52
+   },
+   {
+    "w": "weight?",
+    "s": 2.52,
+    "e": 2.76
+   }
+  ]
+ },
+ "E3": {
+  "who": "agent",
+  "text": "There are twelve pieces, with a total weight of four hundred and eighty-six kilograms.",
+  "show": "There are 12 pieces, with a total weight of 486 kilograms.",
+  "dur": 4.72,
+  "words": [
+   {
+    "w": "There",
+    "s": 0.103,
+    "e": 0.28
+   },
+   {
+    "w": "are",
+    "s": 0.36,
+    "e": 0.36
+   },
+   {
+    "w": "twelve",
+    "s": 0.441,
+    "e": 0.84
+   },
+   {
+    "w": "pieces,",
+    "s": 0.841,
+    "e": 1.32
+   },
+   {
+    "w": "with",
+    "s": 1.552,
+    "e": 1.64
+   },
+   {
+    "w": "a",
+    "s": 1.72,
+    "e": 1.72
+   },
+   {
+    "w": "total",
+    "s": 1.721,
+    "e": 2.12
+   },
+   {
+    "w": "weight",
+    "s": 2.2,
+    "e": 2.36
+   },
+   {
+    "w": "of",
+    "s": 2.44,
+    "e": 2.44
+   },
+   {
+    "w": "four",
+    "s": 2.441,
+    "e": 2.84
+   },
+   {
+    "w": "hundred",
+    "s": 2.92,
+    "e": 3.16
+   },
+   {
+    "w": "and",
+    "s": 3.24,
+    "e": 3.24
+   },
+   {
+    "w": "eighty-six",
+    "s": 3.285,
+    "e": 3.88
+   },
+   {
+    "w": "kilograms.",
+    "s": 3.882,
+    "e": 4.68
+   }
+  ]
+ },
+ "E4": {
+  "who": "consignee",
+  "text": "I can't collect it before three p.m. today. What can I do?",
+  "show": "I can't collect it before 3:00 p.m. today. What can I do?",
+  "dur": 3.68,
+  "words": [
+   {
+    "w": "I",
+    "s": 0.096,
+    "e": 0.2
+   },
+   {
+    "w": "can't",
+    "s": 0.285,
+    "e": 0.44
+   },
+   {
+    "w": "collect",
+    "s": 0.53,
+    "e": 0.92
+   },
+   {
+    "w": "it",
+    "s": 0.921,
+    "e": 1.08
+   },
+   {
+    "w": "before",
+    "s": 1.164,
+    "e": 1.4
+   },
+   {
+    "w": "three",
+    "s": 1.406,
+    "e": 1.72
+   },
+   {
+    "w": "p.m.",
+    "s": 1.802,
+    "e": 2.04
+   },
+   {
+    "w": "today.",
+    "s": 2.122,
+    "e": 2.44
+   },
+   {
+    "w": "What",
+    "s": 2.751,
+    "e": 3
+   },
+   {
+    "w": "can",
+    "s": 3.081,
+    "e": 3.24
+   },
+   {
+    "w": "I",
+    "s": 3.24,
+    "e": 3.32
+   },
+   {
+    "w": "do?",
+    "s": 3.401,
+    "e": 3.56
+   }
+  ]
+ },
+ "E5": {
+  "who": "agent",
+  "text": "If it isn't collected by three p.m., storage is charged at thirty dollars per hour. How many extra hours do you need?",
+  "show": "If it isn't collected by 3:00 p.m., storage is charged at $30 per hour. How many extra hours do you need?",
+  "dur": 7.04,
+  "words": [
+   {
+    "w": "If",
+    "s": 0.088,
+    "e": 0.2
+   },
+   {
+    "w": "it",
+    "s": 0.28,
+    "e": 0.36
+   },
+   {
+    "w": "isn't",
+    "s": 0.44,
+    "e": 0.52
+   },
+   {
+    "w": "collected",
+    "s": 0.6,
+    "e": 0.92
+   },
+   {
+    "w": "by",
+    "s": 0.92,
+    "e": 1.08
+   },
+   {
+    "w": "three",
+    "s": 1.161,
+    "e": 1.48
+   },
+   {
+    "w": "p.m.,",
+    "s": 1.481,
+    "e": 2.04
+   },
+   {
+    "w": "storage",
+    "s": 2.248,
+    "e": 2.68
+   },
+   {
+    "w": "is",
+    "s": 2.76,
+    "e": 2.84
+   },
+   {
+    "w": "charged",
+    "s": 2.92,
+    "e": 3.24
+   },
+   {
+    "w": "at",
+    "s": 3.24,
+    "e": 3.32
+   },
+   {
+    "w": "thirty",
+    "s": 3.404,
+    "e": 3.72
+   },
+   {
+    "w": "dollars",
+    "s": 3.72,
+    "e": 4.12
+   },
+   {
+    "w": "per",
+    "s": 4.2,
+    "e": 4.28
+   },
+   {
+    "w": "hour.",
+    "s": 4.361,
+    "e": 4.68
+   },
+   {
+    "w": "How",
+    "s": 5.111,
+    "e": 5.4
+   },
+   {
+    "w": "many",
+    "s": 5.48,
+    "e": 5.64
+   },
+   {
+    "w": "extra",
+    "s": 5.645,
+    "e": 6.04
+   },
+   {
+    "w": "hours",
+    "s": 6.12,
+    "e": 6.36
+   },
+   {
+    "w": "do",
+    "s": 6.44,
+    "e": 6.44
+   },
+   {
+    "w": "you",
+    "s": 6.44,
+    "e": 6.52
+   },
+   {
+    "w": "need?",
+    "s": 6.601,
+    "e": 6.92
+   }
+  ]
+ },
+ "E6": {
+  "who": "consignee",
+  "text": "Until five p.m. That's two hours.",
+  "show": "Until 5:00 p.m. That's two hours.",
+  "dur": 2.64,
+  "words": [
+   {
+    "w": "Until",
+    "s": 0.116,
+    "e": 0.52
+   },
+   {
+    "w": "five",
+    "s": 0.602,
+    "e": 0.84
+   },
+   {
+    "w": "p.m.",
+    "s": 0.878,
+    "e": 1.4
+   },
+   {
+    "w": "That's",
+    "s": 1.531,
+    "e": 1.72
+   },
+   {
+    "w": "two",
+    "s": 1.731,
+    "e": 2.04
+   },
+   {
+    "w": "hours.",
+    "s": 2.126,
+    "e": 2.52
+   }
+  ]
+ },
+ "E7": {
+  "who": "agent",
+  "text": "Two hours at thirty dollars per hour is sixty dollars. I'll send the payment link to your registered contact number. Please review the details before making the payment.",
+  "show": "Two hours at $30 per hour is $60. I'll send the payment link to your registered contact number. Please review the details before making the payment.",
+  "dur": 8.96,
+  "words": [
+   {
+    "w": "Two",
+    "s": 0.142,
+    "e": 0.44
+   },
+   {
+    "w": "hours",
+    "s": 0.52,
+    "e": 0.84
+   },
+   {
+    "w": "at",
+    "s": 0.84,
+    "e": 1
+   },
+   {
+    "w": "thirty",
+    "s": 1.082,
+    "e": 1.32
+   },
+   {
+    "w": "dollars",
+    "s": 1.4,
+    "e": 1.64
+   },
+   {
+    "w": "per",
+    "s": 1.64,
+    "e": 1.8
+   },
+   {
+    "w": "hour",
+    "s": 1.88,
+    "e": 2.2
+   },
+   {
+    "w": "is",
+    "s": 2.28,
+    "e": 2.36
+   },
+   {
+    "w": "sixty",
+    "s": 2.361,
+    "e": 2.84
+   },
+   {
+    "w": "dollars.",
+    "s": 2.841,
+    "e": 3.4
+   },
+   {
+    "w": "I'll",
+    "s": 3.717,
+    "e": 3.8
+   },
+   {
+    "w": "send",
+    "s": 3.88,
+    "e": 4.04
+   },
+   {
+    "w": "the",
+    "s": 4.12,
+    "e": 4.12
+   },
+   {
+    "w": "payment",
+    "s": 4.12,
+    "e": 4.44
+   },
+   {
+    "w": "link",
+    "s": 4.52,
+    "e": 4.68
+   },
+   {
+    "w": "to",
+    "s": 4.76,
+    "e": 4.76
+   },
+   {
+    "w": "your",
+    "s": 4.84,
+    "e": 4.92
+   },
+   {
+    "w": "registered",
+    "s": 4.921,
+    "e": 5.4
+   },
+   {
+    "w": "contact",
+    "s": 5.401,
+    "e": 5.88
+   },
+   {
+    "w": "number.",
+    "s": 5.96,
+    "e": 6.28
+   },
+   {
+    "w": "Please",
+    "s": 6.569,
+    "e": 6.92
+   },
+   {
+    "w": "review",
+    "s": 7.0,
+    "e": 7.16
+   },
+   {
+    "w": "the",
+    "s": 7.24,
+    "e": 7.24
+   },
+   {
+    "w": "details",
+    "s": 7.24,
+    "e": 7.72
+   },
+   {
+    "w": "before",
+    "s": 7.8,
+    "e": 8.12
+   },
+   {
+    "w": "making",
+    "s": 8.12,
+    "e": 8.44
+   },
+   {
+    "w": "the",
+    "s": 8.52,
+    "e": 8.52
+   },
+   {
+    "w": "payment.",
+    "s": 8.6,
+    "e": 8.84
    }
   ]
  }

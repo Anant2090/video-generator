@@ -12,7 +12,7 @@ type Line = {who: string; text: string; show: string; dur: number; words: Word[]
 const lines = LINES as Record<string, Line>;
 const placed = TL.lines as Record<string, {at: number; end: number; who: string}>;
 
-export type SceneName = 'hook' | 'challenge' | 'title' | 'canvas' | 'call' | 'handoffs' | 'exceptions' | 'record' | 'benefits' | 'end';
+export type SceneName = 'hook' | 'challenge' | 'title' | 'canvas' | 'call' | 'handoffs' | 'pickup' | 'exceptions' | 'record' | 'benefits' | 'end';
 export const scene = (n: SceneName) => TL.scenes.find((s) => s.name === n)!;
 export const mark = (n: keyof typeof TL.marks) => TL.marks[n];
 export const line = (k: string) => ({...placed[k], ...lines[k]});

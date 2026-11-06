@@ -79,7 +79,7 @@ export const Phone: React.FC<{
                 const n = Math.abs(Math.sin(i * 1.7 + t * 9) * Math.cos(i * 0.6 - t * 5.3));
                 const env = 1 - Math.abs(i - bars / 2) / (bars / 1.6);
                 const h = 5 + level * env * (20 + 110 * n);
-                return <div key={i} style={{width: 5, height: h, borderRadius: 3, background: speaking === 'agent' ? GRADIENT : '#AEB8C2'}} />;
+                return <div key={i} style={{width: 5, height: h, borderRadius: 3, background: speaking === 'agent' || speaking === 'counter' ? GRADIENT : '#AEB8C2'}} />;
               })}
             </div>
           ) : null}

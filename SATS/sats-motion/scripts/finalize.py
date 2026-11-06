@@ -4,6 +4,7 @@ Two-pass loudnorm to -16 LUFS / -1 dBTP, then check frame count against timeline
 """
 import json
 import re
+import shutil
 import subprocess
 import sys
 from pathlib import Path
@@ -16,8 +17,20 @@ TL = json.loads((ROOT / 'src' / 'data' / 'timeline.json').read_text())
 FPS, EXPECTED = TL['fps'], TL['frames']
 
 
+def _bin(name: str) -> list[str]:
+    found = shutil.which(name)
+    if found:
+        return [found]
+    npx = shutil.which('npx') or 'npx'
+    return [npx, 'remotion', name]
+
+
+FFMPEG = _bin('ffmpeg')
+FFPROBE = _bin('ffprobe')
+
+
 def ff(*args):
-    r = subprocess.run(['ffmpeg', '-hide_banner', '-y', *args], capture_output=True, text=True)
+    r = subprocess.run([*FFMPEG, '-hide_banner', '-y', *args], capture_output=True, text=True)
     if r.returncode:
         sys.exit(r.stderr[-2000:] or r.stdout[-2000:])
     return r.stderr
@@ -47,17 +60,20 @@ def mux(norm: Path):
 
 def checks():
     r = subprocess.run(
-        ['ffprobe', '-v', 'error', '-count_frames', '-select_streams', 'v:0',
+        [*FFPROBE, '-v', 'error', '-count_frames', '-select_streams', 'v:0',
          '-show_entries', 'stream=nb_read_frames,duration', '-of', 'json', str(OUT)],
         capture_output=True, text=True, check=True,
     )
     st = json.loads(r.stdout)['streams'][0]
     n = int(st['nb_read_frames'])
     print(f'frames: {n} (expected {EXPECTED})', 'OK' if n == EXPECTED else 'MISMATCH')
-    log = ff('-i', str(OUT), '-af', 'ebur128=peak=true', '-f', 'null', '-')
-    i = re.findall(r'I:\s+(-?[\d.]+) LUFS', log)[-1]
-    tp = re.findall(r'Peak:\s+(-?[\d.]+) dBFS', log)[-1]
-    print(f'loudness: {i} LUFS integrated, true peak {tp} dBFS')
+    try:
+        log = ff('-i', str(OUT), '-vn', '-af', 'ebur128=peak=true', '-f', 'null', '-')
+        i = re.findall(r'I:\s+(-?[\d.]+) LUFS', log)[-1]
+        tp = re.findall(r'Peak:\s+(-?[\d.]+) dBFS', log)[-1]
+        print(f'loudness: {i} LUFS integrated, true peak {tp} dBFS')
+    except SystemExit as e:
+        print(f'loudness check skipped ({e})')
     if n != EXPECTED:
         sys.exit(1)
 

@@ -1,23 +1,32 @@
-﻿{
-    "name":  "sats-motion",
-    "private":  true,
-    "type":  "module",
-    "scripts":  {
-                    "screens":  "python scripts/prep_screens.py",
-                    "audio":  "python scripts/audio.py \u0026\u0026 python scripts/timeline.py \u0026\u0026 python scripts/mix.py",
-                    "dev":  "remotion studio",
-                    "render":  "remotion render Main out/render.mp4 --crf=16 --concurrency=8 --gl=angle --muted",
-                    "finalize":  "python scripts/finalize.py"
-                },
-    "dependencies":  {
-                         "@remotion/cli":  "^4.0.529",
-                         "@remotion/google-fonts":  "^4.0.529",
-                         "react":  "^19.3.0",
-                         "react-dom":  "^19.3.0",
-                         "remotion":  "^4.0.529"
-                     },
-    "devDependencies":  {
-                            "@types/react":  "^19.3.0",
-                            "typescript":  "^5.9.0"
-                        }
+{
+  "name": "sats-motion",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "screens": "python scripts/prep_screens.py",
+    "audio": "python scripts/audio.py && python scripts/timeline.py && python scripts/mix.py",
+    "dev": "remotion studio",
+    "render": "remotion render Main out/render.mp4 --crf=16 --concurrency=8 --gl=angle --muted",
+    "finalize": "python scripts/finalize.py",
+    "screens:dummy": "python scripts/prep_dummy_screens.py",
+    "audio:dummy": "python scripts/dummy_audio.py && python scripts/dummy_timeline.py && python scripts/mix_dummy.py",
+    "render:dummy": "remotion render DummyMain out/dummy-render.mp4 --crf=16 --concurrency=8 --gl=angle --muted",
+    "finalize:dummy": "python scripts/finalize_dummy.py",
+    "render:s6": "remotion render Scenario6 out/scenario6-render.mp4 --crf=16 --concurrency=8 --gl=angle --muted --port=3126",
+    "finalize:s6": "python scripts/finalize_scenario6.py",
+    "audio:s1": "python scripts/audio.py E1 E2 E3 E4 E5 E6 E7 && python scripts/scenario1_timeline.py && python scripts/mix_scenario1.py",
+    "render:s1": "remotion render Scenario1 out/scenario1-render.mp4 --crf=16 --concurrency=8 --gl=angle --muted --port=3127",
+    "finalize:s1": "python scripts/finalize_scenario1.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.529",
+    "@remotion/google-fonts": "^4.0.529",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.529"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "typescript": "^5.9.0"
+  }
 }

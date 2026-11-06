@@ -16,6 +16,8 @@ export const C = {
   ink: '#1D1D1F',
   sub: '#6E6E73',
   bg: '#F5F5F7',
+  faint: 'rgba(29,29,31,0.08)',
+  tealInk: '#139FC6',
 };
 
 export const GRADIENT = `linear-gradient(90deg, ${C.cyan}, ${C.teal} 35%, ${C.green} 70%, ${C.yellow})`;

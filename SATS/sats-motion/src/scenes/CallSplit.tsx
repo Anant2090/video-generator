@@ -1,7 +1,8 @@
 import React from 'react';
 import {C, glass, GRADIENT} from '../brand';
 import {bottom, CanvasStage, type Flow, type Lit, right, top} from '../components/CanvasStage';
-import {Callout, Chip, SceneFade} from '../components/Bits';
+import {Callout, Chip, SceneFade, Words} from '../components/Bits';
+import {FlexDesk} from '../components/FlexDesk';
 import {Phone, type PhoneState} from '../components/Phone';
 import type {Key, Win} from '../components/Screen';
 import type {NodeId} from '../canvas';
@@ -241,17 +242,253 @@ export const Handoffs: React.FC = () => {
         lit={litFrom(beats)}
         flows={flows}
         id="handoffs"
+        hideCanvas={!inC && t >= ringB - 0.05 && t < L('B3').end + 0.35}
         overlay={(p) => (
           <>
-            <Callout {...xyOf(p, top('xfer'))} text="Context handed over" t={t} at={L('B2').at + 2.0} until={callC} />
+            <Callout {...xyOf(p, top('xfer'))} text="Context handed over" t={t} at={L('B2').at + 2.0} until={ringB} />
             <ChipAt p={p} node="ack" t={t} at={L('C2').at + 1.2} until={s.end + 1} side="top" tone="amber">
               callback_requested
             </ChipAt>
           </>
         )}
       />
+      {!inC ? <FlexDesk t={t} at={ringB} until={L('B3').end + 0.35} /> : null}
       {tag(callB - 0.3, callC, 'Another call · asks for a person')}
       {tag(callC + 0.2, s.end, 'Another call · asks for a callback')}
+    </SceneFade>
+  );
+};
+
+const D_IDS = ['D1', 'D2', 'D3', 'D4', 'D5'] as const;
+
+export const CallD: React.FC = () => {
+  const {t} = useTime();
+  const s = scene('pickup');
+  if (t < s.start - 0.1 || t > s.end + 0.1) return null;
+  const L = (id: string) => line(id);
+  const ring = mark('ringD');
+  const pick = mark('pickupD');
+  const hang = mark('hangupD');
+  const sms = mark('smsD');
+  const D: Turn[] = D_IDS.map((id) => ({id, who: L(id).who as Turn['who']}));
+  const sending = ease(t, sms, sms + 0.35) * (1 - ease(t, L('D5').at - 0.15, L('D5').at + 0.2));
+  const smsK = ease(t, L('D5').at + 0.4, L('D5').at + 1.0);
+  const outcome = ease(t, hang + 0.3, hang + 0.9) * (1 - ease(t, s.end - 0.5, s.end));
+  const titleK = 1 - ease(t, ring - 0.35, ring + 0.25);
+
+  const beats: Beat[] = [
+    {at: ring, nodes: ['ata'], until: L('D1').end + 0.2},
+    {at: ring + 0.5, nodes: ['noa'], until: L('D1').end + 0.2},
+    {at: L('D1').at, nodes: ['arr'], until: L('D2').at},
+    {at: L('D2').at, nodes: ['sup'], until: L('D3').at},
+    {at: L('D3').at, nodes: ['faq'], until: L('D5').at},
+    {at: L('D3').at + 0.4, nodes: ['satsfaq'], until: L('D5').at},
+    {at: L('D3').at + 0.8, nodes: ['resp'], until: L('D4').end},
+    {at: L('D5').at, nodes: ['ack'], until: s.end + 1},
+    {at: hang, nodes: ['final', 'ci'], until: s.end + 1},
+  ];
+  const flows: Flow[] = [
+    {edge: 'ata>noa', at: ring + 0.3},
+    {edge: 'noa>sup', at: L('D2').at - 0.2},
+    {edge: 'sup>faq', at: L('D3').at},
+    {edge: 'faq>satsfaq', at: L('D3').at + 0.35},
+    {edge: 'satsfaq>resp', at: L('D3').at + 0.7},
+    {edge: 'resp>ack', at: L('D5').at - 0.15},
+    {edge: 'ack>final', at: hang},
+    {edge: 'final>ci', at: hang + 0.4},
+  ];
+  const keys: Key[] = [
+    {at: s.start, cx: 420, cy: 430, z: 1.75},
+    {at: L('D2').at - 0.3, cx: 760, cy: 430, z: 1.75},
+    {at: L('D3').at - 0.2, cx: 1020, cy: 560, z: 1.8},
+    {at: L('D5').at - 0.3, cx: 1500, cy: 480, z: 1.8},
+  ];
+  const state: PhoneState = t < pick ? 'incoming' : t < hang ? 'active' : 'ended';
+  const who = speakerAt(D, t);
+
+  return (
+    <SceneFade t={t} start={s.start} end={s.end} fadeIn={0.45} fadeOut={0.4}>
+      {titleK > 0.02 ? (
+        <div style={{position: 'absolute', inset: 0, opacity: titleK, pointerEvents: 'none'}}>
+          <div
+            style={{
+              position: 'absolute',
+              left: 960,
+              top: 430,
+              transform: 'translate(-50%,-50%)',
+              textAlign: 'center',
+              width: 1400,
+            }}
+          >
+            <div
+              style={{
+                display: 'inline-flex',
+                padding: '8px 18px',
+                borderRadius: 999,
+                background: 'rgba(62,205,240,0.14)',
+                color: C.tealInk,
+                fontSize: 22,
+                fontWeight: 800,
+                letterSpacing: '0.14em',
+                marginBottom: 22,
+              }}
+            >
+              SCENARIO 6
+            </div>
+            <div style={{fontWeight: 800, letterSpacing: '-0.04em', color: C.ink, marginTop: 8}}>
+              <Words text="Scenario 6: Shipment Arrival — *Pickup Deadline & Payment*" local={t - s.start - 0.25} size={56} stagger={0.06} />
+            </div>
+            <div
+              style={{
+                fontSize: 28,
+                fontWeight: 500,
+                color: C.sub,
+                marginTop: 28,
+                lineHeight: 1.4,
+                opacity: ease(t, s.start + 1.1, s.start + 1.7),
+              }}
+            >
+              The AI agent proactively calls the consignee: the shipment has arrived
+              <br />
+              and should be collected before 3:00 p.m. today.
+            </div>
+          </div>
+        </div>
+      ) : null}
+
+      {t >= ring - 0.5 ? (
+        <div style={{opacity: ease(t, ring - 0.2, ring + 0.45)}}>
+          <SplitLayout
+            t={t}
+            state={state}
+            timer={fmt(Math.max(0, t - pick))}
+            speaking={who}
+            ringK={t >= ring ? ease(t, ring, ring + 0.3) * (1 - ease(t, pick - 0.2, pick)) : 0}
+            subtitle="Pickup deadline"
+            turns={D}
+            from={L('D1').at}
+            keys={keys}
+            lit={litFrom(beats)}
+            flows={flows}
+            id="callD"
+            overlay={(p) => (
+              <>
+                <ChipAt p={p} node="ata" t={t} at={ring + 0.2} until={L('D1').end} side="top">
+                  <Dot /> Outbound call
+                </ChipAt>
+                <ChipAt p={p} node="arr" t={t} at={L('D1').at + 1.2} until={L('D3').at} side="right">
+                  Ready for collection · by 15:00
+                </ChipAt>
+                <ChipAt p={p} node="satsfaq" t={t} at={L('D3').at + 1.0} until={L('D5').at} side="right">
+                  Source: SATS FAQ · amount to be confirmed
+                </ChipAt>
+                <ChipAt p={p} node="ack" t={t} at={L('D5').at + 1.0} until={s.end + 1} side="top" tone="amber">
+                  follow-up recorded
+                </ChipAt>
+              </>
+            )}
+          />
+        </div>
+      ) : null}
+
+      {sending > 0.02 ? (
+        <div
+          style={{
+            ...glass,
+            position: 'absolute',
+            left: CHAT.x,
+            top: CHAT.y + 36,
+            padding: '10px 20px',
+            borderRadius: 999,
+            fontSize: 22,
+            fontWeight: 700,
+            color: C.tealInk,
+            opacity: sending,
+          }}
+        >
+          Sending payment link…
+        </div>
+      ) : null}
+
+      {smsK > 0.02 ? (
+        <div
+          style={{
+            ...glass,
+            position: 'absolute',
+            left: 86,
+            top: 430,
+            width: 348,
+            padding: '18px 20px 16px',
+            borderRadius: 24,
+            background: 'rgba(255,255,255,0.97)',
+            opacity: smsK,
+            transform: `translateY(${(1 - smsK) * 28}px)`,
+            boxShadow: '0 24px 50px -28px rgba(15,23,42,0.45)',
+            zIndex: 8,
+          }}
+        >
+          <div style={{fontSize: 13, fontWeight: 800, letterSpacing: '0.16em', color: C.tealInk}}>MESSAGE</div>
+          <div style={{fontSize: 18, fontWeight: 700, color: C.ink, marginTop: 8}}>SATS Import TeleAdvice</div>
+          <div style={{fontSize: 17, fontWeight: 500, color: C.sub, marginTop: 8, lineHeight: 1.4}}>
+            Your shipment is ready for collection before 3:00 p.m. today. Review applicable charges before paying.
+          </div>
+          <div
+            style={{
+              marginTop: 12,
+              padding: '10px 12px',
+              borderRadius: 12,
+              background: 'rgba(62,205,240,0.1)',
+              fontSize: 15,
+              fontWeight: 700,
+              color: C.tealInk,
+              wordBreak: 'break-all',
+            }}
+          >
+            https://pay.sats.com.sg/collect/awb-4518
+          </div>
+        </div>
+      ) : null}
+
+      {smsK > 0.4 ? (
+        <div
+          style={{
+            ...glass,
+            position: 'absolute',
+            left: 86,
+            top: 372,
+            padding: '8px 16px',
+            borderRadius: 999,
+            fontSize: 18,
+            fontWeight: 700,
+            color: '#047857',
+            opacity: ease(t, L('D5').at + 1.6, L('D5').at + 2.1) * (1 - outcome),
+            zIndex: 9,
+          }}
+        >
+          Payment link sent
+        </div>
+      ) : null}
+
+      {outcome > 0.02 ? (
+        <div
+          style={{
+            ...glass,
+            position: 'absolute',
+            left: 960,
+            bottom: 48,
+            transform: `translateX(-50%) translateY(${(1 - outcome) * 16}px)`,
+            padding: '14px 28px',
+            borderRadius: 999,
+            fontSize: 22,
+            fontWeight: 700,
+            color: C.ink,
+            opacity: outcome,
+            whiteSpace: 'nowrap',
+          }}
+        >
+          Customer not available — payment link sent — follow-up recorded
+        </div>
+      ) : null}
     </SceneFade>
   );
 };
@@ -299,26 +536,31 @@ const SplitLayout: React.FC<{
   flows: Flow[];
   id: string;
   overlay: (p: (x: number, y: number) => [number, number]) => React.ReactNode;
-}> = ({t, state, timer, speaking, ringK = 0, title = 'SATS Import TeleAdvice', subtitle = 'Notice of Arrival', turns, from, keys, lit, flows, id, overlay}) => {
+  hideCanvas?: boolean;
+}> = ({t, state, timer, speaking, ringK = 0, title = 'SATS Import TeleAdvice', subtitle = 'Notice of Arrival', turns, from, keys, lit, flows, id, overlay, hideCanvas = false}) => {
   const level = speaking ? 0.55 + 0.45 * Math.abs(Math.sin(t * 7.3)) : 0.04;
   return (
     <>
       <Phone x={PHONE.x} y={PHONE.y} scale={PHONE.s} t={t} state={state} title={title} subtitle={subtitle} timer={timer} speaking={speaking} level={level} ringK={ringK} />
       <Transcript turns={turns} t={t} from={from} />
-      <CanvasStage
-        id={id}
-        t={t}
-        win={WIN}
-        keys={keys}
-        lit={lit}
-        flows={flows}
-        spots={[{from: -10, to: 9999, nodes: []}, ...lit.map((l) => ({from: l.at - 0.1, to: l.until + 0.3, nodes: [l.id]}))]}
-        overlay={(p) => overlay(p)}
-      />
-      <div style={{position: 'absolute', left: WIN.x, top: WIN.y - 52, display: 'flex', alignItems: 'center', gap: 12, fontSize: 21, fontWeight: 700, color: C.sub, letterSpacing: '0.04em'}}>
-        <span style={{width: 10, height: 10, borderRadius: 5, background: GRADIENT}} />
-        WORKFLOW IN ACTION
-      </div>
+      {hideCanvas ? null : (
+        <>
+          <CanvasStage
+            id={id}
+            t={t}
+            win={WIN}
+            keys={keys}
+            lit={lit}
+            flows={flows}
+            spots={[{from: -10, to: 9999, nodes: []}, ...lit.map((l) => ({from: l.at - 0.1, to: l.until + 0.3, nodes: [l.id]}))]}
+            overlay={(p) => overlay(p)}
+          />
+          <div style={{position: 'absolute', left: WIN.x, top: WIN.y - 52, display: 'flex', alignItems: 'center', gap: 12, fontSize: 21, fontWeight: 700, color: C.sub, letterSpacing: '0.04em'}}>
+            <span style={{width: 10, height: 10, borderRadius: 5, background: GRADIENT}} />
+            WORKFLOW IN ACTION
+          </div>
+        </>
+      )}
     </>
   );
 };

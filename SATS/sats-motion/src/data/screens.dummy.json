@@ -1,0 +1,17 @@
+{
+ "dashboard": {
+  "src": "screens/dummy/dashboard.png",
+  "w": 1896,
+  "h": 865
+ },
+ "workflow": {
+  "src": "screens/dummy/workflow.png",
+  "w": 1906,
+  "h": 847
+ },
+ "shipment": {
+  "src": "screens/dummy/shipment.png",
+  "w": 1915,
+  "h": 868
+ }
+}

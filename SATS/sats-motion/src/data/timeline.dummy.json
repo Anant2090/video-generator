@@ -1,0 +1,87 @@
+{
+ "fps": 30,
+ "total": 71.82,
+ "frames": 2155,
+ "scenes": [
+  {
+   "name": "title",
+   "start": 0,
+   "end": 12.64
+  },
+  {
+   "name": "dashboard",
+   "start": 12.64,
+   "end": 22.82
+  },
+  {
+   "name": "workflow",
+   "start": 22.82,
+   "end": 36.52
+  },
+  {
+   "name": "shipment",
+   "start": 36.52,
+   "end": 57.1
+  },
+  {
+   "name": "end",
+   "start": 57.1,
+   "end": 71.82
+  }
+ ],
+ "lines": {
+  "demo1": {
+   "at": 0.8,
+   "end": 11.84,
+   "who": "narrator"
+  },
+  "demo2": {
+   "at": 13.24,
+   "end": 22.12,
+   "who": "narrator"
+  },
+  "demo3": {
+   "at": 23.42,
+   "end": 35.82,
+   "who": "narrator"
+  },
+  "demo4": {
+   "at": 37.12,
+   "end": 56.4,
+   "who": "narrator"
+  },
+  "demo5": {
+   "at": 57.8,
+   "end": 69.32,
+   "who": "narrator"
+  }
+ },
+ "sfx": [
+  {
+   "name": "whoosh",
+   "at": 0.2,
+   "gain": 0.7
+  },
+  {
+   "name": "whoosh",
+   "at": 12.44,
+   "gain": 0.7
+  },
+  {
+   "name": "whoosh",
+   "at": 22.62,
+   "gain": 0.7
+  },
+  {
+   "name": "whoosh",
+   "at": 36.32,
+   "gain": 0.7
+  },
+  {
+   "name": "chime",
+   "at": 57.3,
+   "gain": 0.8
+  }
+ ],
+ "marks": {}
+}

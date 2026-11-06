@@ -1,7 +1,7 @@
 {
  "fps": 30,
- "total": 247.93,
- "frames": 7438,
+ "total": 306.09,
+ "frames": 9183,
  "scenes": [
   {
    "name": "hook",
@@ -31,27 +31,32 @@
   {
    "name": "handoffs",
    "start": 166.49,
-   "end": 199.53
+   "end": 201.93
+  },
+  {
+   "name": "pickup",
+   "start": 201.93,
+   "end": 257.69
   },
   {
    "name": "exceptions",
-   "start": 199.53,
-   "end": 210.99
+   "start": 257.69,
+   "end": 269.15
   },
   {
    "name": "record",
-   "start": 210.99,
-   "end": 232.27
+   "start": 269.15,
+   "end": 290.43
   },
   {
    "name": "benefits",
-   "start": 232.27,
-   "end": 239.29
+   "start": 290.43,
+   "end": 297.45
   },
   {
    "name": "end",
-   "start": 239.29,
-   "end": 247.93
+   "start": 297.45,
+   "end": 306.09
   }
  ],
  "lines": {
@@ -171,43 +176,73 @@
    "who": "agent"
   },
   "B3": {
-   "at": 182.83,
-   "end": 185.23,
+   "at": 182.03,
+   "end": 187.63,
    "who": "counter"
   },
   "vo6b": {
-   "at": 185.93,
-   "end": 188.25,
+   "at": 188.33,
+   "end": 190.65,
    "who": "narrator"
   },
   "C1": {
-   "at": 188.75,
-   "end": 192.35,
+   "at": 191.15,
+   "end": 194.75,
    "who": "consignee"
   },
   "C2": {
-   "at": 193.25,
-   "end": 198.53,
+   "at": 195.65,
+   "end": 200.93,
+   "who": "agent"
+  },
+  "vo5d": {
+   "at": 202.43,
+   "end": 212.11,
+   "who": "narrator"
+  },
+  "D1": {
+   "at": 215.81,
+   "end": 225.09,
+   "who": "agent"
+  },
+  "D2": {
+   "at": 225.44,
+   "end": 229.36,
+   "who": "consignee"
+  },
+  "D3": {
+   "at": 230.26,
+   "end": 244.74,
+   "who": "agent"
+  },
+  "D4": {
+   "at": 245.09,
+   "end": 247.33,
+   "who": "consignee"
+  },
+  "D5": {
+   "at": 248.73,
+   "end": 255.29,
    "who": "agent"
   },
   "vo7": {
-   "at": 200.23,
-   "end": 209.99,
+   "at": 258.39,
+   "end": 268.15,
    "who": "narrator"
   },
   "vo8": {
-   "at": 211.59,
-   "end": 231.27,
+   "at": 269.75,
+   "end": 289.43,
    "who": "narrator"
   },
   "vo9": {
-   "at": 232.77,
-   "end": 238.69,
+   "at": 290.93,
+   "end": 296.85,
    "who": "narrator"
   },
   "vo10": {
-   "at": 239.99,
-   "end": 245.43,
+   "at": 298.15,
+   "end": 303.59,
    "who": "narrator"
   }
  },
@@ -304,22 +339,42 @@
   },
   {
    "name": "hangup",
-   "at": 198.83,
+   "at": 201.23,
    "gain": 0.6
   },
   {
    "name": "whoosh",
-   "at": 199.33,
+   "at": 201.73,
+   "gain": 0.7
+  },
+  {
+   "name": "ring",
+   "at": 212.91,
+   "gain": 1.0
+  },
+  {
+   "name": "pickup",
+   "at": 215.41,
+   "gain": 0.8
+  },
+  {
+   "name": "hangup",
+   "at": 255.79,
    "gain": 0.7
   },
   {
    "name": "whoosh",
-   "at": 232.07,
+   "at": 257.49,
+   "gain": 0.7
+  },
+  {
+   "name": "whoosh",
+   "at": 290.23,
    "gain": 0.6
   },
   {
    "name": "chime",
-   "at": 239.49,
+   "at": 297.65,
    "gain": 0.8
   }
  ],
@@ -335,7 +390,11 @@
   "hangupA": 165.29,
   "callB": 169.25,
   "ringB": 180.23,
-  "callC": 185.73,
-  "hangupC": 198.83
+  "callC": 188.13,
+  "hangupC": 201.23,
+  "ringD": 212.91,
+  "pickupD": 215.41,
+  "smsD": 247.58,
+  "hangupD": 255.79
  }
 }

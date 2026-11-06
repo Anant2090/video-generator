@@ -1,0 +1,1461 @@
+{
+  "durationSec": 135.5,
+  "pickup": 1.36,
+  "hangup": 135.0,
+  "turns": [
+    {
+      "id": "T1",
+      "who": "agent",
+      "at": 1.36,
+      "end": 10.24,
+      "words": [
+        {
+          "w": "Welcome",
+          "t": 1.36
+        },
+        {
+          "w": "to",
+          "t": 2.22
+        },
+        {
+          "w": "Prophet",
+          "t": 2.46
+        },
+        {
+          "w": "Jerome",
+          "t": 3.84
+        },
+        {
+          "w": "Fernando",
+          "t": 4.05
+        },
+        {
+          "w": "Ministries",
+          "t": 5.03
+        },
+        {
+          "w": "and",
+          "t": 6.45
+        },
+        {
+          "w": "the",
+          "t": 6.57
+        },
+        {
+          "w": "Glorious",
+          "t": 6.89
+        },
+        {
+          "w": "Church.",
+          "t": 7.54
+        },
+        {
+          "w": "How",
+          "t": 8.4
+        },
+        {
+          "w": "may",
+          "t": 8.46
+        },
+        {
+          "w": "I",
+          "t": 8.52
+        },
+        {
+          "w": "assist",
+          "t": 8.58
+        },
+        {
+          "w": "you",
+          "t": 8.95
+        },
+        {
+          "w": "today?",
+          "t": 9.14
+        }
+      ],
+      "text": "Welcome to Prophet Jerome Fernando Ministries and the Glorious Church. How may I assist you today?"
+    },
+    {
+      "id": "T2",
+      "who": "visitor",
+      "at": 10.24,
+      "end": 13.68,
+      "words": [
+        {
+          "w": "I",
+          "t": 10.24
+        },
+        {
+          "w": "wanted",
+          "t": 10.39
+        },
+        {
+          "w": "to",
+          "t": 10.87
+        },
+        {
+          "w": "know",
+          "t": 11.01
+        },
+        {
+          "w": "about",
+          "t": 11.36
+        },
+        {
+          "w": "your",
+          "t": 11.8
+        },
+        {
+          "w": "church",
+          "t": 12.15
+        },
+        {
+          "w": "services.",
+          "t": 13.37
+        }
+      ],
+      "text": "I wanted to know about your church services."
+    },
+    {
+      "id": "T3",
+      "who": "agent",
+      "at": 13.68,
+      "end": 18.7,
+      "words": [
+        {
+          "w": "Certainly,",
+          "t": 13.68
+        },
+        {
+          "w": "we",
+          "t": 14.66
+        },
+        {
+          "w": "have",
+          "t": 14.84
+        },
+        {
+          "w": "services",
+          "t": 14.96
+        },
+        {
+          "w": "at",
+          "t": 15.55
+        },
+        {
+          "w": "the",
+          "t": 15.76
+        },
+        {
+          "w": "Miracle",
+          "t": 15.93
+        },
+        {
+          "w": "Dome",
+          "t": 16.48
+        },
+        {
+          "w": "in",
+          "t": 16.78
+        },
+        {
+          "w": "Katunayake",
+          "t": 16.96
+        },
+        {
+          "w": "Sri",
+          "t": 17.65
+        },
+        {
+          "w": "Lanka.",
+          "t": 17.87
+        }
+      ],
+      "text": "Certainly, we have services at the Miracle Dome in Katunayake Sri Lanka."
+    },
+    {
+      "id": "T4",
+      "who": "agent",
+      "at": 18.7,
+      "end": 26.06,
+      "words": [
+        {
+          "w": "Our",
+          "t": 18.7
+        },
+        {
+          "w": "Sunday",
+          "t": 18.77
+        },
+        {
+          "w": "services",
+          "t": 19.2
+        },
+        {
+          "w": "include",
+          "t": 19.76
+        },
+        {
+          "w": "Sinhala",
+          "t": 20.16
+        },
+        {
+          "w": "and",
+          "t": 20.69
+        },
+        {
+          "w": "Tamil",
+          "t": 20.92
+        },
+        {
+          "w": "at",
+          "t": 21.31
+        },
+        {
+          "w": "7:30",
+          "t": 21.46
+        },
+        {
+          "w": "am",
+          "t": 22.38
+        },
+        {
+          "w": "and",
+          "t": 22.54
+        },
+        {
+          "w": "English",
+          "t": 23.02
+        },
+        {
+          "w": "and",
+          "t": 23.32
+        },
+        {
+          "w": "Sinhala",
+          "t": 23.6
+        },
+        {
+          "w": "at",
+          "t": 24.08
+        },
+        {
+          "w": "11:30",
+          "t": 24.23
+        },
+        {
+          "w": "am.",
+          "t": 25.37
+        }
+      ],
+      "text": "Our Sunday services include Sinhala and Tamil at 7:30 am and English and Sinhala at 11:30 am."
+    },
+    {
+      "id": "T5",
+      "who": "agent",
+      "at": 26.06,
+      "end": 32.96,
+      "words": [
+        {
+          "w": "We",
+          "t": 26.06
+        },
+        {
+          "w": "also",
+          "t": 26.08
+        },
+        {
+          "w": "have",
+          "t": 26.4
+        },
+        {
+          "w": "our",
+          "t": 26.64
+        },
+        {
+          "w": "Forensic Night",
+          "t": 26.81
+        },
+        {
+          "w": "service",
+          "t": 27.67
+        },
+        {
+          "w": "every",
+          "t": 28.25
+        },
+        {
+          "w": "Thursday",
+          "t": 28.49
+        },
+        {
+          "w": "at",
+          "t": 29.02
+        },
+        {
+          "w": "6",
+          "t": 29.15
+        },
+        {
+          "w": "pm.",
+          "t": 29.35
+        },
+        {
+          "w": "Would",
+          "t": 29.65
+        },
+        {
+          "w": "you",
+          "t": 30.2
+        },
+        {
+          "w": "like",
+          "t": 30.45
+        },
+        {
+          "w": "to",
+          "t": 30.46
+        },
+        {
+          "w": "know",
+          "t": 30.59
+        },
+        {
+          "w": "anything",
+          "t": 30.88
+        },
+        {
+          "w": "else",
+          "t": 31.38
+        },
+        {
+          "w": "about",
+          "t": 31.64
+        },
+        {
+          "w": "our",
+          "t": 32.06
+        },
+        {
+          "w": "services?",
+          "t": 32.17
+        }
+      ],
+      "text": "We also have our Forensic Night service every Thursday at 6 pm. Would you like to know anything else about our services?"
+    },
+    {
+      "id": "T6",
+      "who": "visitor",
+      "at": 32.96,
+      "end": 35.66,
+      "words": [
+        {
+          "w": "Yes,",
+          "t": 32.96
+        },
+        {
+          "w": "what",
+          "t": 33.3
+        },
+        {
+          "w": "is",
+          "t": 33.78
+        },
+        {
+          "w": "the",
+          "t": 33.95
+        },
+        {
+          "w": "Miracle",
+          "t": 34.22
+        },
+        {
+          "w": "Dome?",
+          "t": 34.85
+        }
+      ],
+      "text": "Yes, what is the Miracle Dome?"
+    },
+    {
+      "id": "T7",
+      "who": "agent",
+      "at": 35.66,
+      "end": 42.25,
+      "words": [
+        {
+          "w": "The",
+          "t": 35.66
+        },
+        {
+          "w": "Miracle",
+          "t": 35.73
+        },
+        {
+          "w": "Dome",
+          "t": 36.24
+        },
+        {
+          "w": "is",
+          "t": 36.5
+        },
+        {
+          "w": "a",
+          "t": 36.64
+        },
+        {
+          "w": "modern",
+          "t": 36.72
+        },
+        {
+          "w": "auditorium",
+          "t": 37.12
+        },
+        {
+          "w": "in",
+          "t": 37.84
+        },
+        {
+          "w": "Sri",
+          "t": 38.01
+        },
+        {
+          "w": "Lanka",
+          "t": 38.27
+        },
+        {
+          "w": "with",
+          "t": 38.72
+        },
+        {
+          "w": "a",
+          "t": 39.01
+        },
+        {
+          "w": "seating",
+          "t": 39.08
+        },
+        {
+          "w": "capacity",
+          "t": 39.67
+        },
+        {
+          "w": "exceeding",
+          "t": 40.19
+        },
+        {
+          "w": "5,000.",
+          "t": 40.86
+        }
+      ],
+      "text": "The Miracle Dome is a modern auditorium in Sri Lanka with a seating capacity exceeding 5,000."
+    },
+    {
+      "id": "T8",
+      "who": "agent",
+      "at": 42.25,
+      "end": 49.14,
+      "words": [
+        {
+          "w": "Established",
+          "t": 42.25
+        },
+        {
+          "w": "by",
+          "t": 42.9
+        },
+        {
+          "w": "Divine",
+          "t": 43.03
+        },
+        {
+          "w": "Mandate",
+          "t": 43.44
+        },
+        {
+          "w": "to",
+          "t": 43.9
+        },
+        {
+          "w": "Prophet",
+          "t": 44.19
+        },
+        {
+          "w": "Jerome",
+          "t": 44.4
+        },
+        {
+          "w": "Fernando,",
+          "t": 44.8
+        },
+        {
+          "w": "it",
+          "t": 45.68
+        },
+        {
+          "w": "serves",
+          "t": 45.84
+        },
+        {
+          "w": "as",
+          "t": 46.41
+        },
+        {
+          "w": "a",
+          "t": 46.49
+        },
+        {
+          "w": "memorial",
+          "t": 46.57
+        },
+        {
+          "w": "to",
+          "t": 47.25
+        },
+        {
+          "w": "witness",
+          "t": 47.38
+        },
+        {
+          "w": "God's",
+          "t": 47.95
+        },
+        {
+          "w": "love.",
+          "t": 48.35
+        }
+      ],
+      "text": "Established by Divine Mandate to Prophet Jerome Fernando, it serves as a memorial to witness God's love."
+    },
+    {
+      "id": "T9",
+      "who": "agent",
+      "at": 49.14,
+      "end": 55.68,
+      "words": [
+        {
+          "w": "It",
+          "t": 49.14
+        },
+        {
+          "w": "hosts",
+          "t": 49.16
+        },
+        {
+          "w": "thousands",
+          "t": 49.77
+        },
+        {
+          "w": "of",
+          "t": 50.2
+        },
+        {
+          "w": "annual",
+          "t": 50.47
+        },
+        {
+          "w": "visitors",
+          "t": 50.72
+        },
+        {
+          "w": "through",
+          "t": 51.26
+        },
+        {
+          "w": "the",
+          "t": 51.44
+        },
+        {
+          "w": "International",
+          "t": 51.71
+        },
+        {
+          "w": "Visitors",
+          "t": 52.56
+        },
+        {
+          "w": "Program",
+          "t": 53.12
+        },
+        {
+          "w": "spreading",
+          "t": 53.8
+        },
+        {
+          "w": "the",
+          "t": 54.23
+        },
+        {
+          "w": "gospel",
+          "t": 54.52
+        },
+        {
+          "w": "globally.",
+          "t": 54.87
+        }
+      ],
+      "text": "It hosts thousands of annual visitors through the International Visitors Program spreading the gospel globally."
+    },
+    {
+      "id": "T10",
+      "who": "visitor",
+      "at": 55.9,
+      "end": 59.52,
+      "words": [
+        {
+          "w": "Okay.",
+          "t": 55.9
+        },
+        {
+          "w": "Thank",
+          "t": 56.13
+        },
+        {
+          "w": "you.",
+          "t": 56.52
+        },
+        {
+          "w": "I",
+          "t": 56.83
+        },
+        {
+          "w": "would",
+          "t": 56.89
+        },
+        {
+          "w": "also",
+          "t": 57.4
+        },
+        {
+          "w": "like",
+          "t": 57.47
+        },
+        {
+          "w": "to",
+          "t": 57.73
+        },
+        {
+          "w": "register",
+          "t": 57.86
+        },
+        {
+          "w": "a",
+          "t": 58.38
+        },
+        {
+          "w": "prayer",
+          "t": 58.44
+        },
+        {
+          "w": "request.",
+          "t": 58.96
+        }
+      ],
+      "text": "Okay. Thank you. I would also like to register a prayer request."
+    },
+    {
+      "id": "T11",
+      "who": "agent",
+      "at": 59.52,
+      "end": 68.29,
+      "words": [
+        {
+          "w": "Of",
+          "t": 59.52
+        },
+        {
+          "w": "course,",
+          "t": 59.7
+        },
+        {
+          "w": "I",
+          "t": 60.52
+        },
+        {
+          "w": "can",
+          "t": 60.92
+        },
+        {
+          "w": "note",
+          "t": 61.0
+        },
+        {
+          "w": "your",
+          "t": 61.32
+        },
+        {
+          "w": "registration",
+          "t": 61.97
+        },
+        {
+          "w": "details",
+          "t": 62.99
+        },
+        {
+          "w": "so",
+          "t": 63.68
+        },
+        {
+          "w": "that",
+          "t": 63.88
+        },
+        {
+          "w": "a",
+          "t": 64.01
+        },
+        {
+          "w": "team",
+          "t": 64.06
+        },
+        {
+          "w": "member",
+          "t": 64.34
+        },
+        {
+          "w": "can",
+          "t": 64.64
+        },
+        {
+          "w": "contact",
+          "t": 64.8
+        },
+        {
+          "w": "you.",
+          "t": 65.27
+        },
+        {
+          "w": "May",
+          "t": 66.09
+        },
+        {
+          "w": "I",
+          "t": 66.16
+        },
+        {
+          "w": "have",
+          "t": 66.24
+        },
+        {
+          "w": "your",
+          "t": 66.53
+        },
+        {
+          "w": "full",
+          "t": 66.82
+        },
+        {
+          "w": "name,",
+          "t": 67.11
+        },
+        {
+          "w": "please?",
+          "t": 67.41
+        }
+      ],
+      "text": "Of course, I can note your registration details so that a team member can contact you. May I have your full name, please?"
+    },
+    {
+      "id": "T12",
+      "who": "visitor",
+      "at": 68.29,
+      "end": 69.83,
+      "words": [
+        {
+          "w": "My",
+          "t": 68.29
+        },
+        {
+          "w": "name",
+          "t": 68.38
+        },
+        {
+          "w": "is",
+          "t": 68.67
+        },
+        {
+          "w": "Rahul",
+          "t": 68.81
+        },
+        {
+          "w": "Sharma.",
+          "t": 69.17
+        }
+      ],
+      "text": "My name is Rahul Sharma."
+    },
+    {
+      "id": "T13",
+      "who": "agent",
+      "at": 69.83,
+      "end": 75.5,
+      "words": [
+        {
+          "w": "Thank",
+          "t": 69.83
+        },
+        {
+          "w": "you,",
+          "t": 70.5
+        },
+        {
+          "w": "Rahul.",
+          "t": 71.2
+        },
+        {
+          "w": "Could",
+          "t": 72.47
+        },
+        {
+          "w": "you",
+          "t": 72.48
+        },
+        {
+          "w": "please",
+          "t": 72.64
+        },
+        {
+          "w": "share",
+          "t": 72.96
+        },
+        {
+          "w": "your",
+          "t": 73.2
+        },
+        {
+          "w": "contact",
+          "t": 73.64
+        },
+        {
+          "w": "number?",
+          "t": 74.97
+        }
+      ],
+      "text": "Thank you, Rahul. Could you please share your contact number?"
+    },
+    {
+      "id": "T14",
+      "who": "visitor",
+      "at": 75.5,
+      "end": 80.37,
+      "words": [
+        {
+          "w": "+94 987 654 3210.",
+          "t": 75.5
+        }
+      ],
+      "text": "+94 987 654 3210."
+    },
+    {
+      "id": "T15",
+      "who": "agent",
+      "at": 80.37,
+      "end": 84.53,
+      "words": [
+        {
+          "w": "Thank",
+          "t": 80.37
+        },
+        {
+          "w": "you.",
+          "t": 80.43
+        },
+        {
+          "w": "Could",
+          "t": 81.36
+        },
+        {
+          "w": "you",
+          "t": 81.49
+        },
+        {
+          "w": "briefly",
+          "t": 81.68
+        },
+        {
+          "w": "tell",
+          "t": 82.08
+        },
+        {
+          "w": "me",
+          "t": 82.32
+        },
+        {
+          "w": "the",
+          "t": 82.48
+        },
+        {
+          "w": "purpose",
+          "t": 82.64
+        },
+        {
+          "w": "of",
+          "t": 83.04
+        },
+        {
+          "w": "your",
+          "t": 83.18
+        },
+        {
+          "w": "registration?",
+          "t": 83.46
+        }
+      ],
+      "text": "Thank you. Could you briefly tell me the purpose of your registration?"
+    },
+    {
+      "id": "T16",
+      "who": "visitor",
+      "at": 84.53,
+      "end": 89.2,
+      "words": [
+        {
+          "w": "I",
+          "t": 84.53
+        },
+        {
+          "w": "would",
+          "t": 84.92
+        },
+        {
+          "w": "like",
+          "t": 84.96
+        },
+        {
+          "w": "to",
+          "t": 85.24
+        },
+        {
+          "w": "request",
+          "t": 85.38
+        },
+        {
+          "w": "prayer",
+          "t": 86.07
+        },
+        {
+          "w": "for",
+          "t": 86.24
+        },
+        {
+          "w": "my",
+          "t": 86.47
+        },
+        {
+          "w": "family",
+          "t": 86.79
+        },
+        {
+          "w": "and",
+          "t": 87.27
+        },
+        {
+          "w": "some",
+          "t": 87.52
+        },
+        {
+          "w": "difficulties",
+          "t": 87.84
+        },
+        {
+          "w": "we",
+          "t": 88.48
+        },
+        {
+          "w": "are",
+          "t": 88.64
+        },
+        {
+          "w": "facing.",
+          "t": 88.72
+        }
+      ],
+      "text": "I would like to request prayer for my family and some difficulties we are facing."
+    },
+    {
+      "id": "T17",
+      "who": "agent",
+      "at": 89.2,
+      "end": 95.29,
+      "words": [
+        {
+          "w": "I",
+          "t": 89.2
+        },
+        {
+          "w": "understand",
+          "t": 89.28
+        },
+        {
+          "w": "Rahul.",
+          "t": 90.22
+        },
+        {
+          "w": "Thank",
+          "t": 90.79
+        },
+        {
+          "w": "you",
+          "t": 91.21
+        },
+        {
+          "w": "for",
+          "t": 91.46
+        },
+        {
+          "w": "sharing",
+          "t": 91.85
+        },
+        {
+          "w": "that",
+          "t": 92.33
+        },
+        {
+          "w": "with",
+          "t": 92.63
+        },
+        {
+          "w": "me.",
+          "t": 92.96
+        },
+        {
+          "w": "Let",
+          "t": 93.57
+        },
+        {
+          "w": "me",
+          "t": 93.68
+        },
+        {
+          "w": "confirm",
+          "t": 93.79
+        },
+        {
+          "w": "the",
+          "t": 94.16
+        },
+        {
+          "w": "details.",
+          "t": 94.37
+        }
+      ],
+      "text": "I understand Rahul. Thank you for sharing that with me. Let me confirm the details."
+    },
+    {
+      "id": "T18",
+      "who": "agent",
+      "at": 95.29,
+      "end": 97.34,
+      "words": [
+        {
+          "w": "Your",
+          "t": 95.29
+        },
+        {
+          "w": "name",
+          "t": 95.36
+        },
+        {
+          "w": "is",
+          "t": 95.68
+        },
+        {
+          "w": "Rahul",
+          "t": 95.92
+        },
+        {
+          "w": "Sharma.",
+          "t": 96.42
+        }
+      ],
+      "text": "Your name is Rahul Sharma."
+    },
+    {
+      "id": "T19",
+      "who": "agent",
+      "at": 97.34,
+      "end": 108.45,
+      "words": [
+        {
+          "w": "Your",
+          "t": 97.34
+        },
+        {
+          "w": "contact",
+          "t": 97.75
+        },
+        {
+          "w": "number",
+          "t": 98.47
+        },
+        {
+          "w": "is",
+          "t": 99.08
+        },
+        {
+          "w": "+94 987 654 3210",
+          "t": 99.28
+        },
+        {
+          "w": "and",
+          "t": 103.6
+        },
+        {
+          "w": "your",
+          "t": 103.64
+        },
+        {
+          "w": "registration",
+          "t": 103.92
+        },
+        {
+          "w": "is",
+          "t": 104.72
+        },
+        {
+          "w": "regarding",
+          "t": 104.88
+        },
+        {
+          "w": "a",
+          "t": 105.28
+        },
+        {
+          "w": "prayer",
+          "t": 105.61
+        },
+        {
+          "w": "request",
+          "t": 105.68
+        },
+        {
+          "w": "for",
+          "t": 106.28
+        },
+        {
+          "w": "your",
+          "t": 106.36
+        },
+        {
+          "w": "family.",
+          "t": 106.63
+        },
+        {
+          "w": "Is",
+          "t": 107.31
+        },
+        {
+          "w": "that",
+          "t": 107.37
+        },
+        {
+          "w": "correct?",
+          "t": 107.64
+        }
+      ],
+      "text": "Your contact number is +94 987 654 3210 and your registration is regarding a prayer request for your family. Is that correct?"
+    },
+    {
+      "id": "T20",
+      "who": "visitor",
+      "at": 108.45,
+      "end": 109.89,
+      "words": [
+        {
+          "w": "Yes,",
+          "t": 108.45
+        },
+        {
+          "w": "that",
+          "t": 108.65
+        },
+        {
+          "w": "is",
+          "t": 108.86
+        },
+        {
+          "w": "correct.",
+          "t": 109.15
+        }
+      ],
+      "text": "Yes, that is correct."
+    },
+    {
+      "id": "T21",
+      "who": "agent",
+      "at": 109.89,
+      "end": 114.35,
+      "words": [
+        {
+          "w": "Thank",
+          "t": 109.89
+        },
+        {
+          "w": "you",
+          "t": 110.56
+        },
+        {
+          "w": "for",
+          "t": 110.67
+        },
+        {
+          "w": "confirming.",
+          "t": 110.87
+        },
+        {
+          "w": "I",
+          "t": 112.14
+        },
+        {
+          "w": "have",
+          "t": 112.16
+        },
+        {
+          "w": "noted",
+          "t": 112.32
+        },
+        {
+          "w": "your",
+          "t": 112.65
+        },
+        {
+          "w": "registration",
+          "t": 112.91
+        },
+        {
+          "w": "details.",
+          "t": 113.7
+        }
+      ],
+      "text": "Thank you for confirming. I have noted your registration details."
+    },
+    {
+      "id": "T22",
+      "who": "agent",
+      "at": 114.35,
+      "end": 135.04,
+      "words": [
+        {
+          "w": "A",
+          "t": 114.35
+        },
+        {
+          "w": "member",
+          "t": 114.58
+        },
+        {
+          "w": "of",
+          "t": 114.8
+        },
+        {
+          "w": "our",
+          "t": 114.93
+        },
+        {
+          "w": "team",
+          "t": 115.12
+        },
+        {
+          "w": "will",
+          "t": 115.38
+        },
+        {
+          "w": "contact",
+          "t": 115.64
+        },
+        {
+          "w": "you",
+          "t": 116.29
+        },
+        {
+          "w": "using",
+          "t": 116.4
+        },
+        {
+          "w": "the",
+          "t": 116.73
+        },
+        {
+          "w": "contact",
+          "t": 116.88
+        },
+        {
+          "w": "information",
+          "t": 117.36
+        },
+        {
+          "w": "you",
+          "t": 118.0
+        },
+        {
+          "w": "provided.",
+          "t": 118.22
+        },
+        {
+          "w": "Please",
+          "t": 119.15
+        },
+        {
+          "w": "note",
+          "t": 119.25
+        },
+        {
+          "w": "that",
+          "t": 119.38
+        },
+        {
+          "w": "the",
+          "t": 119.61
+        },
+        {
+          "w": "team",
+          "t": 119.82
+        },
+        {
+          "w": "will",
+          "t": 120.01
+        },
+        {
+          "w": "follow up",
+          "t": 120.24
+        },
+        {
+          "w": "with",
+          "t": 120.7
+        },
+        {
+          "w": "you",
+          "t": 120.93
+        },
+        {
+          "w": "regarding",
+          "t": 121.1
+        },
+        {
+          "w": "your",
+          "t": 121.68
+        },
+        {
+          "w": "request.",
+          "t": 121.92
+        },
+        {
+          "w": "Thank",
+          "t": 122.4
+        },
+        {
+          "w": "you",
+          "t": 123.29
+        },
+        {
+          "w": "so",
+          "t": 123.33
+        },
+        {
+          "w": "much.",
+          "t": 123.52
+        },
+        {
+          "w": "You're most welcome,",
+          "t": 124.33
+        },
+        {
+          "w": "Rahul.",
+          "t": 126.12
+        },
+        {
+          "w": "May",
+          "t": 127.08
+        },
+        {
+          "w": "God",
+          "t": 127.23
+        },
+        {
+          "w": "bless",
+          "t": 127.5
+        },
+        {
+          "w": "you",
+          "t": 127.95
+        },
+        {
+          "w": "and",
+          "t": 128.24
+        },
+        {
+          "w": "your",
+          "t": 128.41
+        },
+        {
+          "w": "family.",
+          "t": 128.64
+        },
+        {
+          "w": "Thank",
+          "t": 129.52
+        },
+        {
+          "w": "you",
+          "t": 129.79
+        },
+        {
+          "w": "for",
+          "t": 129.95
+        },
+        {
+          "w": "contacting",
+          "t": 130.12
+        },
+        {
+          "w": "Prophet",
+          "t": 130.71
+        },
+        {
+          "w": "Jerome",
+          "t": 131.06
+        },
+        {
+          "w": "Fernando",
+          "t": 131.37
+        },
+        {
+          "w": "Ministries",
+          "t": 131.81
+        },
+        {
+          "w": "and",
+          "t": 132.47
+        },
+        {
+          "w": "the",
+          "t": 132.56
+        },
+        {
+          "w": "Glorious",
+          "t": 132.72
+        },
+        {
+          "w": "Church.",
+          "t": 133.19
+        },
+        {
+          "w": "Have",
+          "t": 133.84
+        },
+        {
+          "w": "a",
+          "t": 134.1
+        },
+        {
+          "w": "blessed",
+          "t": 134.16
+        },
+        {
+          "w": "day.",
+          "t": 134.58
+        }
+      ],
+      "text": "A member of our team will contact you using the contact information you provided. Please note that the team will follow up with you regarding your request. Thank you so much. You're most welcome, Rahul. May God bless you and your family. Thank you for contacting Prophet Jerome Fernando Ministries and the Glorious Church. Have a blessed day."
+    }
+  ]
+}

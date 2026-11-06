@@ -186,8 +186,9 @@ def main():
     # level automation: low under the hook, ducked through the calls, swell into the end card, fade out
     t = np.arange(N) / SR
     sc = {s['name']: s for s in TL['scenes']}
+    duck_end = sc.get('pickup', sc['handoffs'])['end']
     level = np.interp(t, [0, 3, sc['challenge']['start'], sc['call']['start'] - 1, sc['call']['start'] + 1,
-                          sc['handoffs']['end'] - 1, sc['handoffs']['end'] + 1, sc['end']['start'], sc['end']['start'] + 1.5,
+                          duck_end - 1, duck_end + 1, sc['end']['start'], sc['end']['start'] + 1.5,
                           TL['total'] - 2.5, TL['total']],
                       [0.0, 0.55, 0.8, 0.8, 0.42, 0.42, 0.8, 0.8, 1.1, 1.0, 0.0])
     # sidechain-style duck under speech

@@ -3,7 +3,7 @@ import {AbsoluteFill, Audio, staticFile} from 'remotion';
 import {C, fontFamily} from './brand';
 import {Backdrop} from './components/Bits';
 import {Chrome} from './components/Chrome';
-import {CallA, Handoffs} from './scenes/CallSplit';
+import {CallA, CallD, Handoffs} from './scenes/CallSplit';
 import {CanvasTour, Exceptions, OnRecord} from './scenes/CanvasScenes';
 import {Challenge} from './scenes/Challenge';
 // import {ChallengeList} from './scenes/ChallengeList'; // kinetic-text original
@@ -20,6 +20,7 @@ export const Main: React.FC = () => (
     <CanvasTour />
     <CallA />
     <Handoffs />
+    <CallD />
     <Exceptions />
     <OnRecord />
     <Benefits />

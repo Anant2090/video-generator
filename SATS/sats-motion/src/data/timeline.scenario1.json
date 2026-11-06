@@ -1,0 +1,77 @@
+{
+ "fps": 30,
+ "total": 50.68,
+ "frames": 1520,
+ "scenes": [
+  {
+   "name": "scenario1",
+   "start": 0,
+   "end": 50.68
+  }
+ ],
+ "lines": {
+  "E1": {
+   "at": 6.15,
+   "end": 14.71,
+   "who": "agent"
+  },
+  "E2": {
+   "at": 15.06,
+   "end": 17.94,
+   "who": "consignee"
+  },
+  "E3": {
+   "at": 18.79,
+   "end": 23.51,
+   "who": "agent"
+  },
+  "E4": {
+   "at": 23.86,
+   "end": 27.54,
+   "who": "consignee"
+  },
+  "E5": {
+   "at": 28.34,
+   "end": 35.38,
+   "who": "agent"
+  },
+  "E6": {
+   "at": 35.73,
+   "end": 38.37,
+   "who": "consignee"
+  },
+  "E7": {
+   "at": 39.52,
+   "end": 48.48,
+   "who": "agent"
+  }
+ },
+ "sfx": [
+  {
+   "name": "whoosh",
+   "at": 0.15,
+   "gain": 0.7
+  },
+  {
+   "name": "ring",
+   "at": 3.5,
+   "gain": 1.0
+  },
+  {
+   "name": "pickup",
+   "at": 5.8,
+   "gain": 0.8
+  },
+  {
+   "name": "hangup",
+   "at": 48.93,
+   "gain": 0.7
+  }
+ ],
+ "marks": {
+  "ring": 3.5,
+  "pickup": 5.8,
+  "sms": 38.57,
+  "hangup": 48.93
+ }
+}

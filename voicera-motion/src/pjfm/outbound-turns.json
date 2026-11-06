@@ -1,0 +1,1684 @@
+{
+  "durationSec": 162.7,
+  "pickup": 1.0,
+  "hangup": 157.5,
+  "turns": [
+    {
+      "id": "T1",
+      "who": "agent",
+      "at": 1.68,
+      "end": 8.75,
+      "words": [
+        {
+          "w": "Hello,",
+          "t": 1.68
+        },
+        {
+          "w": "good",
+          "t": 3.27
+        },
+        {
+          "w": "evening.",
+          "t": 4.81
+        },
+        {
+          "w": "Am",
+          "t": 6.48
+        },
+        {
+          "w": "I",
+          "t": 6.61
+        },
+        {
+          "w": "speaking",
+          "t": 6.79
+        },
+        {
+          "w": "with",
+          "t": 7.28
+        },
+        {
+          "w": "Mr.",
+          "t": 7.63
+        },
+        {
+          "w": "Daniel?",
+          "t": 7.93
+        }
+      ],
+      "text": "Hello, good evening. Am I speaking with Mr. Daniel?"
+    },
+    {
+      "id": "T2",
+      "who": "visitor",
+      "at": 8.75,
+      "end": 11.64,
+      "words": [
+        {
+          "w": "Yes,",
+          "t": 8.75
+        },
+        {
+          "w": "speaking.",
+          "t": 9.27
+        },
+        {
+          "w": "Who",
+          "t": 10.31
+        },
+        {
+          "w": "is",
+          "t": 10.55
+        },
+        {
+          "w": "this?",
+          "t": 10.82
+        }
+      ],
+      "text": "Yes, speaking. Who is this?"
+    },
+    {
+      "id": "T3",
+      "who": "agent",
+      "at": 11.64,
+      "end": 20.0,
+      "words": [
+        {
+          "w": "Thank",
+          "t": 11.64
+        },
+        {
+          "w": "you,",
+          "t": 11.67
+        },
+        {
+          "w": "Daniel.",
+          "t": 11.87
+        },
+        {
+          "w": "My",
+          "t": 12.64
+        },
+        {
+          "w": "name",
+          "t": 12.72
+        },
+        {
+          "w": "is",
+          "t": 12.92
+        },
+        {
+          "w": "Vee",
+          "t": 13.28
+        },
+        {
+          "w": "and",
+          "t": 13.51
+        },
+        {
+          "w": "I'm",
+          "t": 13.81
+        },
+        {
+          "w": "calling",
+          "t": 14.15
+        },
+        {
+          "w": "on",
+          "t": 14.4
+        },
+        {
+          "w": "behalf",
+          "t": 14.52
+        },
+        {
+          "w": "of",
+          "t": 14.92
+        },
+        {
+          "w": "Prophet",
+          "t": 15.17
+        },
+        {
+          "w": "Jerome",
+          "t": 15.67
+        },
+        {
+          "w": "Fernando",
+          "t": 16.18
+        },
+        {
+          "w": "Ministries.",
+          "t": 16.86
+        },
+        {
+          "w": "Is",
+          "t": 18.01
+        },
+        {
+          "w": "this",
+          "t": 18.12
+        },
+        {
+          "w": "a",
+          "t": 18.21
+        },
+        {
+          "w": "convenient",
+          "t": 18.24
+        },
+        {
+          "w": "time",
+          "t": 18.64
+        },
+        {
+          "w": "for",
+          "t": 18.8
+        },
+        {
+          "w": "a",
+          "t": 18.95
+        },
+        {
+          "w": "brief",
+          "t": 19.0
+        },
+        {
+          "w": "conversation?",
+          "t": 19.25
+        }
+      ],
+      "text": "Thank you, Daniel. My name is Vee and I'm calling on behalf of Prophet Jerome Fernando Ministries. Is this a convenient time for a brief conversation?"
+    },
+    {
+      "id": "T4",
+      "who": "visitor",
+      "at": 20.0,
+      "end": 22.54,
+      "words": [
+        {
+          "w": "Yes,",
+          "t": 20.0
+        },
+        {
+          "w": "please",
+          "t": 20.56
+        },
+        {
+          "w": "go",
+          "t": 21.24
+        },
+        {
+          "w": "ahead.",
+          "t": 21.46
+        }
+      ],
+      "text": "Yes, please go ahead."
+    },
+    {
+      "id": "T5",
+      "who": "agent",
+      "at": 22.54,
+      "end": 29.5,
+      "words": [
+        {
+          "w": "Thank",
+          "t": 22.54
+        },
+        {
+          "w": "you.",
+          "t": 22.67
+        },
+        {
+          "w": "I'm",
+          "t": 23.0
+        },
+        {
+          "w": "reaching",
+          "t": 23.5
+        },
+        {
+          "w": "out",
+          "t": 23.56
+        },
+        {
+          "w": "to",
+          "t": 23.71
+        },
+        {
+          "w": "share",
+          "t": 23.85
+        },
+        {
+          "w": "information",
+          "t": 24.06
+        },
+        {
+          "w": "about",
+          "t": 24.62
+        },
+        {
+          "w": "the",
+          "t": 24.87
+        },
+        {
+          "w": "ministry",
+          "t": 25.01
+        },
+        {
+          "w": "and",
+          "t": 25.46
+        },
+        {
+          "w": "its",
+          "t": 25.58
+        },
+        {
+          "w": "prayer",
+          "t": 25.73
+        },
+        {
+          "w": "services.",
+          "t": 26.03
+        },
+        {
+          "w": "These",
+          "t": 26.59
+        },
+        {
+          "w": "gatherings",
+          "t": 26.83
+        },
+        {
+          "w": "provide",
+          "t": 27.35
+        },
+        {
+          "w": "an",
+          "t": 27.81
+        },
+        {
+          "w": "opportunity",
+          "t": 27.91
+        },
+        {
+          "w": "for",
+          "t": 28.37
+        },
+        {
+          "w": "prayer",
+          "t": 28.52
+        },
+        {
+          "w": "services.",
+          "t": 28.82
+        }
+      ],
+      "text": "Thank you. I'm reaching out to share information about the ministry and its prayer services. These gatherings provide an opportunity for prayer services."
+    },
+    {
+      "id": "T6",
+      "who": "agent",
+      "at": 29.5,
+      "end": 38.5,
+      "words": [
+        {
+          "w": "The",
+          "t": 29.5
+        },
+        {
+          "w": "ministry",
+          "t": 29.67
+        },
+        {
+          "w": "holds",
+          "t": 30.12
+        },
+        {
+          "w": "different",
+          "t": 30.45
+        },
+        {
+          "w": "services",
+          "t": 30.9
+        },
+        {
+          "w": "throughout",
+          "t": 31.41
+        },
+        {
+          "w": "the",
+          "t": 32.07
+        },
+        {
+          "w": "week.",
+          "t": 32.1
+        },
+        {
+          "w": "For",
+          "t": 32.51
+        },
+        {
+          "w": "example,",
+          "t": 32.75
+        },
+        {
+          "w": "there",
+          "t": 33.72
+        },
+        {
+          "w": "is",
+          "t": 33.85
+        },
+        {
+          "w": "a",
+          "t": 33.99
+        },
+        {
+          "w": "Forensic Night",
+          "t": 34.09
+        },
+        {
+          "w": "service",
+          "t": 34.98
+        },
+        {
+          "w": "on",
+          "t": 35.5
+        },
+        {
+          "w": "Thursdays",
+          "t": 35.65
+        },
+        {
+          "w": "along",
+          "t": 36.07
+        },
+        {
+          "w": "with",
+          "t": 36.33
+        },
+        {
+          "w": "Sunday",
+          "t": 36.54
+        },
+        {
+          "w": "services",
+          "t": 36.85
+        },
+        {
+          "w": "in",
+          "t": 37.27
+        },
+        {
+          "w": "different",
+          "t": 37.49
+        },
+        {
+          "w": "languages.",
+          "t": 37.84
+        }
+      ],
+      "text": "The ministry holds different services throughout the week. For example, there is a Forensic Night service on Thursdays along with Sunday services in different languages."
+    },
+    {
+      "id": "T7",
+      "who": "agent",
+      "at": 38.5,
+      "end": 43.5,
+      "words": [
+        {
+          "w": "The",
+          "t": 38.5
+        },
+        {
+          "w": "gatherings",
+          "t": 38.83
+        },
+        {
+          "w": "offer",
+          "t": 39.94
+        },
+        {
+          "w": "people",
+          "t": 40.5
+        },
+        {
+          "w": "an",
+          "t": 40.5
+        },
+        {
+          "w": "opportunity",
+          "t": 40.5
+        },
+        {
+          "w": "to",
+          "t": 40.5
+        },
+        {
+          "w": "participate",
+          "t": 40.67
+        },
+        {
+          "w": "in",
+          "t": 41.63
+        },
+        {
+          "w": "worship",
+          "t": 41.8
+        },
+        {
+          "w": "and",
+          "t": 42.35
+        },
+        {
+          "w": "prayer.",
+          "t": 43.19
+        }
+      ],
+      "text": "The gatherings offer people an opportunity to participate in worship and prayer."
+    },
+    {
+      "id": "T8",
+      "who": "agent",
+      "at": 43.5,
+      "end": 48.5,
+      "words": [
+        {
+          "w": "Would",
+          "t": 43.5
+        },
+        {
+          "w": "you",
+          "t": 43.79
+        },
+        {
+          "w": "be",
+          "t": 43.96
+        },
+        {
+          "w": "interested",
+          "t": 44.19
+        },
+        {
+          "w": "in",
+          "t": 44.65
+        },
+        {
+          "w": "receiving",
+          "t": 44.75
+        },
+        {
+          "w": "meetings",
+          "t": 45.3
+        },
+        {
+          "w": "during",
+          "t": 45.5
+        },
+        {
+          "w": "these",
+          "t": 46.5
+        },
+        {
+          "w": "services?",
+          "t": 47.38
+        }
+      ],
+      "text": "Would you be interested in receiving meetings during these services?"
+    },
+    {
+      "id": "T9",
+      "who": "agent",
+      "at": 48.5,
+      "end": 57.11,
+      "words": [
+        {
+          "w": "The",
+          "t": 48.5
+        },
+        {
+          "w": "ministry",
+          "t": 48.72
+        },
+        {
+          "w": "holds",
+          "t": 49.32
+        },
+        {
+          "w": "different",
+          "t": 49.9
+        },
+        {
+          "w": "services",
+          "t": 50.37
+        },
+        {
+          "w": "throughout",
+          "t": 50.99
+        },
+        {
+          "w": "the",
+          "t": 51.71
+        },
+        {
+          "w": "week.",
+          "t": 51.93
+        },
+        {
+          "w": "The",
+          "t": 52.69
+        },
+        {
+          "w": "gatherings",
+          "t": 53.01
+        },
+        {
+          "w": "offer",
+          "t": 53.34
+        },
+        {
+          "w": "people",
+          "t": 53.66
+        },
+        {
+          "w": "an",
+          "t": 54.05
+        },
+        {
+          "w": "opportunity",
+          "t": 54.18
+        },
+        {
+          "w": "to",
+          "t": 54.9
+        },
+        {
+          "w": "participate",
+          "t": 55.05
+        },
+        {
+          "w": "in",
+          "t": 55.75
+        },
+        {
+          "w": "worship",
+          "t": 55.88
+        },
+        {
+          "w": "and",
+          "t": 56.34
+        },
+        {
+          "w": "prayer.",
+          "t": 56.55
+        }
+      ],
+      "text": "The ministry holds different services throughout the week. The gatherings offer people an opportunity to participate in worship and prayer."
+    },
+    {
+      "id": "T10",
+      "who": "agent",
+      "at": 57.11,
+      "end": 63.5,
+      "words": [
+        {
+          "w": "Would",
+          "t": 57.11
+        },
+        {
+          "w": "you",
+          "t": 57.62
+        },
+        {
+          "w": "be",
+          "t": 57.62
+        },
+        {
+          "w": "interested",
+          "t": 57.93
+        },
+        {
+          "w": "in",
+          "t": 58.53
+        },
+        {
+          "w": "receiving",
+          "t": 58.72
+        },
+        {
+          "w": "more",
+          "t": 59.5
+        },
+        {
+          "w": "information",
+          "t": 59.76
+        },
+        {
+          "w": "about",
+          "t": 60.5
+        },
+        {
+          "w": "the",
+          "t": 60.81
+        },
+        {
+          "w": "services,",
+          "t": 60.99
+        },
+        {
+          "w": "including",
+          "t": 61.62
+        },
+        {
+          "w": "the",
+          "t": 61.97
+        },
+        {
+          "w": "available",
+          "t": 62.1
+        },
+        {
+          "w": "timings",
+          "t": 62.55
+        },
+        {
+          "w": "and",
+          "t": 62.83
+        },
+        {
+          "w": "location?",
+          "t": 62.98
+        }
+      ],
+      "text": "Would you be interested in receiving more information about the services, including the available timings and location?"
+    },
+    {
+      "id": "T11",
+      "who": "visitor",
+      "at": 63.5,
+      "end": 68.5,
+      "words": [
+        {
+          "w": "Yes,",
+          "t": 63.5
+        },
+        {
+          "w": "I",
+          "t": 63.87
+        },
+        {
+          "w": "would",
+          "t": 64.23
+        },
+        {
+          "w": "be",
+          "t": 64.31
+        },
+        {
+          "w": "interested.",
+          "t": 64.49
+        },
+        {
+          "w": "Could",
+          "t": 65.43
+        },
+        {
+          "w": "you",
+          "t": 65.76
+        },
+        {
+          "w": "tell",
+          "t": 66.23
+        },
+        {
+          "w": "me",
+          "t": 66.34
+        },
+        {
+          "w": "where",
+          "t": 66.47
+        },
+        {
+          "w": "the",
+          "t": 66.84
+        },
+        {
+          "w": "services",
+          "t": 67.06
+        },
+        {
+          "w": "are",
+          "t": 67.66
+        },
+        {
+          "w": "held?",
+          "t": 67.88
+        }
+      ],
+      "text": "Yes, I would be interested. Could you tell me where the services are held?"
+    },
+    {
+      "id": "T12",
+      "who": "agent",
+      "at": 68.5,
+      "end": 76.5,
+      "words": [
+        {
+          "w": "The",
+          "t": 68.5
+        },
+        {
+          "w": "Miracle",
+          "t": 69.04
+        },
+        {
+          "w": "Dome",
+          "t": 69.2
+        },
+        {
+          "w": "is",
+          "t": 69.48
+        },
+        {
+          "w": "located",
+          "t": 69.62
+        },
+        {
+          "w": "on",
+          "t": 70.11
+        },
+        {
+          "w": "Katunayake",
+          "t": 70.3
+        },
+        {
+          "w": "Veyangoda",
+          "t": 71.01
+        },
+        {
+          "w": "Road",
+          "t": 71.51
+        },
+        {
+          "w": "in",
+          "t": 71.79
+        },
+        {
+          "w": "Katunayake",
+          "t": 71.93
+        },
+        {
+          "w": "Sri",
+          "t": 72.67
+        },
+        {
+          "w": "Lanka.",
+          "t": 72.84
+        },
+        {
+          "w": "Would",
+          "t": 73.5
+        },
+        {
+          "w": "you",
+          "t": 73.76
+        },
+        {
+          "w": "like",
+          "t": 74.14
+        },
+        {
+          "w": "to",
+          "t": 74.14
+        },
+        {
+          "w": "know",
+          "t": 74.41
+        },
+        {
+          "w": "more",
+          "t": 74.45
+        },
+        {
+          "w": "about",
+          "t": 74.66
+        },
+        {
+          "w": "the",
+          "t": 74.93
+        },
+        {
+          "w": "service",
+          "t": 75.09
+        },
+        {
+          "w": "schedules",
+          "t": 75.46
+        },
+        {
+          "w": "as",
+          "t": 75.96
+        },
+        {
+          "w": "well?",
+          "t": 76.06
+        }
+      ],
+      "text": "The Miracle Dome is located on Katunayake Veyangoda Road in Katunayake Sri Lanka. Would you like to know more about the service schedules as well?"
+    },
+    {
+      "id": "T13",
+      "who": "visitor",
+      "at": 76.5,
+      "end": 78.5,
+      "words": [
+        {
+          "w": "Yes,",
+          "t": 76.5
+        },
+        {
+          "w": "please.",
+          "t": 77.5
+        }
+      ],
+      "text": "Yes, please."
+    },
+    {
+      "id": "T14",
+      "who": "agent",
+      "at": 79.05,
+      "end": 98.5,
+      "words": [
+        {
+          "w": "Certainly.",
+          "t": 79.05
+        },
+        {
+          "w": "The",
+          "t": 79.45
+        },
+        {
+          "w": "ministry",
+          "t": 80.08
+        },
+        {
+          "w": "has",
+          "t": 80.51
+        },
+        {
+          "w": "a",
+          "t": 80.71
+        },
+        {
+          "w": "Forensic Night",
+          "t": 80.79
+        },
+        {
+          "w": "service",
+          "t": 81.91
+        },
+        {
+          "w": "every",
+          "t": 82.51
+        },
+        {
+          "w": "Thursday",
+          "t": 82.94
+        },
+        {
+          "w": "at",
+          "t": 83.66
+        },
+        {
+          "w": "6",
+          "t": 83.83
+        },
+        {
+          "w": "p.m.",
+          "t": 84.05
+        },
+        {
+          "w": "IST.",
+          "t": 84.89
+        },
+        {
+          "w": "On",
+          "t": 85.5
+        },
+        {
+          "w": "Sundays,",
+          "t": 85.98
+        },
+        {
+          "w": "there",
+          "t": 86.33
+        },
+        {
+          "w": "is",
+          "t": 86.85
+        },
+        {
+          "w": "a",
+          "t": 86.92
+        },
+        {
+          "w": "service",
+          "t": 86.98
+        },
+        {
+          "w": "at",
+          "t": 87.45
+        },
+        {
+          "w": "7:30",
+          "t": 87.6
+        },
+        {
+          "w": "a.m.",
+          "t": 88.51
+        },
+        {
+          "w": "in",
+          "t": 89.1
+        },
+        {
+          "w": "Sinhala",
+          "t": 89.38
+        },
+        {
+          "w": "and",
+          "t": 89.84
+        },
+        {
+          "w": "Tamil",
+          "t": 90.09
+        },
+        {
+          "w": "and",
+          "t": 90.7
+        },
+        {
+          "w": "another",
+          "t": 90.81
+        },
+        {
+          "w": "at",
+          "t": 91.18
+        },
+        {
+          "w": "11:30",
+          "t": 91.31
+        },
+        {
+          "w": "a.m.",
+          "t": 92.33
+        },
+        {
+          "w": "in",
+          "t": 92.89
+        },
+        {
+          "w": "English",
+          "t": 92.98
+        },
+        {
+          "w": "and",
+          "t": 93.57
+        },
+        {
+          "w": "Sinhala.",
+          "t": 93.66
+        },
+        {
+          "w": "There",
+          "t": 94.5
+        },
+        {
+          "w": "is",
+          "t": 94.87
+        },
+        {
+          "w": "also",
+          "t": 95.05
+        },
+        {
+          "w": "a",
+          "t": 95.32
+        },
+        {
+          "w": "service",
+          "t": 95.39
+        },
+        {
+          "w": "on",
+          "t": 95.9
+        },
+        {
+          "w": "Poya",
+          "t": 96.14
+        },
+        {
+          "w": "days",
+          "t": 96.36
+        },
+        {
+          "w": "at",
+          "t": 96.65
+        },
+        {
+          "w": "10",
+          "t": 96.81
+        },
+        {
+          "w": "a.m.",
+          "t": 97.26
+        },
+        {
+          "w": "IST.",
+          "t": 98.0
+        }
+      ],
+      "text": "Certainly. The ministry has a Forensic Night service every Thursday at 6 p.m. IST. On Sundays, there is a service at 7:30 a.m. in Sinhala and Tamil and another at 11:30 a.m. in English and Sinhala. There is also a service on Poya days at 10 a.m. IST."
+    },
+    {
+      "id": "T15",
+      "who": "visitor",
+      "at": 98.5,
+      "end": 105.5,
+      "words": [
+        {
+          "w": "That",
+          "t": 98.5
+        },
+        {
+          "w": "sounds",
+          "t": 99.23
+        },
+        {
+          "w": "interesting.",
+          "t": 99.24
+        },
+        {
+          "w": "Is",
+          "t": 100.26
+        },
+        {
+          "w": "there",
+          "t": 100.77
+        },
+        {
+          "w": "a",
+          "t": 100.84
+        },
+        {
+          "w": "service",
+          "t": 100.85
+        },
+        {
+          "w": "specifically",
+          "t": 101.36
+        },
+        {
+          "w": "for",
+          "t": 102.27
+        },
+        {
+          "w": "people",
+          "t": 102.51
+        },
+        {
+          "w": "who",
+          "t": 102.91
+        },
+        {
+          "w": "want",
+          "t": 103.13
+        },
+        {
+          "w": "prayer",
+          "t": 103.51
+        },
+        {
+          "w": "for",
+          "t": 103.86
+        },
+        {
+          "w": "personal",
+          "t": 104.08
+        },
+        {
+          "w": "matters?",
+          "t": 104.66
+        }
+      ],
+      "text": "That sounds interesting. Is there a service specifically for people who want prayer for personal matters?"
+    },
+    {
+      "id": "T16",
+      "who": "agent",
+      "at": 105.57,
+      "end": 127.49,
+      "words": [
+        {
+          "w": "You",
+          "t": 105.57
+        },
+        {
+          "w": "can",
+          "t": 105.71
+        },
+        {
+          "w": "contact",
+          "t": 105.86
+        },
+        {
+          "w": "the",
+          "t": 106.29
+        },
+        {
+          "w": "ministry's",
+          "t": 106.47
+        },
+        {
+          "w": "faith",
+          "t": 107.08
+        },
+        {
+          "w": "line",
+          "t": 107.38
+        },
+        {
+          "w": "for",
+          "t": 107.68
+        },
+        {
+          "w": "prayer-related",
+          "t": 107.93
+        },
+        {
+          "w": "assistance.",
+          "t": 108.6
+        },
+        {
+          "w": "The",
+          "t": 109.71
+        },
+        {
+          "w": "Sri",
+          "t": 109.71
+        },
+        {
+          "w": "Lanka",
+          "t": 109.92
+        },
+        {
+          "w": "faith",
+          "t": 110.27
+        },
+        {
+          "w": "line",
+          "t": 110.62
+        },
+        {
+          "w": "number",
+          "t": 110.9
+        },
+        {
+          "w": "is",
+          "t": 111.32
+        },
+        {
+          "w": "+94 11 777 48 77.",
+          "t": 111.49
+        },
+        {
+          "w": "You",
+          "t": 116.5
+        },
+        {
+          "w": "can",
+          "t": 116.66
+        },
+        {
+          "w": "also",
+          "t": 117.07
+        },
+        {
+          "w": "contact",
+          "t": 117.14
+        },
+        {
+          "w": "the",
+          "t": 117.48
+        },
+        {
+          "w": "ministry",
+          "t": 117.65
+        },
+        {
+          "w": "through",
+          "t": 118.12
+        },
+        {
+          "w": "its",
+          "t": 118.56
+        },
+        {
+          "w": "official",
+          "t": 118.7
+        },
+        {
+          "w": "contact",
+          "t": 119.17
+        },
+        {
+          "w": "channels",
+          "t": 119.62
+        },
+        {
+          "w": "for",
+          "t": 120.07
+        },
+        {
+          "w": "further",
+          "t": 120.22
+        },
+        {
+          "w": "information.",
+          "t": 120.63
+        },
+        {
+          "w": "Would",
+          "t": 121.5
+        },
+        {
+          "w": "you",
+          "t": 121.88
+        },
+        {
+          "w": "like",
+          "t": 121.96
+        },
+        {
+          "w": "our",
+          "t": 122.19
+        },
+        {
+          "w": "team",
+          "t": 122.37
+        },
+        {
+          "w": "to",
+          "t": 122.64
+        },
+        {
+          "w": "follow",
+          "t": 122.7
+        },
+        {
+          "w": "up",
+          "t": 123.05
+        },
+        {
+          "w": "with",
+          "t": 123.16
+        },
+        {
+          "w": "you",
+          "t": 123.39
+        },
+        {
+          "w": "regarding",
+          "t": 123.66
+        },
+        {
+          "w": "prayer-related",
+          "t": 124.08
+        },
+        {
+          "w": "assistance",
+          "t": 124.89
+        },
+        {
+          "w": "or",
+          "t": 125.53
+        },
+        {
+          "w": "additional",
+          "t": 125.58
+        },
+        {
+          "w": "service",
+          "t": 126.16
+        },
+        {
+          "w": "information?",
+          "t": 126.57
+        }
+      ],
+      "text": "You can contact the ministry's faith line for prayer-related assistance. The Sri Lanka faith line number is +94 11 777 48 77. You can also contact the ministry through its official contact channels for further information. Would you like our team to follow up with you regarding prayer-related assistance or additional service information?"
+    },
+    {
+      "id": "T17",
+      "who": "visitor",
+      "at": 127.49,
+      "end": 130.5,
+      "words": [
+        {
+          "w": "Yes,",
+          "t": 127.49
+        },
+        {
+          "w": "I",
+          "t": 128.03
+        },
+        {
+          "w": "would",
+          "t": 128.36
+        },
+        {
+          "w": "appreciate",
+          "t": 128.66
+        },
+        {
+          "w": "that.",
+          "t": 129.72
+        }
+      ],
+      "text": "Yes, I would appreciate that."
+    },
+    {
+      "id": "T18",
+      "who": "agent",
+      "at": 130.62,
+      "end": 136.5,
+      "words": [
+        {
+          "w": "Of",
+          "t": 130.62
+        },
+        {
+          "w": "course,",
+          "t": 130.63
+        },
+        {
+          "w": "I",
+          "t": 131.16
+        },
+        {
+          "w": "can",
+          "t": 131.22
+        },
+        {
+          "w": "note",
+          "t": 131.68
+        },
+        {
+          "w": "your",
+          "t": 131.69
+        },
+        {
+          "w": "request",
+          "t": 131.96
+        },
+        {
+          "w": "for",
+          "t": 132.44
+        },
+        {
+          "w": "follow-up.",
+          "t": 132.63
+        },
+        {
+          "w": "May",
+          "t": 133.69
+        },
+        {
+          "w": "I",
+          "t": 133.75
+        },
+        {
+          "w": "have",
+          "t": 133.84
+        },
+        {
+          "w": "your",
+          "t": 134.0
+        },
+        {
+          "w": "full",
+          "t": 134.25
+        },
+        {
+          "w": "name",
+          "t": 134.62
+        },
+        {
+          "w": "and",
+          "t": 134.75
+        },
+        {
+          "w": "contact",
+          "t": 134.94
+        },
+        {
+          "w": "number,",
+          "t": 135.37
+        },
+        {
+          "w": "please?",
+          "t": 135.88
+        }
+      ],
+      "text": "Of course, I can note your request for follow-up. May I have your full name and contact number, please?"
+    },
+    {
+      "id": "T19",
+      "who": "visitor",
+      "at": 136.5,
+      "end": 145.5,
+      "words": [
+        {
+          "w": "My",
+          "t": 136.5
+        },
+        {
+          "w": "name",
+          "t": 136.85
+        },
+        {
+          "w": "is",
+          "t": 137.1
+        },
+        {
+          "w": "Daniel",
+          "t": 137.3
+        },
+        {
+          "w": "Albert",
+          "t": 137.88
+        },
+        {
+          "w": "and",
+          "t": 138.4
+        },
+        {
+          "w": "the",
+          "t": 138.85
+        },
+        {
+          "w": "contact",
+          "t": 138.96
+        },
+        {
+          "w": "number",
+          "t": 139.49
+        },
+        {
+          "w": "would",
+          "t": 139.94
+        },
+        {
+          "w": "be",
+          "t": 140.5
+        },
+        {
+          "w": "+94 987 654 3210.",
+          "t": 140.53
+        }
+      ],
+      "text": "My name is Daniel Albert and the contact number would be +94 987 654 3210."
+    },
+    {
+      "id": "T20",
+      "who": "agent",
+      "at": 145.5,
+      "end": 157.5,
+      "words": [
+        {
+          "w": "Thank",
+          "t": 145.5
+        },
+        {
+          "w": "you",
+          "t": 145.9
+        },
+        {
+          "w": "for",
+          "t": 145.98
+        },
+        {
+          "w": "your",
+          "t": 146.16
+        },
+        {
+          "w": "time,",
+          "t": 146.4
+        },
+        {
+          "w": "Daniel.",
+          "t": 146.76
+        },
+        {
+          "w": "I",
+          "t": 147.36
+        },
+        {
+          "w": "appreciate",
+          "t": 147.52
+        },
+        {
+          "w": "you",
+          "t": 147.96
+        },
+        {
+          "w": "speaking",
+          "t": 148.14
+        },
+        {
+          "w": "with",
+          "t": 148.65
+        },
+        {
+          "w": "me",
+          "t": 148.9
+        },
+        {
+          "w": "today.",
+          "t": 148.98
+        },
+        {
+          "w": "For",
+          "t": 149.5
+        },
+        {
+          "w": "further",
+          "t": 149.89
+        },
+        {
+          "w": "information,",
+          "t": 150.3
+        },
+        {
+          "w": "you",
+          "t": 151.36
+        },
+        {
+          "w": "can",
+          "t": 151.59
+        },
+        {
+          "w": "also",
+          "t": 151.97
+        },
+        {
+          "w": "reach",
+          "t": 152.15
+        },
+        {
+          "w": "the",
+          "t": 152.54
+        },
+        {
+          "w": "ministry",
+          "t": 152.89
+        },
+        {
+          "w": "at",
+          "t": 153.42
+        },
+        {
+          "w": "info@prophetjerome.com.",
+          "t": 153.73
+        },
+        {
+          "w": "Have",
+          "t": 155.66
+        },
+        {
+          "w": "a",
+          "t": 155.87
+        },
+        {
+          "w": "wonderful",
+          "t": 155.92
+        },
+        {
+          "w": "evening",
+          "t": 156.4
+        },
+        {
+          "w": "and",
+          "t": 156.93
+        },
+        {
+          "w": "goodbye!",
+          "t": 156.99
+        }
+      ],
+      "text": "Thank you for your time, Daniel. I appreciate you speaking with me today. For further information, you can also reach the ministry at info@prophetjerome.com. Have a wonderful evening and goodbye!"
+    },
+    {
+      "id": "T21",
+      "who": "visitor",
+      "at": 157.5,
+      "end": 159.5,
+      "words": [
+        {
+          "w": "Thank",
+          "t": 157.5
+        },
+        {
+          "w": "you.",
+          "t": 158.1
+        },
+        {
+          "w": "Goodbye.",
+          "t": 158.52
+        }
+      ],
+      "text": "Thank you. Goodbye."
+    }
+  ]
+}

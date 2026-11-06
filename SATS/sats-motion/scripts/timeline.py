@@ -101,13 +101,27 @@ marks['callB'] = t + 0.2
 t = conversation(t + 0.6, ['B1', 'B2'], {'B2': 1.0})
 marks['ringB'] = t + 0.3
 fx('ringback', marks['ringB'])
-t = say('B3', marks['ringB'] + 2.6)
+t = say('B3', marks['ringB'] + 1.8)
 marks['callC'] = t + 0.5
 t = say('vo6b', t + 0.7)
 t = conversation(t + 0.5, ['C1', 'C2'], {'C2': 0.9})
 marks['hangupC'] = t + 0.3
 fx('hangup', marks['hangupC'], 0.6)
 scene('handoffs', s6, t + 1.0)
+
+# 6b Scenario 6: pickup deadline and payment link
+s6b = scenes[-1]['end']
+fx('whoosh', s6b - 0.2, 0.7)
+t = say('vo5d', s6b + 0.5)
+marks['ringD'] = t + 0.8
+fx('ring', marks['ringD'])
+marks['pickupD'] = marks['ringD'] + 2.5
+fx('pickup', marks['pickupD'], 0.8)
+t = conversation(marks['pickupD'] + 0.4, ['D1', 'D2', 'D3', 'D4', 'D5'], {'D3': 0.9, 'D5': 1.4})
+marks['smsD'] = placed['D4']['end'] + 0.25
+marks['hangupD'] = t + 0.5
+fx('hangup', marks['hangupD'], 0.7)
+scene('pickup', s6b, t + 2.4)
 
 # 7 Exceptions
 s7 = scenes[-1]['end']

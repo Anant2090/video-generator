@@ -1,0 +1,14 @@
+show: This is SATS Import TeleAdvice, an agentic AI voice workflow built on Voicera CX that makes calls, answers shipment questions, and records every outcome.
+This is SATS Import Tele Advice, an agentic AI voice workflow built on Voicera C X that makes calls, answers shipment questions, and records every outcome.
+
+show: From the Voicera CX dashboard, operators can open the published SATS Import TeleAdvice workflow and review its configuration.
+From the Voicera C X dashboard, operators can open the published SATS Import TeleAdvice workflow and review its configuration.
+
+show: The Supervisor routes each customer question to the appropriate specialist. The Shipment Agent retrieves shipment details, while the FAQ Agent answers process-related questions using approved information.
+The Supervisor routes each customer question to the appropriate specialist. The Shipment Agent retrieves shipment details, while the F A Q Agent answers process-related questions using approved information.
+
+show: For this demo, air waybill 123456789 belongs to ABC Imports. The shipment has arrived on flight SQ123, with four pieces weighing 120 kilograms, at SATS Import Hall 2.
+For this demo, air waybill one two three four five six seven eight nine belongs to A B C Imports. The shipment has arrived on flight S Q one two three, with four pieces weighing one hundred and twenty kilograms, at SATS Import Hall two.
+
+show: The workflow records the call outcome and can escalate the conversation to a human when necessary, helping make shipment communication more consistent, traceable, and efficient.
+The workflow records the call outcome and can escalate the conversation to a human when necessary, helping make shipment communication more consistent, traceable, and efficient.

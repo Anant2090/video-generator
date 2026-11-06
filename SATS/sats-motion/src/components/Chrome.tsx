@@ -8,8 +8,9 @@ const CHAPTERS: [SceneName, string, string][] = [
   ['canvas', '02', 'The workflow'],
   ['call', '03', 'The call'],
   ['handoffs', '04', 'Hand-offs'],
-  ['exceptions', '05', 'Exceptions'],
-  ['record', '06', 'On record'],
+  ['pickup', '06', 'Scenario 6'],
+  ['exceptions', '06', 'Exceptions'],
+  ['record', '07', 'On record'],
 ];
 
 export const Chrome: React.FC = () => {

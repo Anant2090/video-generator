@@ -21,7 +21,7 @@ COLIN = 'e39b9fc0-23f5-4616-962a-da99c8ccb1dc'
 JUSTIN = 'df38a4f6-5d10-4fe7-b268-952aef25d76a'
 NADIA = 'efddb3d2-4464-45e0-9f8a-fcd5fd4fc54f'
 VOICE = {'narrator': QUINN, 'agent': COLIN, 'consignee': JUSTIN, 'counter': NADIA}
-SPEED = {'narrator': 1.05, 'agent': 1.0, 'consignee': 1.08, 'counter': 1.0}
+SPEED = {'narrator': 1.05, 'agent': 1.0, 'consignee': 1.08, 'counter': 1.12}
 
 VO = {
     'vo1': 'A flight lands. Within minutes, every consignee waiting on that cargo needs to know: it\'s here, and what to do next.',
@@ -38,6 +38,8 @@ VO = {
     'vo4e': 'Procedural questions go to the F A Q Agent, which draws only on approved SATS knowledge. '
             'And every answer is delivered through a single Response Node.',
     'vo5': "Here's how a call unfolds.",
+    'vo5d': "Scenario six. The consignee cannot collect today, so the agent explains the pickup deadline "
+            'and shares a payment link for any applicable charges.',
     'vo6a': 'Not every call goes the same way.',
     'vo6b': "And if now isn't a good time...",
     'vo7': "If a call isn't answered, a dedicated path is configured to record the attempt, re-check the flight details, "
@@ -68,10 +70,34 @@ CALL = [
     ('A11', 'agent', "You're welcome, Daniel. I've recorded your acknowledgement. Have a good day.", None),
     ('B1', 'consignee', 'Actually, can I speak to someone at the counter?', None),
     ('B2', 'agent', "Of course. I'll transfer you now, and pass on your air waybill details, so you won't need to repeat them.", None),
-    ('B3', 'counter', 'Import counter, good afternoon.', None),
+    ('B3', 'counter', 'Import counter, good afternoon. A W B four five one eight is ready. How can I help?',
+     'Import counter, good afternoon. AWB 4518 is ready. How can I help?'),
     ('C1', 'consignee', "I'm driving right now. Can you call me back after five?", None),
     ('C2', 'agent', "No problem. I've noted your request for a callback after five p.m. Drive safely.",
      "No problem. I've noted your request for a callback after 5 p.m. Drive safely."),
+    ('D1', 'agent', "Hello, I'm calling from sats regarding your shipment. Your consignment has arrived and is ready for collection. "
+     "Please arrange to pick it up before three p.m. today.",
+     "Hello, I'm calling from SATS regarding your shipment. Your consignment has arrived and is ready for collection. Please arrange to pick it up before 3:00 p.m. today."),
+    ('D2', 'consignee', "I'm not available to come and collect it today. What can I do?", None),
+    ('D3', 'agent', "I understand. Please be aware that additional charges may apply if the shipment is not collected within the required timeframe. "
+     "I can share the payment link for the applicable charges. I won't quote an amount — those charges have to be confirmed by the sats system.",
+     "I understand. Please be aware that additional charges may apply if the shipment is not collected within the required timeframe. I can share the payment link for the applicable charges. I won't quote an amount — those charges have to be confirmed by the SATS system."),
+    ('D4', 'consignee', 'Okay, please send me the link.', None),
+    ('D5', 'agent', "Certainly. I'll send the payment link to your registered contact number. Please review the details before making any payment.", None),
+    ('E1', 'agent', "Hello, I'm calling from sats regarding your shipment. Your consignment has arrived and is ready for collection. "
+     "Please arrange to pick it up before three p.m. today.",
+     "Hello, I'm calling from SATS regarding your shipment. Your consignment has arrived and is ready for collection. Please arrange to pick it up before 3:00 p.m. today."),
+    ('E2', 'consignee', "How many parcels are there, and what's the weight?", None),
+    ('E3', 'agent', 'There are twelve pieces, with a total weight of four hundred and eighty-six kilograms.',
+     'There are 12 pieces, with a total weight of 486 kilograms.'),
+    ('E4', 'consignee', "I can't collect it before three p.m. today. What can I do?",
+     "I can't collect it before 3:00 p.m. today. What can I do?"),
+    ('E5', 'agent', "If it isn't collected by three p.m., storage is charged at thirty dollars per hour. How many extra hours do you need?",
+     "If it isn't collected by 3:00 p.m., storage is charged at $30 per hour. How many extra hours do you need?"),
+    ('E6', 'consignee', "Until five p.m. That's two hours.",
+     "Until 5:00 p.m. That's two hours."),
+    ('E7', 'agent', "Two hours at thirty dollars per hour is sixty dollars. I'll send the payment link to your registered contact number. Please review the details before making the payment.",
+     "Two hours at $30 per hour is $60. I'll send the payment link to your registered contact number. Please review the details before making the payment."),
 ]
 
 

@@ -49,7 +49,7 @@ def call(path: str, body: dict | None = None) -> bytes:
         data=json.dumps(body).encode() if body else None,
         headers={'X-API-Key': key(), 'Cartesia-Version': VERSION, 'Content-Type': 'application/json'},
     )
-    with urllib.request.urlopen(req, timeout=120) as r:
+    with urllib.request.urlopen(req, timeout=180) as r:
         return r.read()
 
 

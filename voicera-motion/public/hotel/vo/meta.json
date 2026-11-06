@@ -1,0 +1,50 @@
+{
+ "g1": {
+  "text": "Hi vee, how can you help me?",
+  "dur": 1.84
+ },
+ "v1": {
+  "text": "I can help with restaurants, local deals, and room service. What are you looking for?",
+  "dur": 5.12
+ },
+ "g2": {
+  "text": "I want dinner tonight. What do you recommend?",
+  "dur": 2.72
+ },
+ "v2": {
+  "text": "Tap Local Coupons. Nearby restaurants and offers are right there.",
+  "dur": 4.24
+ },
+ "g3": {
+  "text": "Great, let's check it out.",
+  "dur": 1.36
+ },
+ "v3": {
+  "text": "Here are some nearby favorites. Pick a place for tonight.",
+  "dur": 3.12
+ },
+ "g4": {
+  "text": "This looks great. Can you reserve a table?",
+  "dur": 2.96
+ },
+ "v4": {
+  "text": "What time, and for how many?",
+  "dur": 1.84
+ },
+ "g5": {
+  "text": "Seven thirty tonight, for two.",
+  "dur": 2.24
+ },
+ "v5": {
+  "text": "Your request is with the hotel team. Want a text when it is confirmed?",
+  "dur": 3.84
+ },
+ "g6": {
+  "text": "Yes, please.",
+  "dur": 1.28
+ },
+ "v7": {
+  "text": "We'll text you when it's confirmed.",
+  "dur": 2.0
+ }
+}

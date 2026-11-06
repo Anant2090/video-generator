@@ -1,0 +1,757 @@
+{
+ "demo1": {
+  "who": "narrator",
+  "text": "This is SATS Import Tele Advice, an agentic AI voice workflow built on Voicera C X that makes calls, answers shipment questions, and records every outcome.",
+  "show": "This is SATS Import TeleAdvice, an agentic AI voice workflow built on Voicera CX that makes calls, answers shipment questions, and records every outcome.",
+  "dur": 11.04,
+  "words": [
+   {
+    "w": "This",
+    "s": 0.095,
+    "e": 0.44
+   },
+   {
+    "w": "is",
+    "s": 0.52,
+    "e": 0.6
+   },
+   {
+    "w": "SATS",
+    "s": 0.6,
+    "e": 1
+   },
+   {
+    "w": "Import",
+    "s": 1.092,
+    "e": 1.48
+   },
+   {
+    "w": "Tele",
+    "s": 1.48,
+    "e": 1.8
+   },
+   {
+    "w": "Advice,",
+    "s": 1.801,
+    "e": 2.36
+   },
+   {
+    "w": "an",
+    "s": 2.587,
+    "e": 2.76
+   },
+   {
+    "w": "agentic",
+    "s": 2.844,
+    "e": 3.4
+   },
+   {
+    "w": "AI",
+    "s": 3.401,
+    "e": 3.72
+   },
+   {
+    "w": "voice",
+    "s": 3.803,
+    "e": 4.12
+   },
+   {
+    "w": "workflow",
+    "s": 4.121,
+    "e": 4.6
+   },
+   {
+    "w": "built",
+    "s": 4.601,
+    "e": 4.92
+   },
+   {
+    "w": "on",
+    "s": 5.0,
+    "e": 5
+   },
+   {
+    "w": "Voicera",
+    "s": 5.008,
+    "e": 5.72
+   },
+   {
+    "w": "C",
+    "s": 5.801,
+    "e": 6.04
+   },
+   {
+    "w": "X",
+    "s": 6.041,
+    "e": 6.44
+   },
+   {
+    "w": "that",
+    "s": 6.521,
+    "e": 6.6
+   },
+   {
+    "w": "makes",
+    "s": 6.6,
+    "e": 6.84
+   },
+   {
+    "w": "calls,",
+    "s": 6.841,
+    "e": 7.4
+   },
+   {
+    "w": "answers",
+    "s": 7.637,
+    "e": 8.12
+   },
+   {
+    "w": "shipment",
+    "s": 8.202,
+    "e": 8.52
+   },
+   {
+    "w": "questions,",
+    "s": 8.521,
+    "e": 9.16
+   },
+   {
+    "w": "and",
+    "s": 9.314,
+    "e": 9.48
+   },
+   {
+    "w": "records",
+    "s": 9.482,
+    "e": 9.96
+   },
+   {
+    "w": "every",
+    "s": 10.05,
+    "e": 10.36
+   },
+   {
+    "w": "outcome.",
+    "s": 10.361,
+    "e": 10.92
+   }
+  ]
+ },
+ "demo2": {
+  "who": "narrator",
+  "text": "From the Voicera C X dashboard, operators can open the published SATS Import TeleAdvice workflow and review its configuration.",
+  "show": "From the Voicera CX dashboard, operators can open the published SATS Import TeleAdvice workflow and review its configuration.",
+  "dur": 8.88,
+  "words": [
+   {
+    "w": "From",
+    "s": 0.105,
+    "e": 0.36
+   },
+   {
+    "w": "the",
+    "s": 0.44,
+    "e": 0.44
+   },
+   {
+    "w": "Voicera",
+    "s": 0.442,
+    "e": 1.08
+   },
+   {
+    "w": "C",
+    "s": 1.162,
+    "e": 1.48
+   },
+   {
+    "w": "X",
+    "s": 1.48,
+    "e": 1.8
+   },
+   {
+    "w": "dashboard,",
+    "s": 1.801,
+    "e": 2.52
+   },
+   {
+    "w": "operators",
+    "s": 2.755,
+    "e": 3.32
+   },
+   {
+    "w": "can",
+    "s": 3.32,
+    "e": 3.48
+   },
+   {
+    "w": "open",
+    "s": 3.492,
+    "e": 3.8
+   },
+   {
+    "w": "the",
+    "s": 3.88,
+    "e": 3.96
+   },
+   {
+    "w": "published",
+    "s": 3.961,
+    "e": 4.52
+   },
+   {
+    "w": "SATS",
+    "s": 4.6,
+    "e": 4.92
+   },
+   {
+    "w": "Import",
+    "s": 4.955,
+    "e": 5.48
+   },
+   {
+    "w": "TeleAdvice",
+    "s": 5.482,
+    "e": 6.12
+   },
+   {
+    "w": "workflow",
+    "s": 6.123,
+    "e": 6.84
+   },
+   {
+    "w": "and",
+    "s": 6.849,
+    "e": 7.24
+   },
+   {
+    "w": "review",
+    "s": 7.321,
+    "e": 7.64
+   },
+   {
+    "w": "its",
+    "s": 7.64,
+    "e": 7.72
+   },
+   {
+    "w": "configuration.",
+    "s": 7.724,
+    "e": 8.76
+   }
+  ]
+ },
+ "demo3": {
+  "who": "narrator",
+  "text": "The Supervisor routes each customer question to the appropriate specialist. The Shipment Agent retrieves shipment details, while the F A Q Agent answers process-related questions using approved information.",
+  "show": "The Supervisor routes each customer question to the appropriate specialist. The Shipment Agent retrieves shipment details, while the FAQ Agent answers process-related questions using approved information.",
+  "dur": 12.4,
+  "words": [
+   {
+    "w": "The",
+    "s": 0.15,
+    "e": 0.28
+   },
+   {
+    "w": "Supervisor",
+    "s": 0.282,
+    "e": 1
+   },
+   {
+    "w": "routes",
+    "s": 1.081,
+    "e": 1.32
+   },
+   {
+    "w": "each",
+    "s": 1.42,
+    "e": 1.64
+   },
+   {
+    "w": "customer",
+    "s": 1.641,
+    "e": 2.12
+   },
+   {
+    "w": "question",
+    "s": 2.12,
+    "e": 2.6
+   },
+   {
+    "w": "to",
+    "s": 2.68,
+    "e": 2.68
+   },
+   {
+    "w": "the",
+    "s": 2.76,
+    "e": 2.84
+   },
+   {
+    "w": "appropriate",
+    "s": 2.841,
+    "e": 3.4
+   },
+   {
+    "w": "specialist.",
+    "s": 3.403,
+    "e": 4.2
+   },
+   {
+    "w": "The",
+    "s": 4.672,
+    "e": 4.84
+   },
+   {
+    "w": "Shipment",
+    "s": 4.921,
+    "e": 5.24
+   },
+   {
+    "w": "Agent",
+    "s": 5.321,
+    "e": 5.56
+   },
+   {
+    "w": "retrieves",
+    "s": 5.561,
+    "e": 6.04
+   },
+   {
+    "w": "shipment",
+    "s": 6.041,
+    "e": 6.44
+   },
+   {
+    "w": "details,",
+    "s": 6.441,
+    "e": 7
+   },
+   {
+    "w": "while",
+    "s": 7.166,
+    "e": 7.4
+   },
+   {
+    "w": "the",
+    "s": 7.48,
+    "e": 7.56
+   },
+   {
+    "w": "F",
+    "s": 7.653,
+    "e": 7.88
+   },
+   {
+    "w": "A",
+    "s": 7.96,
+    "e": 8.04
+   },
+   {
+    "w": "Q",
+    "s": 8.041,
+    "e": 8.36
+   },
+   {
+    "w": "Agent",
+    "s": 8.361,
+    "e": 8.68
+   },
+   {
+    "w": "answers",
+    "s": 8.767,
+    "e": 9.16
+   },
+   {
+    "w": "process-related",
+    "s": 9.164,
+    "e": 10.12
+   },
+   {
+    "w": "questions",
+    "s": 10.122,
+    "e": 10.76
+   },
+   {
+    "w": "using",
+    "s": 10.84,
+    "e": 11
+   },
+   {
+    "w": "approved",
+    "s": 11.081,
+    "e": 11.48
+   },
+   {
+    "w": "information.",
+    "s": 11.487,
+    "e": 12.28
+   }
+  ]
+ },
+ "demo4": {
+  "who": "narrator",
+  "text": "For this demo, air waybill one two three four five six seven eight nine belongs to A B C Imports. The shipment has arrived on flight S Q one two three, with four pieces weighing one hundred and twenty kilograms, at SATS Import Hall two.",
+  "show": "For this demo, air waybill 123456789 belongs to ABC Imports. The shipment has arrived on flight SQ123, with four pieces weighing 120 kilograms, at SATS Import Hall 2.",
+  "dur": 19.28,
+  "words": [
+   {
+    "w": "For",
+    "s": 0.104,
+    "e": 0.28
+   },
+   {
+    "w": "this",
+    "s": 0.28,
+    "e": 0.6
+   },
+   {
+    "w": "demo,",
+    "s": 0.681,
+    "e": 1.16
+   },
+   {
+    "w": "air",
+    "s": 1.401,
+    "e": 1.72
+   },
+   {
+    "w": "waybill",
+    "s": 1.723,
+    "e": 2.36
+   },
+   {
+    "w": "one",
+    "s": 2.441,
+    "e": 2.76
+   },
+   {
+    "w": "two",
+    "s": 2.761,
+    "e": 3.08
+   },
+   {
+    "w": "three",
+    "s": 3.081,
+    "e": 3.48
+   },
+   {
+    "w": "four",
+    "s": 3.484,
+    "e": 3.96
+   },
+   {
+    "w": "five",
+    "s": 4.04,
+    "e": 4.52
+   },
+   {
+    "w": "six",
+    "s": 4.598,
+    "e": 5.08
+   },
+   {
+    "w": "seven",
+    "s": 5.162,
+    "e": 5.48
+   },
+   {
+    "w": "eight",
+    "s": 5.501,
+    "e": 5.88
+   },
+   {
+    "w": "nine",
+    "s": 5.881,
+    "e": 6.36
+   },
+   {
+    "w": "belongs",
+    "s": 6.631,
+    "e": 7.16
+   },
+   {
+    "w": "to",
+    "s": 7.24,
+    "e": 7.4
+   },
+   {
+    "w": "A",
+    "s": 7.428,
+    "e": 7.72
+   },
+   {
+    "w": "B",
+    "s": 7.722,
+    "e": 8.12
+   },
+   {
+    "w": "C",
+    "s": 8.2,
+    "e": 8.44
+   },
+   {
+    "w": "Imports.",
+    "s": 8.465,
+    "e": 9.24
+   },
+   {
+    "w": "The",
+    "s": 9.704,
+    "e": 9.88
+   },
+   {
+    "w": "shipment",
+    "s": 9.881,
+    "e": 10.28
+   },
+   {
+    "w": "has",
+    "s": 10.28,
+    "e": 10.44
+   },
+   {
+    "w": "arrived",
+    "s": 10.44,
+    "e": 10.84
+   },
+   {
+    "w": "on",
+    "s": 10.92,
+    "e": 11.08
+   },
+   {
+    "w": "flight",
+    "s": 11.08,
+    "e": 11.4
+   },
+   {
+    "w": "S",
+    "s": 11.473,
+    "e": 11.8
+   },
+   {
+    "w": "Q",
+    "s": 11.883,
+    "e": 12.36
+   },
+   {
+    "w": "one",
+    "s": 12.364,
+    "e": 12.76
+   },
+   {
+    "w": "two",
+    "s": 12.762,
+    "e": 13.08
+   },
+   {
+    "w": "three,",
+    "s": 13.166,
+    "e": 13.64
+   },
+   {
+    "w": "with",
+    "s": 13.806,
+    "e": 14.12
+   },
+   {
+    "w": "four",
+    "s": 14.12,
+    "e": 14.52
+   },
+   {
+    "w": "pieces",
+    "s": 14.601,
+    "e": 15
+   },
+   {
+    "w": "weighing",
+    "s": 15.001,
+    "e": 15.32
+   },
+   {
+    "w": "one",
+    "s": 15.401,
+    "e": 15.64
+   },
+   {
+    "w": "hundred",
+    "s": 15.64,
+    "e": 15.88
+   },
+   {
+    "w": "and",
+    "s": 15.96,
+    "e": 16.04
+   },
+   {
+    "w": "twenty",
+    "s": 16.04,
+    "e": 16.36
+   },
+   {
+    "w": "kilograms,",
+    "s": 16.362,
+    "e": 17.16
+   },
+   {
+    "w": "at",
+    "s": 17.395,
+    "e": 17.48
+   },
+   {
+    "w": "SATS",
+    "s": 17.481,
+    "e": 17.96
+   },
+   {
+    "w": "Import",
+    "s": 17.97,
+    "e": 18.44
+   },
+   {
+    "w": "Hall",
+    "s": 18.52,
+    "e": 18.76
+   },
+   {
+    "w": "two.",
+    "s": 18.761,
+    "e": 19.16
+   }
+  ]
+ },
+ "demo5": {
+  "who": "narrator",
+  "text": "The workflow records the call outcome and can escalate the conversation to a human when necessary, helping make shipment communication more consistent, traceable, and efficient.",
+  "show": "The workflow records the call outcome and can escalate the conversation to a human when necessary, helping make shipment communication more consistent, traceable, and efficient.",
+  "dur": 11.52,
+  "words": [
+   {
+    "w": "The",
+    "s": 0.174,
+    "e": 0.36
+   },
+   {
+    "w": "workflow",
+    "s": 0.441,
+    "e": 0.92
+   },
+   {
+    "w": "records",
+    "s": 0.921,
+    "e": 1.4
+   },
+   {
+    "w": "the",
+    "s": 1.48,
+    "e": 1.48
+   },
+   {
+    "w": "call",
+    "s": 1.48,
+    "e": 1.8
+   },
+   {
+    "w": "outcome",
+    "s": 1.802,
+    "e": 2.36
+   },
+   {
+    "w": "and",
+    "s": 2.362,
+    "e": 2.52
+   },
+   {
+    "w": "can",
+    "s": 2.52,
+    "e": 2.68
+   },
+   {
+    "w": "escalate",
+    "s": 2.696,
+    "e": 3.24
+   },
+   {
+    "w": "the",
+    "s": 3.32,
+    "e": 3.4
+   },
+   {
+    "w": "conversation",
+    "s": 3.401,
+    "e": 4.12
+   },
+   {
+    "w": "to",
+    "s": 4.2,
+    "e": 4.28
+   },
+   {
+    "w": "a",
+    "s": 4.36,
+    "e": 4.36
+   },
+   {
+    "w": "human",
+    "s": 4.361,
+    "e": 4.84
+   },
+   {
+    "w": "when",
+    "s": 4.84,
+    "e": 5
+   },
+   {
+    "w": "necessary,",
+    "s": 5.002,
+    "e": 5.8
+   },
+   {
+    "w": "helping",
+    "s": 6.232,
+    "e": 6.68
+   },
+   {
+    "w": "make",
+    "s": 6.68,
+    "e": 6.84
+   },
+   {
+    "w": "shipment",
+    "s": 6.844,
+    "e": 7.32
+   },
+   {
+    "w": "communication",
+    "s": 7.322,
+    "e": 8.12
+   },
+   {
+    "w": "more",
+    "s": 8.2,
+    "e": 8.36
+   },
+   {
+    "w": "consistent,",
+    "s": 8.362,
+    "e": 9.16
+   },
+   {
+    "w": "traceable,",
+    "s": 9.395,
+    "e": 10.2
+   },
+   {
+    "w": "and",
+    "s": 10.419,
+    "e": 10.76
+   },
+   {
+    "w": "efficient.",
+    "s": 10.762,
+    "e": 11.4
+   }
+  ]
+ }
+}

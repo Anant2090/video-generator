@@ -1,0 +1,102 @@
+{
+ "fps": 30,
+ "total": 42.0,
+ "frames": 1260,
+ "lines": [
+  {
+   "id": "g1",
+   "who": "guest",
+   "text": "Hi VEE, how can you help me?",
+   "at": 0.35,
+   "dur": 1.84
+  },
+  {
+   "id": "v1",
+   "who": "vee",
+   "text": "I can help with restaurants, local deals, and room service. What are you looking for?",
+   "at": 2.39,
+   "dur": 5.12
+  },
+  {
+   "id": "g2",
+   "who": "guest",
+   "text": "I want dinner tonight. What do you recommend?",
+   "at": 7.71,
+   "dur": 2.72
+  },
+  {
+   "id": "v2",
+   "who": "vee",
+   "text": "Tap Local Coupons. Nearby restaurants and offers are right there.",
+   "at": 10.63,
+   "dur": 4.24
+  },
+  {
+   "id": "g3",
+   "who": "guest",
+   "text": "Great, let's check it out.",
+   "at": 15.77,
+   "dur": 1.36
+  },
+  {
+   "id": "v3",
+   "who": "vee",
+   "text": "Here are some nearby favorites. Pick a place for tonight.",
+   "at": 17.33,
+   "dur": 3.12
+  },
+  {
+   "id": "g4",
+   "who": "guest",
+   "text": "This looks great. Can you reserve a table?",
+   "at": 20.65,
+   "dur": 2.96
+  },
+  {
+   "id": "v4",
+   "who": "vee",
+   "text": "What time, and for how many?",
+   "at": 23.81,
+   "dur": 1.84
+  },
+  {
+   "id": "g5",
+   "who": "guest",
+   "text": "Seven thirty tonight, for two.",
+   "at": 25.85,
+   "dur": 2.24
+  },
+  {
+   "id": "v5",
+   "who": "vee",
+   "text": "Your request is with the hotel team. Want a text when it is confirmed?",
+   "at": 28.99,
+   "dur": 3.84
+  },
+  {
+   "id": "g6",
+   "who": "guest",
+   "text": "Yes, please.",
+   "at": 33.03,
+   "dur": 1.28
+  },
+  {
+   "id": "v7",
+   "who": "vee",
+   "text": "We'll text you when it's confirmed.",
+   "at": 34.51,
+   "dur": 2.0
+  }
+ ],
+ "marks": {
+  "tapCoupons": 15.02,
+  "couponsIn": 15.42,
+  "scroll": 17.63,
+  "gardenIn": 20.7,
+  "photos": 22.0,
+  "tapReserve": 28.29,
+  "banner": 28.84,
+  "smsIn": 32.88,
+  "end": 36.96
+ }
+}

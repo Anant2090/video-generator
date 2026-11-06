@@ -8,6 +8,10 @@
     "scrolls": "python scripts/scrolls.py",
     "dev": "remotion studio",
     "render": "remotion render Main out/render.mp4 --crf=16 --concurrency=8 --gl=angle",
+    "render:pjfm": "remotion render PjfmChat out/pjfm-chat-mg.mp4 --crf=16 --concurrency=8 --gl=angle --muted --port=3128",
+    "render:pjfm-outbound": "remotion render PjfmOutbound out/pjfm-outbound.mp4 --crf=16 --concurrency=8 --gl=angle --port=3130",
+    "render:pjfm-inbound": "remotion render PjfmInbound out/pjfm-inbound.mp4 --crf=16 --concurrency=8 --gl=angle --port=3133",
+    "render:pjfm-full": "remotion render PjfmFull out/pjfm-full.mp4 --crf=16 --concurrency=8 --gl=angle --port=3134",
     "finalize": "python scripts/finalize.py"
   },
   "dependencies": {
